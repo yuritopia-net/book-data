@@ -1,0 +1,105 @@
+type: list
+schema:
+  type: dict
+  schema:
+    id:
+      type: string
+      required: true
+      regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
+    title: 
+      type: dict
+      schema:
+        name:
+          type: string
+          required: true
+        kana:
+          type: string
+          required: true
+    creator:
+      type: list
+      schema:
+        type: dict
+        schema:
+          id:
+            type: string
+            required: true
+            regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
+          name:
+            type: string
+            required: true
+          type:
+            type: string
+            required: true
+    identifier:
+      type: list
+      schema:
+        type: dict
+        schema:
+          domain:
+            type: string
+            required: true
+          id:
+            type: string
+            required: true
+    publish:
+      type: dict
+      schema:
+        volume:
+          type: integer
+        publisher:
+          type: string
+        issued:
+          type: string
+          regex: \d{4}(-\d{2})?(-\d{2})?
+        page:
+          type: integer
+    price:
+      type: list
+      schema:
+        type: dict
+        schema:
+          n:
+            type: integer
+          country:
+            type: string
+            required: true
+          source:
+            type: string
+            required: true
+          last_visit:
+            type: string
+            regex: \d{4}-\d{2}-\d{2}
+    toc:
+      type: list
+      schema:
+        type: string
+    links:
+      type: list
+      schema:
+        type: dict
+        schema:
+          title:
+            type: string
+            required: true
+          url:
+            type: string
+            required: true
+          type:
+            type: string
+            required: true
+          last_visit:
+            type: string
+            regex: \d{4}(-\d{2})?(-\d{2})?
+            required: true
+    last_update:
+      type: string
+      regex: \d{4}-\d{2}-\d{2}
+      required: true
+    prev:
+      type: string
+      required: false
+      regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
+    next:
+      type: string
+      required: false
+      regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$

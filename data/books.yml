@@ -1,0 +1,327 @@
+- id: ba3a0090-f612-4c25-8539-648443626610
+  title:
+    name: 安達としまむら
+    kana: あだちとしまむら
+  creator:
+    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+      name: 入間人間
+      type: author
+    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+      name: のん
+      type: illust
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000002-I024279376-00
+    - domain: isbn
+      id: "9784048914215"
+  publish:
+    volume: 1
+    publisher: 電撃文庫
+    issued: "2013-03"
+    page: 242
+  price:
+    - n: 530
+      country: jp
+      source: iss.ndl.go.jp
+      last_visit: "2017-04-21"
+  links:
+    - title: オススメ作品/小説 - 百合作品まとめ Wiki*
+      url: http://wikiwiki.jp/lilylibrary/?%A5%AA%A5%B9%A5%B9%A5%E1%BA%EE%C9%CA%2F%BE%AE%C0%E2
+      type: abstract
+      last_visit: "2017-04-21"
+    - title: ニヤニヤが止まらない！超おすすめ’’百合’’ラノベ7選 - 300books
+      url: http://300books.net/post-1204/
+      type: abstract
+      last_visit: "2017-04-21"
+  last_update: "2017-04-21"
+  next: fed6b913-ba60-4ef1-a4cf-9934073ff680
+
+- id: fed6b913-ba60-4ef1-a4cf-9934073ff680
+  title: 
+    name: 安達としまむら 2
+    kana: あだちとしまむら 2
+  creator:
+    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+      name: 入間人間
+      type: author
+    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+      name: のん
+      type: illust
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000002-I024787576-00
+    - domain: isbn
+      id: "9784048919609"
+  publish:
+    volume: 2
+    publisher: 電撃文庫
+    issued: "2013-09"
+    page: 239
+  price:
+    - n: 550
+      country: jp
+      source: iss.ndl.go.jp
+      last_visit: "2017-04-21"
+  toc:
+    - しまむらジムへ行く
+    - アダチズQ
+    - ストレンジ☆アダチ
+    - 安達思考中クリスマス進行中
+    - しまむら思考中クリスマス進行中
+    - ホワイト・アルバム
+    - 満点のふともも
+    - 真剣なおっぱい
+  last_update: "2017-04-21"
+  prev: ba3a0090-f612-4c25-8539-648443626610
+  next: a91b8011-0177-404b-85b4-9f3b28e34a9b
+
+- id: a91b8011-0177-404b-85b4-9f3b28e34a9b
+  title: 
+    name: 安達としまむら 3
+    kana: あだちとしまむら 3
+  creator:
+    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+      name: 入間人間
+      type: author
+    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+      name: のん
+      type: illust
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000002-I025608108-00
+    - domain: isbn
+      id: "9784048667777"
+  publish:
+    volume: 2
+    publisher: 電撃文庫
+    issued: "2014-08"
+    page: 227
+  price:
+    - n: 550
+      country: jp
+      source: iss.ndl.go.jp
+      last_visit: "2017-04-21"
+  last_update: "2017-04-21"
+  prev: fed6b913-ba60-4ef1-a4cf-9934073ff680
+  next: 67a53f6a-1b83-4077-9312-6a1c1da261f4
+
+- id: 67a53f6a-1b83-4077-9312-6a1c1da261f4
+  title:
+    name: 安達としまむら 4
+    kana: あだちとしまむら 4
+  creator:
+    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+      name: 入間人間
+      type: author
+    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+      name: のん
+      type: illust
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000002-I026334008-00
+    - domain: isbn
+      id: "9784048651158"
+  publish:
+    issued: 2015-05
+    page: 241
+    publisher: 電撃文庫
+    volume: 4
+  price:
+    - n: 550
+      country: jp
+      last_visit: "2017-04-22"
+      source: iss.ndl.go.jp
+  last_update: "2017-04-22"
+  prev: a91b8011-0177-404b-85b4-9f3b28e34a9b
+  next: 5c978fdf-8753-4f51-98e0-797150a928ba
+
+- id: 5c978fdf-8753-4f51-98e0-797150a928ba
+  title:
+    name: 安達としまむら 5
+    kana: あだちとしまむら 5
+  creator:
+    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+      name: 入間人間
+      type: author
+    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+      name: のん
+      type: illust
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000002-I026816866-00
+    - domain: isbn
+      id: "9784048655057"
+  last_update: "2017-04-22"
+  price:
+    - n: 550
+      country: jp
+      last_visit: "2017-04-22"
+      source: iss.ndl.go.jp
+  publish:
+    issued: "2015-11"
+    page: 233
+    publisher: 電撃文庫
+    volume: 5
+  prev: 67a53f6a-1b83-4077-9312-6a1c1da261f4
+  next: b1685ea2-0a29-45aa-b836-5f0d4691d29e
+
+- id: b1685ea2-0a29-45aa-b836-5f0d4691d29e
+  title:
+    name: 安達としまむら 6
+    kana: あだちとしまむら 6
+  creator:
+    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+      name: 入間人間
+      type: author
+    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+      name: のん
+      type: illust
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000002-I027251221-00
+    - domain: isbn
+      id: "9784048659468"
+  price:
+    - country: jp
+      last_visit: "2017-04-22"
+      n: 550
+      source: iss.ndl.go.jp
+  publish:
+    issued: "2016-05"
+    page: 223
+    publisher: 電撃文庫
+    volume: 6
+  last_update: "2017-04-22"
+  prev: 5c978fdf-8753-4f51-98e0-797150a928ba
+  next: 25338ab8-5a4f-4009-bb39-34006d939b3a
+
+- id: 25338ab8-5a4f-4009-bb39-34006d939b3a
+  title:
+    name: 安達としまむら 7
+    kana: あだちとしまむら 7
+  creator:
+    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+      name: 入間人間
+      type: author
+    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+      name: のん
+      type: illust
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000001-I072049100-00
+    - domain: isbn
+      id: "9784048925174"
+  price:
+    - country: jp
+      last_visit: "2017-04-22"
+      n: 550
+      source: iss.ndl.go.jp
+  publish:
+    issued: "2016-11"
+    page: 206
+    publisher: 電撃文庫
+    volume: 7
+  last_update: "2017-04-22"
+  prev: b1685ea2-0a29-45aa-b836-5f0d4691d29e
+
+- id: 83fafce4-874a-4806-8094-ebbec7953907
+  title:
+    name: "乙女は花に恋をする : 私立カトレア学園"
+    kana: "おとめははなにこいをする : しりつかとれあがくえん"
+  creator:
+    - id: 85159a57-6cef-40e2-b977-3e7428de56a0
+      name: 沢城利穂
+      type: author
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000002-I000010616235-00
+    - domain: isbn
+      id: "9784758040723"
+  price:
+    - country: jp
+      last_visit: "2017-04-22"
+      n: 590
+      source: iss.ndl.go.jp
+  publish:
+    issued: "2009-05"
+    page: 270
+    publisher: 一迅社文庫アイリス
+  links:
+    - title: オススメ作品/小説 - 百合作品まとめ Wiki*
+      url: http://wikiwiki.jp/lilylibrary/?%A5%AA%A5%B9%A5%B9%A5%E1%BA%EE%C9%CA%2F%BE%AE%C0%E2
+      type: abstract
+      last_visit: "2017-04-21"
+    - title: ニヤニヤが止まらない！超おすすめ’’百合’’ラノベ7選 - 300books
+      url: http://300books.net/post-1204/
+      type: abstract
+      last_visit: "2017-04-21"
+  last_update: "2017-04-22"
+
+- id: b5d221e5-7c22-449c-a3db-c1d7bab2a233
+  title:
+    name: "バニラ : a sweet partner"
+    kana: "ばにら : あすいーとぱーとなー"
+  creator:
+    - id: cbd0a76b-90e2-4089-8e16-9e8efd4a77bb
+      name: アサウラ
+      type: author
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000002-I000008527222-00
+    - domain: isbn
+      id: "9784086303545"
+  price:
+    - country: jp
+      last_visit: "2017-04-22"
+      n: 667
+      source: iss.ndl.go.jp
+  publish:
+    issued: "2007-04"
+    page: 351
+    publisher: 集英社スーパーダッシュ文庫
+  links:
+    - title: オススメ作品/小説 - 百合作品まとめ Wiki*
+      url: http://wikiwiki.jp/lilylibrary/?%A5%AA%A5%B9%A5%B9%A5%E1%BA%EE%C9%CA%2F%BE%AE%C0%E2
+      type: abstract
+      last_visit: "2017-04-21"
+    - title: ニヤニヤが止まらない！超おすすめ’’百合’’ラノベ7選 - 300books
+      url: http://300books.net/post-1204/
+      type: abstract
+      last_visit: "2017-04-21"
+  last_update: "2017-04-22"
+
+- id: b2c89544-a5a6-4354-828c-394a15be3587
+  title:
+    name: "人形遣い = Puppet Master"
+    kana: "にんぎょうづかい = ぱぺっとますたー"
+  creator:
+    - id: 63c18584-ba17-4529-86e3-595257d14b54
+      name: 賽目和七
+      type: author
+  identifier:
+    - domain: iss.ndl.go.jp
+      id: R100000002-I024649065-00
+    - domain: isbn
+      id: "9784094514292"
+  price:
+    - country: jp
+      last_visit: "2017-04-22"
+      n: 590
+      source: iss.ndl.go.jp
+  publish:
+    issued: "2013-07"
+    page: 293
+    publisher: ガガガ文庫
+  links:
+    - title: オススメ作品/小説 - 百合作品まとめ Wiki*
+      url: http://wikiwiki.jp/lilylibrary/?%A5%AA%A5%B9%A5%B9%A5%E1%BA%EE%C9%CA%2F%BE%AE%C0%E2
+      type: abstract
+      last_visit: "2017-04-21"
+    - title: ニヤニヤが止まらない！超おすすめ’’百合’’ラノベ7選 - 300books
+      url: http://300books.net/post-1204/
+      type: abstract
+      last_visit: "2017-04-21"
+  last_update: "2017-04-22"
+
+
+

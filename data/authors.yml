@@ -1,0 +1,101 @@
+- id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+  name:
+    - text: 入間人間
+      kana: いるまひとま
+      type: full
+    - text: 入間
+      kana: いるま
+      type: last
+    - text: 人間
+      kana: ひとま
+      type: first
+  links:
+    - url: http://irumahitoma.jp/
+      title: 入間人間公式サイト(入間の間）
+      state: active
+      last_visit: "2017-04-21"
+    - url: https://ja.wikipedia.org/wiki/%E5%85%A5%E9%96%93%E4%BA%BA%E9%96%93
+      title: 入間人間 - Wikipedia
+      state: active
+      last_visit: "2017-04-21"
+
+- id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+  name:
+    - text: のん
+      kana: のん
+      type: full
+  links:
+    - url: http://yuuu.chu.jp/index.html
+      title: "hey you!"
+      state: active
+      last_visit: "2017-04-21"
+    - url: https://twitter.com/noz612
+      title: のん(@noz612)さん | Twitter
+      state: active
+      last_visit: "2017-04-21"
+    - url: https://ja.wikipedia.org/wiki/%E3%81%AE%E3%82%93_(%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC)
+      title: のん (イラストレーター) - Wikipedia
+      state: active
+      last_visit: "2017-04-21"
+
+- id: 85159a57-6cef-40e2-b977-3e7428de56a0
+  name:
+    - text: 沢城利穂
+      kana: さわきりほ
+      type: full
+    - text: 沢城
+      kana: さわき
+      type: last
+    - text: 利穂
+      kana: りほ
+      type: first
+  links:
+    - url: https://twitter.com/sawaki_riho
+      title: 沢城利穂(@sawaki_riho)さん | Twitter
+      state: active
+      last_visit: "2017-04-22"
+    - url: https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%9F%8E%E5%88%A9%E7%A9%82
+      title: 沢城利穂 - Wikipedia
+      state: active
+      last_visit: "2017-04-22"
+    - url: http://www.b-talker.rash.jp/
+      title: ""
+      state: died
+      last_visit: "2017-04-22"
+
+- id: cbd0a76b-90e2-4089-8e16-9e8efd4a77bb
+  name:
+    - text: アサウラ
+      kana: あさうら
+      type: full
+  links:
+    - url: http://9x19.blog119.fc2.com/
+      title: アサウラの生存観察室
+      state: active
+      last_visit: "2017-04-22"
+    - url: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%82%A6%E3%83%A9
+      title: アサウラ - Wikipedia
+      state: active
+      last_visit: "2017-04-22"
+    - url: https://twitter.com/asaura_seizon
+      title: アサウラ(@asaura_seizon)さん | Twitter
+      state: active
+      last_visit: "2017-04-22"
+
+- id: 63c18584-ba17-4529-86e3-595257d14b54
+  name:
+    - text: 賽目和七
+      kana: さいめわしち
+      type: full
+    - text: 賽目
+      kana: さいめ
+      type: last
+    - text: 和七
+      kana: わしち
+      type: first
+  links:
+    - url: https://twitter.com/saimewashiti
+      title: 賽目和七(@saimewashiti)さん | Twitter
+      state: active
+      last_visit: "2017-04-22"
+
