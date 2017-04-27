@@ -323,5 +323,347 @@
       last_visit: "2017-04-21"
   last_update: "2017-04-22"
 
+- id: 15fdf8b4-e6b9-4437-b9cc-f63975c478ee
+  title:
+    name: 鹿乃江さんの左手
+    kana: かのえさんのひだりて
+  creator:
+  - id: de8b2e75-c59a-46cd-a9af-ea5eb6a06cf3
+    name: 青谷真未
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I024850438-00
+  - domain: isbn
+    id: "9784591136225"
+  publish:
+    issued: "2013-10"
+    page: 327
+    publisher: ポプラ文庫
+  price:
+  - country: jp
+    last_visit: "2017-04-27"
+    n: 640
+    source: iss.ndl.go.jp
+  last_update: "2017-04-27"
+
+- id: a82a3458-850e-4e7b-9a7d-44d55b3cb8f3
+  title:
+    name: "君が僕を : どうして空は青いの?"
+    kana: "きみがぼくを : どうしてそらはあおいの?"
+  creator:
+  - id: 9f0ff51f-90c8-47e3-ab5b-facdda02bd1d
+    name: 中里十
+    "type": "author"
+  - "id": "de886c65-9a3c-4ba4-8e64-e263a4d2bdb2"
+    "name": "山田あこ"
+    "type": "illust"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010390324-00
+  - domain: isbn
+    id: "9784094511451"
+  publish:
+    issued: "2009-07"
+    page: 203
+    publisher: ガガガ文庫
+  price:
+  - country: jp
+    last_visit: "2017-04-27"
+    n: 571
+    source: iss.ndl.go.jp
+  last_update: "2017-04-27"
+
+- id: 364d517a-fd70-462e-abd8-6df7032c0333
+  title:
+    name: "君が僕を 2 : 私のどこが好き?"
+    kana: "きみがぼくを 2 : わたしのどこがすき?"
+  creator:
+  - id: 9f0ff51f-90c8-47e3-ab5b-facdda02bd1d
+    name: 中里十
+    "type": "author"
+  - "id": "de886c65-9a3c-4ba4-8e64-e263a4d2bdb2"
+    "name": "山田あこ"
+    "type": "illust"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010619773-00
+  - domain: isbn
+    id: "9784094511703"
+  publish:
+    issued: 2009-11
+    page: 226
+    publisher: ガガガ文庫
+    volume: 2
+  price:
+  - country: jp
+    last_visit: "2017-04-27"
+    n: 571
+    source: iss.ndl.go.jp
+  last_update: "2017-04-27"
+
+- "id": "b64afd61-5b5f-4f8e-b8c0-454a501a7dbb"
+  "title":
+    "name": "君が僕を 3 : こんなもの誰が買うの?"
+    "kana": "きみがぼくを : こんなものだれがかうの?"
+  "creator":
+  - "id": "9f0ff51f-90c8-47e3-ab5b-facdda02bd1d"
+    "name": "中里十"
+    "type": "author"
+  - "id": "de886c65-9a3c-4ba4-8e64-e263a4d2bdb2"
+    "name": "山田あこ"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010816280-00"
+  - "domain": "isbn"
+    "id": "9784094511956"
+  "publish":
+    "issued": "2010-03"
+    "page": 203
+    "publisher": "ガガガ文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-27"
+
+- "id": "ea8ad41b-ad59-4a84-b535-48b25af297c8"
+  "title":
+    "name": "君が僕を 4 : 将来なにになりたい?"
+    "kana": "きみがぼくを 4 : しょうらいなにになりたい?"
+  "creator":
+  - "id": "9f0ff51f-90c8-47e3-ab5b-facdda02bd1d"
+    "name": "中里十"
+    "type": "author"
+  - "id": "de886c65-9a3c-4ba4-8e64-e263a4d2bdb2"
+    "name": "山田あこ"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010961213-00"
+  - "domain": "isbn"
+    "id": "9784094512212"
+  "publish":
+    "issued": "2010-08"
+    "page": 245
+    "publisher": "ガガガ文庫"
+    "volume": 4
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-27"
+
+- "id": "a507967b-ee84-49c1-999d-674a64b714fe"
+  "title":
+    "name": "どろぼうの名人"
+    "kana": "どろぼうのめいじん"
+  "creator":
+  - "id": "9f0ff51f-90c8-47e3-ab5b-facdda02bd1d"
+    "name": "中里十"
+    "type": "author"
+  - "id": "cc0aa770-0a76-40b1-86bd-23e2d93d038b"
+    "name": "しめ子"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009719338-00"
+  - "domain": "isbn"
+    "id": "9784094510973"
+  "publish":
+    "issued": "2008-10"
+    "page": 286
+    "publisher": "ガガガ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 590
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-27"
+
+- "id": "38b72f7b-240d-403a-8470-56fce8943649"
+  "title":
+    "name": "いたいけな主人 : どろぼうの名人サイドストーリー"
+    "kana": "いたいけなしゅじん : どろぼうのめいじんさいどすとーりー"
+  "creator":
+  - "id": "9f0ff51f-90c8-47e3-ab5b-facdda02bd1d"
+    "name": "中里十"
+    "type": "author"
+  - "id": "cc0aa770-0a76-40b1-86bd-23e2d93d038b"
+    "name": "しめ子"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010065951-00"
+  - "domain": "isbn"
+    "id": "9784094511277"
+  "publish":
+    "issued": "2009-03"
+    "page": 422
+    "publisher": "ガガガ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 667
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-27"
+
+- "id": "315535ce-7a19-4561-9af0-2f6b53550e05"
+  "title":
+    "name": "紅茶ボタン"
+    "kana": "こうちゃぼたん"
+  "creator":
+  - "id": "25b1ab5f-d887-4554-9835-90be651db24f"
+    "name": "中里一"
+    type: author
+  - "id": "de886c65-9a3c-4ba4-8e64-e263a4d2bdb2"
+    "name": "山田あこ"
+    "type": "illust"
+  "identifier":
+  - "domain": "amazon.co.jp"
+    "id": "B00B12GK5A"
+  "publish":
+    "issued": "2013-01-14"
+    "page": 134
+    "publisher": "西在家香織派"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 700
+    "source": "amazon.co.jp"
+  "last_update": "2017-04-27"
+
+- "id": "964ef0c6-2678-4b5c-8848-9ad19c944078"
+  "title":
+    "name": "完全人型"
+    "kana": "かんぜんひとがた"
+  "creator":
+  - "id": "25b1ab5f-d887-4554-9835-90be651db24f"
+    "name": "中里一"
+    "type": "author"
+  - "id": "de886c65-9a3c-4ba4-8e64-e263a4d2bdb2"
+    "name": "山田あこ"
+    "type": "illust"
+  "identifier":
+  - "domain": "amazon.co.jp"
+    "id": "B01KM832MW"
+  "publish":
+    "issued": "2016-08-17"
+    "page": 156
+    "publisher": "西在家香織派"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 785
+    "source": "amazon.co.jp"
+  "last_update": "2017-04-27"
+
+- "id": "90bbc100-8c2c-4b75-9d51-5dcb226aee59"
+  "title":
+    "name": "食前酒・告白 百合小説掌編集"
+    "kana": "しょくぜんしゅ・こくはく ゆりしょうせつしょうへんしゅう"
+  "creator":
+  - "id": "25b1ab5f-d887-4554-9835-90be651db24f"
+    "name": "中里一"
+    "type": "author"
+  - "id": "de886c65-9a3c-4ba4-8e64-e263a4d2bdb2"
+    "name": "山田あこ"
+    "type": "illust"
+  "identifier":
+  - "domain": "amazon.co.jp"
+    "id": "B00B5JPY7Y"
+  "publish":
+    "issued": "2013-01-23"
+    "page": 14
+    "publisher": "西在家香織派"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 99
+    "source": "amazon.co.jp"
+  "last_update": "2017-04-27"
+
+- "id": "476fb041-5814-483a-a114-4a7a67dc2642"
+  "title":
+    "name": "四人制姉妹百合物帳"
+    "kana": "よにんせいしまいゆりものちょう"
+  "creator":
+  - "id": "86f993b6-ebc4-4177-8002-35fb245b6985"
+    "name": "石川博品"
+    "type": author
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025941652-00"
+  - "domain": "isbn"
+    "id": "9784061389786"
+  "publish":
+    "issued": "2014-12"
+    "page": 313
+    "publisher": "星海社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 840
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-27"
+
+- "id": "442e1e3c-ad4b-4f5f-bfea-163ea62dd167"
+  "title":
+    "name": "少女妄想中。"
+    "kana": "しょうじょもうそうちゅう"
+  "creator":
+  - "id": "eceb3563-23ab-4f84-93a5-4ae86ebb8cd4"
+    "name": "入間人間"
+    "type": "author"
+  - "id": "3f97183d-f3c9-4b03-b25a-cf5de0458cc7"
+    "name": "仲谷鳰"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027976173-00"
+  - "domain": "isbn"
+    "id": "9784048927574"
+  "publish":
+    "issued": "2017-02"
+    "page": 299
+    "publisher": "メディアワークス文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 610
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-27"
+
+- "id": "c1f72e87-c1ed-45e0-a9a4-857e818a2bd5"
+  "title":
+    "name": "騎士の私と悪魔の取引 : 百合の口付け"
+    "kana": "きしのわたしとあくまのとりひき : ゆりのくちづけ"
+  "creator":
+  - "id": "95582bee-3b20-4530-8d30-170dbd894a13"
+    "name": "上田ながの"
+    "type": "author"
+  - "id": "421ad820-42a6-4276-8b1e-0f9c2a76a8dc"
+    "name": "瀬奈茅冬"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I028038986-00"
+  - "domain": "isbn"
+    "id": "9784799209615"
+  "publish":
+    "issued": "2017-04"
+    "page": 254
+    "publisher": "二次元ドリーム文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-27"
+    "n": 668
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-27"
+
 
 

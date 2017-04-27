@@ -20,6 +20,7 @@ schema:
             regex: (full|last|first)
     links:
       type: list
+      required: false
       schema:
         type: dict
         schema:
