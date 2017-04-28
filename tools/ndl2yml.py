@@ -44,6 +44,12 @@ def normalize_space(text):
 def normalize(text):
     return normalize_space(kata2hira(text))
 
+def try_int_cast(x):
+    try:
+        return int(x)
+    except:
+        return x
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -82,6 +88,7 @@ def main():
             ("id", "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"),
             ("name", creator["name"]),
             ("kana", normalize(creator["transcription"])),
+            ("type", "author"),
         ]))
     temp["identifier"] = [
         {
@@ -95,17 +102,17 @@ def main():
     ]
     temp["publish"] = {}
     if "volume" in data:
-        temp["publish"]["volume"] = data["volume"][0]
+        temp["publish"]["volume"] = try_int_cast(data["volume"][0])
     if "seriesTitle" in data:
         temp["publish"]["publisher"] = data["seriesTitle"][0]["value"].split(";")[0].strip()
     if "date" in data:
         temp["publish"]["issued"] = data["date"][0].replace(".", "-")
     if "extent" in data:
-        temp["publish"]["page"] = data["extent"][0].split("p")[0].strip()
+        temp["publish"]["page"] = try_int_cast(data["extent"][0].split("p")[0].strip())
     if "price" in data:
         temp["price"] = [
             {
-                "n": data["price"],
+                "n": try_int_cast(data["price"].replace("円", "")),
                 "country": "jp",
                 "last_visit": now.strftime("%Y-%m-%d"),
                 "source": "iss.ndl.go.jp",
@@ -113,7 +120,7 @@ def main():
         ]
     temp["last_update"] = now.strftime("%Y-%m-%d")
 
-    print(yaml.dump([temp], allow_unicode=True, default_flow_style=False, indent=1, default_style='"'))
+    print(yaml.dump([temp], allow_unicode=True, default_flow_style=False, indent=1))
 
     return 0
 
