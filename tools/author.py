@@ -52,6 +52,23 @@ def force_decode(text):
             continue
     return None
 
+def ndl2name(text, kana):
+    texts = list(map(lambda x: x.strip(), text.split(",")))
+    kanas = list(map(lambda x: x.strip(), kana.split(",")))
+    return [{
+        "type": "full",
+        "text": "".join(texts[:2]),
+        "kana": "".join(kanas[:2]),
+    }, {
+        "type": "last",
+        "text": texts[0],
+        "kana": kanas[0],
+    }, {
+        "type": "first",
+        "text": texts[1],
+        "kana": kanas[1] if len(kanas) > 1 else "",
+    }]
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -66,11 +83,14 @@ def main():
     ])
 
     while True:
-        type = input("full,first,last >")
+        type = input("full,first,last,ndl >")
         if type == "q":
             break
         text = input("name >")
         kana = input("kana >")
+        if type == "ndl":
+            author["name"] += ndl2name(text, kana)
+            continue
         author["name"].append({
             "type": type,
             "text": text,

@@ -13,6 +13,8 @@ import uuid
 import requests
 import yaml
 
+from author import ndl2name
+
 
 # http://stackoverflow.com/questions/16782112/can-pyyaml-dump-dict-items-in-non-alphabetical-order
 def represent_ordereddict(dumper, data):
@@ -51,9 +53,20 @@ def try_int_cast(x):
         return x
 
 
+def ndldate2date(text):
+    m = re.match(r"(\d{4})\.(\d+)(?:\.(\d+))?", text)
+    if not m:
+        return text
+    text = "{}-{:02d}".format(m.group(1), int(m.group(2)))
+    if m.group(3):
+        text += "-{:02d}".format(int(m.group(3)))
+    return text
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("id")
+    parser.add_argument("--disable-author", action="store_true")
 
     args = parser.parse_args()
 
@@ -106,7 +119,7 @@ def main():
     if "seriesTitle" in data:
         temp["publish"]["publisher"] = data["seriesTitle"][0]["value"].split(";")[0].strip()
     if "date" in data:
-        temp["publish"]["issued"] = data["date"][0].replace(".", "-")
+        temp["publish"]["issued"] = ndldate2date(data["date"][0])
     if "extent" in data:
         temp["publish"]["page"] = try_int_cast(data["extent"][0].split("p")[0].strip())
     if "price" in data:
@@ -121,6 +134,28 @@ def main():
     temp["last_update"] = now.strftime("%Y-%m-%d")
 
     print(yaml.dump([temp], allow_unicode=True, default_flow_style=False, indent=1))
+
+    if not args.disable_author:
+        authors = []
+        creators = []
+        for author in temp["creator"]:
+            id = str(uuid.uuid4())
+            names = ndl2name(author["name"], author["kana"])
+            authors.append(OrderedDict([
+                ("id", id),
+                ("name", names),
+                ("links", []),
+            ]))
+            creators.append({
+                "id": id,
+                "name": names[0]["text"],
+                "type": "author",
+            })
+        print("")
+        print("="*80)
+        print(yaml.dump(authors, allow_unicode=True, default_flow_style=False, indent=1))
+        print("-"*80)
+        print(yaml.dump([{"creator": creators}], allow_unicode=True, default_flow_style=False, indent=1))
 
     return 0
 
