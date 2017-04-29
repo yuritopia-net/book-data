@@ -87,7 +87,7 @@ def main():
         temp["creator"].append(OrderedDict([
             ("id", "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"),
             ("name", creator["name"]),
-            ("kana", normalize(creator["transcription"])),
+            ("kana", normalize(creator.get("transcription", ""))),
             ("type", "author"),
         ]))
     temp["identifier"] = [
@@ -97,7 +97,7 @@ def main():
         },
         {
             "domain": "isbn",
-            "id": data["identifier"]["ISBN"][0].replace("-", "")
+            "id": data["identifier"].get("ISBN", [""])[0].replace("-", "")
         }
     ]
     temp["publish"] = {}

@@ -1203,5 +1203,1599 @@
     "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
+- "id": "01c1b3cd-4269-4c49-99db-d464d08c5634"
+  "title":
+    "name": "あまいゆびさき"
+    "kana": "あまいゆびさき"
+  "creator":
+  - "id": "fb1476c0-fd5a-4803-8702-1afc2e8a87aa"
+    "name": "宮木あや子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027620428-00"
+  - "domain": "isbn"
+    "id": "9784150312497"
+  "publish":
+    "issued": "2016-10"
+    "page": 270
+    "publisher": "ハヤカワ文庫 JA"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
 
+- "id": "94fd557c-9e24-4cc6-892c-e78fa067353f"
+  "title":
+    "name": "荊の城 上"
+    "kana": "いばらのしろ"
+  "creator":
+  - "id": "4d15ce64-dbde-4e0f-b407-6963ba16f341"
+    "name": "サラ・ウォーターズ"
+    "type": "author"
+  - "id": "ae3a0622-4a92-48c3-a9ae-c4e34586b56d"
+    "name": "中村有希"
+    "type": "translator"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007341211-00"
+  - "domain": "isbn"
+    "id": "4488254039"
+  "publish":
+    "issued": "2004-04"
+    "page": 434
+    "publisher": "創元推理文庫"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 940
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "98354338-923e-4290-98b0-b8192483adcf"
+  "title":
+    "name": "荊の城 下"
+    "kana": "いばらのしろ"
+  "creator":
+  - "id": "4d15ce64-dbde-4e0f-b407-6963ba16f341"
+    "name": "サラ・ウォーターズ"
+    "type": "author"
+  - "id": "ae3a0622-4a92-48c3-a9ae-c4e34586b56d"
+    "name": "中村有希"
+    "type": "translator"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007341213-00"
+  - "domain": "isbn"
+    "id": "4488254047"
+  "publish":
+    "issued": "2004-04"
+    "page": 420
+    "publisher": "創元推理文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 940
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "a291850d-7c70-4bd0-9fbd-87c3e141bae9"
+  "title":
+    "name": "乙女の港"
+    "kana": "おとめのみなと"
+  "creator":
+  - "id": "3e02dce3-c070-48df-be30-01628d224a5e"
+    "name": "川端康成"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010641342-00"
+  - "domain": "isbn"
+    "id": "9784408107769"
+  "publish":
+    "issued": "1938-04-01"
+    "publisher": "実業之日本社"
+    "page": 330
+  "last_update": "2017-04-28"
+
+- "id": "02a07f53-8f72-4796-b05c-66f496c75f22"
+  "title":
+    "name": "白い薔薇の淵まで"
+    "kana": "しろいばらのふちまで"
+  "creator":
+  - "id": "f2d1cd04-b7e1-47bf-8c68-6a313ed46fc3"
+    "name": "中山可穂"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000004262927-00"
+  - "domain": "isbn"
+    "id": "408747626X"
+  "publish":
+    "issued": "2003-10"
+    "page": 237
+    "publisher": "集英社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "f8de1d1a-0a17-4e7b-a23f-1a5bd918bc6d"
+  "title":
+    "name": "384,403km : あなたを月にさらったら"
+    "kana": "384,403km : あなたをつきにさらったら"
+  "creator":
+  - "id": "83b343f3-5e45-47c2-9c09-a25e6a34173e"
+    "name": "向坂氷緒"
+    "type": "author"
+  - "id": "5b1fd6b8-d80e-4a5e-95ee-957a10bffa66"
+    "name": "玄鉄絢"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010551270-00"
+  - "domain": "isbn"
+    "id": "9784829665152"
+  "publish":
+    "issued": "2009-09"
+    "page": 209
+    "publisher": "ティアラ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 495
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "d771e14f-0158-479a-8333-fa16af3b4f54"
+  "title":
+    "name": "刹那 : そのとき彼女が願ったこと : days of broken blood"
+    "kana": "せつな : そのときかのじょがねがったこと"
+  "creator":
+  - "id": "5c682ca7-0978-46b4-ada9-9a67b13baa45"
+    "name": "山下卓"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007568401-00"
+  - "domain": "isbn"
+    "id": "475772084X"
+  "publish":
+    "issued": "2004-12"
+    "page": 254
+    "publisher": "ファミ通文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "886a366d-cd28-42cd-8de8-15654f3868f0"
+  "title":
+    "name": "蒼穹のカルマ 1"
+    "kana": "そうきゅうのかるま 1"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "22e7e6db-c0ac-4dfd-aaff-347053e98e26"
+    "name": "森沢晴行"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010013602-00"
+  - "domain": "isbn"
+    "id": "9784829133729"
+  "publish":
+    "issued": "2009-01"
+    "page": 286
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 580
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "ff26c1b3-3446-4aa6-958f-bed0e1902ae9"
+  "title":
+    "name": "蒼穹のカルマ 2"
+    "kana": "そうきゅうのかるま 2"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "22e7e6db-c0ac-4dfd-aaff-347053e98e26"
+    "name": "森沢晴行"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010120601-00"
+  - "domain": "isbn"
+    "id": "9784829133972"
+  "publish":
+    "issued": "2009-04"
+    "page": 316
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "f60a27aa-6853-4129-9d81-2064e9cddc55"
+  "title":
+    "name": "蒼穹のカルマ 3"
+    "kana": "そうきゅうのかるま 3"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "22e7e6db-c0ac-4dfd-aaff-347053e98e26"
+    "name": "森沢晴行"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010605403-00"
+  - "domain": "isbn"
+    "id": "9784829134474"
+  "publish":
+    "issued": "2009-10"
+    "page": 302
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "c712fead-baf4-403a-a918-f3defd45e795"
+  "title":
+    "name": "蒼穹のカルマ 4"
+    "kana": "そうきゅうのかるま 4"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "22e7e6db-c0ac-4dfd-aaff-347053e98e26"
+    "name": "森沢晴行"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010773904-00"
+  - "domain": "isbn"
+    "id": "9784829134948"
+  "publish":
+    "issued": "2010-02"
+    "page": 297
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 4
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "866b49e2-a7f6-47c2-8e97-e3ecb801109f"
+  "title":
+    "name": "蒼穹のカルマ 5"
+    "kana": "そうきゅうのかるま 5"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "22e7e6db-c0ac-4dfd-aaff-347053e98e26"
+    "name": "森沢晴行"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010918372-00"
+  - "domain": "isbn"
+    "id": "9784829135334"
+  "publish":
+    "issued": "2010-06"
+    "page": 297
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 5
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "ee05bd6e-82d2-455f-81fa-c6cd9cffb17b"
+  "title":
+    "name": "蒼穹のカルマ 6"
+    "kana": "そうきゅうのかるま 6"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "22e7e6db-c0ac-4dfd-aaff-347053e98e26"
+    "name": "森沢晴行"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011023469-00"
+  - "domain": "isbn"
+    "id": "9784829135761"
+  "publish":
+    "issued": "2010-10"
+    "page": 296
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 6
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "1aea24d5-003a-4aa4-82ec-22f5d1526703"
+  "title":
+    "name": "蒼穹のカルマ 7"
+    "kana": "そうきゅうのかるま 7"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "22e7e6db-c0ac-4dfd-aaff-347053e98e26"
+    "name": "森沢晴行"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011140482-00"
+  - "domain": "isbn"
+    "id": "9784829136140"
+  "publish":
+    "issued": "2011-02"
+    "page": 293
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 7
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "38c5b181-4652-4084-82ee-f4e2f32d876d"
+  "title":
+    "name": "蒼穹のカルマ 8"
+    "kana": "そうきゅうのかるま 8"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "22e7e6db-c0ac-4dfd-aaff-347053e98e26"
+    "name": "森沢晴行"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I023383250-00"
+  - "domain": "isbn"
+    "id": "9784829137321"
+  "publish":
+    "issued": "2012-02"
+    "page": 326
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 8
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "a98322f3-b380-4293-a529-eca985c2bf93"
+  "title":
+    "name": "いつか世界を救うために : クオリディア・コード"
+    "kana": "いつかせかいをすくうために : くおりでぃあ・こーど"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "7d68d2b6-6b76-4be9-b2cb-b2238c6afa18"
+    "name": "はいむらきよたか"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026563660-00"
+  - "domain": "isbn"
+    "id": "9784040706115"
+  "publish":
+    "issued": "2015-07"
+    "page": 318
+    "publisher": "富士見ファンタジア文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "184382ab-9aa1-4e85-8629-7cc4a6062649"
+  "title":
+    "name": "いつか世界を救うために : クオリディア・コード 2"
+    "kana": "いつかせかいをすくうために : くおりでぃあ・こーど 2"
+  "creator":
+  - "id": "ea63f09b-7954-42c4-8c97-436ab60682d1"
+    "name": "橘公司"
+    "type": "author"
+  - "id": "7d68d2b6-6b76-4be9-b2cb-b2238c6afa18"
+    "name": "はいむらきよたか"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027011437-00"
+  - "domain": "isbn"
+    "id": "9784040706122"
+  "publish":
+    "issued": "2016-01"
+    "page": 313
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "7b82b989-fc53-4345-9350-f0ada536bfb6"
+  "title":
+    "name": "幽霊列車とこんぺい糖 : メモリー・オブ・リガヤ"
+    "kana": "ゆうれいれっしゃとこんぺいとう : めもりー・おぶ・りがや"
+  "creator":
+  - "id": "43ea3753-3299-4ba2-adf2-20c5a92ff45d"
+    "name": "木ノ歌詠"
+    "type": "author"
+  - "id": "1ee0a2be-f68c-4c17-bec6-34c267eb2ebf"
+    "name": "尾崎弘宜"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009135070-00"
+  - "domain": "isbn"
+    "id": "9784829164006"
+  "publish":
+    "issued": "2007-10"
+    "page": 250
+    "publisher": "富士見ミステリー文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 560
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "f50da188-6566-4a1b-8f95-28dfd1c3e822"
+  "title":
+    "name": "ウンター・デン・リンデンの薔薇 : 六道ヶ辻"
+    "kana": "うんたーでんりんでんのばら:りくどうがつじ"
+  "creator":
+  - "id": "9cb2638c-6a0d-409d-90e1-189cd73393cc"
+    "name": "栗本薫"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002877692-00"
+  - "domain": "isbn"
+    "id": "4041500591"
+  "publish":
+    "issued": "2000-03"
+    "page": 348
+    "publisher": "角川文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 590
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "2d036126-86cb-4844-975b-94b2e8ce2469"
+  "title":
+    "name": "ワイルドブーケ : 花の咲かないこの世界で"
+    "kana": "わいるどぶーけ : はなのさかないこのせかいで"
+  "creator":
+  - "id": "0174ad04-5bee-49fa-af46-55a6ea45c350"
+    "name": "駒尾真子"
+    "type": "author"
+  - "id": "6a1004ef-6473-4358-910b-9c7be592cc15"
+    "name": "甘塩コメコ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010014438-00"
+  - "domain": "isbn"
+    "id": "9784758040204"
+  "publish":
+    "issued": "2008-08"
+    "page": 254
+    "publisher": "一迅社文庫アイリス"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 562
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "e2f6a00b-ea96-42fc-bad9-f9d49942569b"
+  "title":
+    "name": "ワイルドブーケ : 想いを綴る花の名は"
+    "kana": "わいるどぶーけ : おもいをつづるはなのなは"
+  "creator":
+  - "id": "0174ad04-5bee-49fa-af46-55a6ea45c350"
+    "name": "駒尾真子"
+    "type": "author"
+  - "id": "6a1004ef-6473-4358-910b-9c7be592cc15"
+    "name": "甘塩コメコ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010616165-00"
+  - "domain": "isbn"
+    "id": "9784758040501"
+  "publish":
+    "issued": "2009-01"
+    "page": 270
+    "publisher": "一迅社文庫アイリス"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 590
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "1c7b3a02-f947-42a3-bce7-b568176118dd"
+  "title":
+    "name": "マリア様がみてる"
+    "kana": "まりあさまがみてる"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002680293-00"
+  - "domain": "isbn"
+    "id": "408614459X"
+  "publish":
+    "issued": "1998-05"
+    "page": 252
+    "publisher": "コバルト文庫"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 457
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "f104cd0a-ef15-40d2-b706-b6c192f5e339"
+  "title":
+    "name": "マリア様がみてる : 黄薔薇革命"
+    "kana": "まりあさまがみてる : きばらかくめい"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002758083-00"
+  - "domain": "isbn"
+    "id": "4086145545"
+  "publish":
+    "issued": "1999-02"
+    "page": 215
+    "publisher": "コバルト文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "405cf2fd-c1f3-4391-993e-c301db58c9ce"
+  "title":
+    "name": "マリア様がみてる : いばらの森"
+    "kana": "まりあさまがみてる : いばらのもり"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002781951-00"
+  - "domain": "isbn"
+    "id": "408614591X"
+  "publish":
+    "issued": "1999-05"
+    "page": 281
+    "publisher": "コバルト文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 514
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "8bc74031-5369-4258-b126-94edb4c798d3"
+  "title":
+    "name": "マリア様がみてる : ロサ・カニーナ"
+    "kana": "まりあさまがみてる : ろさかにーな"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002846180-00"
+  - "domain": "isbn"
+    "id": "4086146614"
+  "publish":
+    "issued": "1999-12"
+    "page": 252
+    "publisher": "コバルト文庫"
+    "volume": 4
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "d921b5bc-246e-411c-9ae6-2e9051937fdb"
+  "title":
+    "name": "マリア様がみてる : ウァレンティーヌスの贈り物 前編"
+    "kana": "まりあさまがみてる : うぁれんてぃーぬすのおくりもの ぜんぺん"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002868837-00"
+  - "domain": "isbn"
+    "id": "4086146959"
+  "publish":
+    "issued": "2000-03"
+    "page": 247
+    "publisher": "コバルト文庫"
+    "volume": 5
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "25ae1d95-fede-46b3-9220-fd2e7eb5dfcc"
+  "title":
+    "name": "マリア様がみてる : ウァレンティーヌスの贈り物 後編"
+    "kana": "まりあさまがみてる : うぁれんてぃーぬすのおくりもの こうへん"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002880993-00"
+  - "domain": "isbn"
+    "id": "4086147157"
+  "publish":
+    "issued": "2000-05"
+    "page": 248
+    "publisher": "コバルト文庫"
+    "volume": 6
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "7768c48f-0667-46c4-9c04-f4995d158968"
+  "title":
+    "name": "マリア様がみてる : いとしき歳月 前編"
+    "kana": "まりあさまがみてる : いとしきさいげつ ぜんぺん"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002960214-00"
+  - "domain": "isbn"
+    "id": "408614817X"
+  "publish":
+    "issued": "2001-02"
+    "page": 217
+    "publisher": "コバルト文庫"
+    "volume": 7
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "d6089a8e-6f36-4ebc-9c98-0a1e53420283"
+  "title":
+    "name": "マリア様がみてる : いとしき歳月 後編"
+    "kana": "まりあさまがみてる : いとしきさいげつ こうへん"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002978682-00"
+  - "domain": "isbn"
+    "id": "4086148412"
+  "publish":
+    "issued": "2001-04"
+    "page": 219
+    "publisher": "コバルト文庫"
+    "volume": 8
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "2a359893-3783-468e-88dd-73e2d8fa2c48"
+  "title":
+    "name": "マリア様がみてる : チェリーブロッサム"
+    "kana": "まりあさまがみてる : ちぇりーぶろっさむ"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000003010007-00"
+  - "domain": "isbn"
+    "id": "4086148951"
+  "publish":
+    "issued": "2001-08"
+    "page": 245
+    "publisher": "コバルト文庫"
+    "volume": 9
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "31dc8750-da5d-4af7-a9dd-174810805eb0"
+  "title":
+    "name": "マリア様がみてる : レイニーブルー"
+    "kana": "まりあさまがみてる : れいにーぶるー"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000003071415-00"
+  - "domain": "isbn"
+    "id": "4086000784"
+  "publish":
+    "issued": "2002-04"
+    "page": 216
+    "publisher": "コバルト文庫"
+    "volume": 10
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "d4dca9fc-aa4f-4424-894e-62bb6a007992"
+  "title":
+    "name": "マリア様がみてる : パラソルをさして"
+    "kana": "まりあさまがみてる : ぱらそるをさして"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000003653150-00"
+  - "domain": "isbn"
+    "id": "4086001365"
+  "publish":
+    "issued": "2002-07"
+    "page": 212
+    "publisher": "コバルト文庫"
+    "volume": 11
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "0899ce8b-3a7f-4998-b86a-fc681d4d7e1d"
+  "title":
+    "name": "マリア様がみてる : 子羊たちの休暇"
+    "kana": "まりあさまがみてる : こひつじたちのきゅうか"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000003998798-00"
+  - "domain": "isbn"
+    "id": "4086002108"
+  "publish":
+    "issued": "2003-01"
+    "page": 211
+    "publisher": "コバルト文庫"
+    "volume": 12
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "1ddd5567-b8c0-4433-9acc-ba71408dd303"
+  "title":
+    "name": "マリア様がみてる : 真夏の一ページ"
+    "kana": "まりあさまがみてる : まなつのいちぺーじ"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000004079270-00"
+  - "domain": "isbn"
+    "id": "4086002434"
+  "publish":
+    "issued": "2003-04"
+    "page": 219
+    "publisher": "コバルト文庫"
+    "volume": 13
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "babf0dc6-113e-4c02-9f19-ef551a0fba8e"
+  "title":
+    "name": "マリア様がみてる : 涼風さつさつ"
+    "kana": "まりあさまがみてる : すずかぜさつさつ"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000004175725-00"
+  - "domain": "isbn"
+    "id": "4086002841"
+  "publish":
+    "issued": "2003-07"
+    "page": 233
+    "publisher": "コバルト文庫"
+    "volume": 14
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "47f31e92-1310-4c1b-9aaa-2ec211d06db9"
+  "title":
+    "name": "マリア様がみてる : レディ、go!"
+    "kana": "まりあさまがみてる : れでぃ、ごー！"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000004270317-00"
+  - "domain": "isbn"
+    "id": "4086003376"
+  "publish":
+    "issued": "2003-11"
+    "page": 213
+    "publisher": "コバルト文庫"
+    "volume": 15
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "eccd1b94-fd60-43a0-bf82-b71bcf397289"
+  "title":
+    "name": "マリア様がみてる : バラエティギフト"
+    "kana": "まりあさまがみてる : ばらえてぃぎふと"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000004326590-00"
+  - "domain": "isbn"
+    "id": "4086003600"
+  "publish":
+    "issued": "2004-01"
+    "page": 199
+    "publisher": "コバルト文庫"
+    "volume": 16
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "0b7e2089-ed9e-48b3-b296-36b5ca33076f"
+  "title":
+    "name": "マリア様がみてる : チャオソレッラ!"
+    "kana": "まりあさまがみてる : ちゃおそれっら"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007320989-00"
+  - "domain": "isbn"
+    "id": "4086003996"
+  "publish":
+    "issued": "2004-04"
+    "page": 205
+    "publisher": "コバルト文庫"
+    "volume": 17
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "b4fe5de6-28f4-4434-949e-202d00e90ac5"
+  "title":
+    "name": "マリア様がみてる : 特別でないただの一日"
+    "kana": "まりあさまがみてる : とくべつでないただのいちにち"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007509724-00"
+  - "domain": "isbn"
+    "id": "4086004844"
+  "publish":
+    "issued": "2004-10"
+    "page": 195
+    "publisher": "コバルト文庫"
+    "volume": 18
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "cfa02eb5-0d89-4a80-b8ed-40294c7f5c87"
+  "title":
+    "name": "マリア様がみてる : インライブラリー"
+    "kana": "まりあさまがみてる : いんらいぶらりー"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007614983-00"
+  - "domain": "isbn"
+    "id": "4086005271"
+  "publish":
+    "issued": "2005-01"
+    "page": 206
+    "publisher": "コバルト文庫"
+    "volume": 19
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "a2eaa3dd-9ede-4167-a4d7-1044e32fda89"
+  "title":
+    "name": "マリア様がみてる : 妹オーディション"
+    "kana": "まりあさまがみてる : すーるおーでぃしょん"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007690278-00"
+  - "domain": "isbn"
+    "id": "4086005689"
+  "publish":
+    "issued": "2005-04"
+    "page": 215
+    "publisher": "コバルト文庫"
+    "volume": 20
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "0db475af-945b-41e4-808a-ae68fce24aed"
+  "title":
+    "name": "マリア様がみてる : 薔薇のミルフィーユ"
+    "kana": "まりあさまがみてる : ばらのみるふぃーゆ"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007816174-00"
+  - "domain": "isbn"
+    "id": "408600609X"
+  "publish":
+    "issued": "2005-07"
+    "page": 199
+    "publisher": "コバルト文庫"
+    "volume": 21
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "3e9c8a53-5842-4efa-af4e-99551c1f3e37"
+  "title":
+    "name": "マリア様がみてる : 未来の白地図"
+    "kana": "まりあさまがみてる : みらいのはくちず"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008043214-00"
+  - "domain": "isbn"
+    "id": "4086007045"
+  "publish":
+    "issued": "2006-01"
+    "page": 217
+    "publisher": "コバルト文庫"
+    "volume": 22
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "1bc856e1-2b8e-4750-bb87-88d52bc8aa3e"
+  "title":
+    "name": "マリア様がみてる : くもりガラスの向こう側"
+    "kana": "まりあさまがみてる : くもりがらすのむこうがわ"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008146680-00"
+  - "domain": "isbn"
+    "id": "4086007436"
+  "publish":
+    "issued": "2006-04"
+    "page": 198
+    "publisher": "コバルト文庫"
+    "volume": 23
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "c16a57c8-c481-45dd-9051-7090404b4f5a"
+  "title":
+    "name": "マリア様がみてる : 仮面のアクトレス"
+    "kana": "まりあさまがみてる : かめんのあくとれす"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008233353-00"
+  - "domain": "isbn"
+    "id": "4086007843"
+  "publish":
+    "issued": "2006-07"
+    "page": 201
+    "publisher": "コバルト文庫"
+    "volume": 24
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "34dce47f-5177-4e11-9f6e-3eb56dd89947"
+  "title":
+    "name": "マリア様がみてる : 大きな扉小さな鍵"
+    "kana": "まりあさまがみてる : おおきなとびらちいさなかぎ"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008314202-00"
+  - "domain": "isbn"
+    "id": "4086008238"
+  "publish":
+    "issued": "2006-10"
+    "page": 196
+    "publisher": "コバルト文庫"
+    "volume": 25
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "895f2a96-e085-4946-9311-95ae49cf91ef"
+  "title":
+    "name": "マリア様がみてる : クリスクロス"
+    "kana": "まりあさまがみてる : くりすくろす"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008412492-00"
+  - "domain": "isbn"
+    "id": "4086008599"
+  "publish":
+    "issued": "2007-01"
+    "page": 199
+    "publisher": "コバルト文庫"
+    "volume": 26
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "dd85e448-1111-45b4-997f-aa44beb63218"
+  "title":
+    "name": "マリア様がみてる : あなたを探しに"
+    "kana": "まりあさまがみてる : あなたをさがしに"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008501673-00"
+  - "domain": "isbn"
+    "id": "9784086008952"
+  "publish":
+    "issued": "2007-04"
+    "page": 201
+    "publisher": "コバルト文庫"
+    "volume": 27
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "4af6f6a5-b221-4325-a3ab-901e8203ee85"
+  "title":
+    "name": "マリア様がみてる : フレームオブマインド"
+    "kana": "まりあさまがみてる : ふれーむおぶまいんど"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008595702-00"
+  - "domain": "isbn"
+    "id": "9784086010344"
+  "publish":
+    "issued": "2007-07"
+    "page": 254
+    "publisher": "コバルト文庫"
+    "volume": 28
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "104d6a11-7a0f-4a6c-b58c-7477071240cd"
+  "title":
+    "name": "マリア様がみてる : 薔薇の花かんむり"
+    "kana": "まりあさまがみてる : ばらのはなかんむり"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009118993-00"
+  - "domain": "isbn"
+    "id": "9784086010757"
+  "publish":
+    "issued": "2007-10"
+    "page": 199
+    "publisher": "コバルト文庫"
+    "volume": 29
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "943f06c8-a262-4b4b-97ba-cd4aff5d928a"
+  "title":
+    "name": "マリア様がみてる : キラキラまわる"
+    "kana": "まりあさまがみてる : きらきらまわる"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009231702-00"
+  - "domain": "isbn"
+    "id": "9784086011105"
+  "publish":
+    "issued": "2008-01"
+    "page": 194
+    "publisher": "コバルト文庫"
+    "volume": 30
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "12060c35-1c81-43e1-a957-b73bdc620443"
+  "title":
+    "name": "マリア様がみてる : マーガレットにリボン"
+    "kana": "まりあさまがみてる : まーがれっとにりぼん"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009321607-00"
+  - "domain": "isbn"
+    "id": "9784086011440"
+  "publish":
+    "issued": "2008-04"
+    "page": 203
+    "publisher": "コバルト文庫"
+    "volume": 31
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "3f3318bf-0219-4947-84e8-8057049cd8d7"
+  "title":
+    "name": "マリア様がみてる : 卒業前小景"
+    "kana": "まりあさまがみてる : そつぎょうまえしょうけい"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009632989-00"
+  - "domain": "isbn"
+    "id": "9784086012140"
+  "publish":
+    "issued": "2008-10"
+    "page": 194
+    "publisher": "コバルト文庫"
+    "volume": 32
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "ec268179-f819-4cd1-b65a-6ac56a250e11"
+  "title":
+    "name": "マリア様がみてる : ハローグッバイ"
+    "kana": "まりあさまがみてる : はろーぐっばい"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009990013-00"
+  - "domain": "isbn"
+    "id": "9784086012447"
+  "publish":
+    "issued": "2009-01"
+    "page": 209
+    "publisher": "コバルト文庫"
+    "volume": 33
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 457
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "517b8548-ed3b-4c7c-821e-935e69cbcc5e"
+  "title":
+    "name": "マリア様がみてる : リトルホラーズ"
+    "kana": "まりあさまがみてる : りとるほらーず"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010334589-00"
+  - "domain": "isbn"
+    "id": "9784086013055"
+  "publish":
+    "issued": "2009-07"
+    "page": 222
+    "publisher": "コバルト文庫"
+    "volume": 34
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 457
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "137df801-eff8-483e-8ef4-7e310e5b3559"
+  "title":
+    "name": "マリア様がみてる : 私の巣(マイネスト)"
+    "kana": "まりあさまがみてる : まいねすと"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010664103-00"
+  - "domain": "isbn"
+    "id": "9784086013635"
+  "publish":
+    "issued": "2010-01"
+    "page": 202
+    "publisher": "コバルト文庫"
+    "volume": 35
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "634a97fe-7a81-4474-b7e4-aeaf341ef1f0"
+  "title":
+    "name": "マリア様がみてる : ステップ"
+    "kana": "まりあさまがみてる : すてっぷ"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011083401-00"
+  - "domain": "isbn"
+    "id": "9784086014816"
+  "publish":
+    "issued": "2011-01"
+    "page": 200
+    "publisher": "コバルト文庫"
+    "volume": 36
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
+
+- "id": "af8a658e-5421-4f3c-b3c1-64bae22986ab"
+  "title":
+    "name": "マリア様がみてる : フェアウェルブーケ"
+    "kana": "まりあさまがみてる : ふぇあうぇるぶーけ"
+  "creator":
+  - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+    "name": "今野緒雪"
+    "type": "author"
+  - "id": "74296823-ca50-4e0e-ad8e-0471c7532762"
+    "name": "ひびき玲音"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I023557920-00"
+  - "domain": "isbn"
+    "id": "9784086016315"
+  "publish":
+    "issued": "2012-05"
+    "page": 203
+    "publisher": "コバルト文庫"
+    "volume": 37
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-28"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-28"
 

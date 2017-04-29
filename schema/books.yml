@@ -30,6 +30,7 @@ schema:
           type:
             type: string
             required: true
+            regex: (author|illust|translator)
     identifier:
       type: list
       schema:
