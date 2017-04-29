@@ -26,10 +26,17 @@ def main():
         print(traceback.format_exc())
         return 1
 
+    assert isinstance(data, list)
+    index_map = dict((i, x["id"]) for i, x in enumerate(data))
+
     validator = Validator({"#root": schema})
 
     if not validator.validate({"#root": data}):
         print(validator.errors)
+        print("-"*80)
+        for item in validator.errors["#root"]:
+            for key in item.keys():
+                print("#{}:".format(key), index_map[key])
         print("error!")
         return 1
 
