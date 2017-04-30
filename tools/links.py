@@ -55,12 +55,6 @@ def force_decode(text):
 def ndl2name(text, kana):
     texts = list(map(lambda x: x.strip(), text.split(",")))
     kanas = list(map(lambda x: x.strip(), kana.split(",")))
-    if 1 in [len(texts), len(kanas)]:
-        return [{
-            "type": "full",
-            "text": "".join(texts),
-            "kana": "".join(kanas),
-        }]
     return [{
         "type": "full",
         "text": "".join(texts[:2]),
@@ -78,56 +72,37 @@ def ndl2name(text, kana):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--id", default=str(uuid.uuid4()))
+    parser.add_argument("urls", nargs="+")
 
     args = parser.parse_args()
 
-    author = OrderedDict([
-        ("id", args.id),
-        ("name", []),
-        ("links", []),
-    ])
-
-    while True:
-        type = input("full,first,last,ndl >")
-        if type == "q":
-            break
-        text = input("name >")
-        kana = input("kana >")
-        if type == "ndl":
-            author["name"] += ndl2name(text, kana)
-            continue
-        author["name"].append({
-            "type": type,
-            "text": text,
-            "kana": kana,
-        })
-
-    while True:
-        url = input("url >")
-        if url == "q":
-            break
+    links = []
+    for url in args.urls:
         resp = requests.get(url)
         if resp.status_code != 200:
             continue
         data = resp.text
-        dom = html.fromstring(data)
-        elems = dom.xpath("//title/text()")
-        title = None
-        if elems:
+        try:
+            dom = html.fromstring(data)
+            elems = dom.xpath("//title/text()")
             title = str(elems[0])
             if test_encoding(title):
                 title = force_decode(title)
-        if title is None:
-            title = input("title >")
-        author["links"].append({
-            "url": url,
-            "title": title,
-            "last_visit": datetime.datetime.now().strftime("%Y-%m-%d"),
-            "state": "active",
-        })
+            links.append({
+                "url": url,
+                "title": title,
+                "last_visit": datetime.datetime.now().strftime("%Y-%m-%d"),
+                "state": "active",
+            })
+        except:
+            links.append({
+                "url": url,
+                "title": "",
+                "last_visit": datetime.datetime.now().strftime("%Y-%m-%d"),
+                "state": "active",
+            })
 
-    print(yaml.dump([author], allow_unicode=True, default_flow_style=False, indent=1, default_style='"'))
+    print(yaml.dump([{"dummy": None, "links": links}], allow_unicode=True, default_flow_style=False, indent=1, default_style='"'))
 
     return 0
 

@@ -4617,3 +4617,1867 @@
     "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
+- "id": "53e31d5f-0d0b-47ff-8826-ee90fe6bbab6"
+  "title":
+    "name": "武士道シックスティーン"
+    "kana": "ぶしどうしっくすてぃーん"
+  "creator":
+  - "id": "21033090-1166-499f-9be7-ae2c16180d29"
+    "name": "誉田哲也"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010696808-00"
+  - "domain": "isbn"
+    "id": "9784167780012"
+  "publish":
+    "issued": "2010-02"
+    "page": 414
+    "publisher": "文春文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 629
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "9d409c74-740f-43e2-a19f-48df257a6648"
+  "title":
+    "name": "武士道セブンティーン"
+    "kana": "ぶしどうせぶんてぃーん"
+  "creator":
+  - "id": "21033090-1166-499f-9be7-ae2c16180d29"
+    "name": "誉田哲也"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011111663-00"
+  - "domain": "isbn"
+    "id": "9784167780036"
+  "publish":
+    "issued": "2011-02"
+    "page": 415
+    "publisher": "文春文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 629
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "93936a91-6527-4236-866c-edbad2b9bdd0"
+  "title":
+    "name": "武士道エイティーン"
+    "kana": "ぶしどうえいてぃーん"
+  "creator":
+  - "id": "21033090-1166-499f-9be7-ae2c16180d29"
+    "name": "誉田哲也"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010469948-00"
+  - "domain": "isbn"
+    "id": "9784167780043"
+  "publish":
+    "issued": "2009-07"
+    "page": 349
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 1476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "053d2e4e-a033-4d51-ab64-32a0b0816d42"
+  "title":
+    "name": "武士道ジェネレーション"
+    "kana": "ぶしどうじぇねれーしょん"
+  "creator":
+  - "id": "21033090-1166-499f-9be7-ae2c16180d29"
+    "name": "誉田哲也"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026595623-00"
+  - "domain": "isbn"
+    "id": "9784163903002"
+  "publish":
+    "issued": "2015-07"
+    "page": 347
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 1500
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "d3d31f92-c438-4022-9ba2-62217b6769fa"
+  "title":
+    "name": "裏世界ピクニック : ふたりの怪異探検ファイル"
+    "kana": "うらせかいぴくにっく : ふたりのかいいたんけんふぁいる"
+  "creator":
+  - "id": "f10db826-3d10-48cb-a3f3-2d2364b4a939"
+    "name": "宮澤伊織"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027981317-00"
+  - "domain": "isbn"
+    "id": "9784150312640"
+  "publish":
+    "issued": "2017-02"
+    "page": 317
+    "publisher": "ハヤカワ文庫 JA"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 780
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "004a2d2d-9405-4145-9575-12d54f00230c"
+  "title":
+    "name": "僕はかぐや姫"
+    "kana": "ぼくはかぐやひめ"
+  "creator":
+  - "id": "5fcf2da1-24b6-4c74-b2e7-c70274c48b10"
+    "name": "松村栄子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002305130-00"
+  - "domain": "isbn"
+    "id": "4828832793"
+  "publish":
+    "issued": "1993-12"
+    "page": 207
+    "publisher": "福武文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 520
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "b989fa53-f540-4853-8ea5-2a6c28f3c89f"
+  "title":
+    "name": "スロー・リバー"
+    "kana": "すろー・りばー"
+  "creator":
+  - "id": "ef96109f-7e90-450e-b7a1-adad38f504b7"
+    "name": "ニコラ・グリフィス"
+    "type": "author"
+  - "id": "b1f97942-0dbc-4868-b0e9-8c7118ba57af"
+    "name": "幹遥子"
+    "type": "translator"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002675481-00"
+  - "domain": "isbn"
+    "id": "4150112258"
+  "publish":
+    "issued": "1998-03"
+    "page": 507
+    "publisher": "ハヤカワ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 840
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "9d0899c9-6865-44ea-862b-9df247e42274"
+  "title":
+    "name": "捜査官ケイト"
+    "kana": "そうさかんけいと"
+  "creator":
+  - "id": "26ee9341-18ec-49dc-8b21-7548b2875574"
+    "name": "ローリー・キング"
+    "type": "author"
+  - "id": "51e5f5bb-c2d0-4f97-8601-d52e2341a68a"
+    "name": "森沢麻里"
+    "type": "translator"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002375194-00"
+  - "domain": "isbn"
+    "id": "4087602583"
+  "publish":
+    "issued": "1994-11"
+    "page": 511
+    "publisher": "集英社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 760
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "5daa7ff7-8cca-4a1c-b409-054fdb72928e"
+  "title":
+    "name": "捜査官ケイト : 愚か者の町"
+    "kana": "そうさかんけいと : おろかもののまち"
+  "creator":
+  - "id": "26ee9341-18ec-49dc-8b21-7548b2875574"
+    "name": "ローリー・キング"
+    "type": "author"
+  - "id": "51e5f5bb-c2d0-4f97-8601-d52e2341a68a"
+    "name": "森沢麻里"
+    "type": "translator"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002470958-00"
+  - "domain": "isbn"
+    "id": "4087602796"
+  "publish":
+    "issued": "1995-12"
+    "page": 344
+    "publisher": "集英社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 580
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "895fb125-7136-4d9e-84ca-f43e577c2e45"
+  "title":
+    "name": "捜査官ケイト : 消えた子"
+    "kana": "そうさかんけいと : きえたこ"
+  "creator":
+  - "id": "26ee9341-18ec-49dc-8b21-7548b2875574"
+    "name": "ローリー・キング"
+    "type": "author"
+  - "id": "7b551a79-ce63-43b7-915a-df5281eceef2"
+    "name": "布施由紀子"
+    "type": "translator"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000001-I004174481-00"
+  - "domain": "isbn"
+    "id": "4087603504"
+  "publish":
+    "issued": "1998"
+    "page": 429
+    "publisher": "集英社文庫"
+  "last_update": "2017-04-30"
+
+- "id": "35c10daa-e583-4cb9-996c-d1cfd0914866"
+  "title":
+    "name": "捜査官ケイト : 夜勤"
+    "kana": "そうさかんけいと : やきん"
+  "creator":
+  - "id": "26ee9341-18ec-49dc-8b21-7548b2875574"
+    "name": "ローリー・キング"
+    "type": "author"
+  - "id": "7b551a79-ce63-43b7-915a-df5281eceef2"
+    "name": "布施由紀子"
+    "type": "translator"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000003035651-00"
+  - "domain": "isbn"
+    "id": "4087604020"
+  "publish":
+    "issued": "2001-10"
+    "page": 492
+    "publisher": "集英社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 838
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "8a2b0ce5-433d-44d0-a88c-3e5ce7eee854"
+  "title":
+    "name": "捜査官ケイト : 過去からの挨拶"
+    "kana": "そうさかんけいと : かこからのあいさつ"
+  "creator":
+  - "id": "26ee9341-18ec-49dc-8b21-7548b2875574"
+    "name": "ローリー・キング"
+    "type": "author"
+  - "id": "7b551a79-ce63-43b7-915a-df5281eceef2"
+    "name": "布施由紀子"
+    "type": "translator"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009241995-00"
+  - "domain": "isbn"
+    "id": "9784087605488"
+  "publish":
+    "issued": "2008-01"
+    "page": 599
+    "publisher": "集英社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 952
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "bf852cdc-8187-414c-97ed-8c03bd256d55"
+  "title":
+    "name": "砂糖菓子の弾丸は撃ちぬけない : A lollypop or a bullet"
+    "kana": "さとうがしのだんがんはうちぬけない"
+  "creator":
+  - "id": "c7ac130b-d354-4955-b588-b59b9462f1a5"
+    "name": "桜庭一樹"
+    "type": "author"
+
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010057023-00"
+  - "domain": "isbn"
+    "id": "9784044281045"
+  "publish":
+    "issued": "2009-02"
+    "page": 201
+    "publisher": "角川文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "7eab4625-a0dc-43a1-a6fe-00851a2b9c5d"
+  "title":
+    "name": "シアンとマゼンタ"
+    "kana": "しあんとまぜんた"
+  "creator":
+  - "id": "29934fc9-e37d-4063-9906-f483f66a6355"
+    "name": "砂浦俊一"
+    "type": "author"
+  - "id": "c380ef36-fd9e-486f-bac8-63e6ae35c5da"
+    "name": "AKIRA"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009277424-00"
+  - "domain": "isbn"
+    "id": "9784086304061"
+  "publish":
+    "issued": "2008-02"
+    "page": 285
+    "publisher": "集英社スーパーダッシュ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 590
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "c047c2be-983d-4b8d-96c8-9fd836101f6a"
+  "title":
+    "name": "シアンとマゼンタ : 13階段"
+    "kana": "しあんとまぜんた:13かいだん"
+  "creator":
+  - "id": "29934fc9-e37d-4063-9906-f483f66a6355"
+    "name": "砂浦俊一"
+    "type": "author"
+  - "id": "c380ef36-fd9e-486f-bac8-63e6ae35c5da"
+    "name": "AKIRA"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009345789-00"
+  - "domain": "isbn"
+    "id": "9784086304207"
+  "publish":
+    "issued": "2008-04"
+    "page": 251
+    "publisher": "集英社スーパーダッシュ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "d8c7f191-9c8b-49bc-b41a-ca429623fb09"
+  "title":
+    "name": "Jの神話"
+    "kana": "Jのしんわ"
+  "creator":
+  - "id": "ec7b4447-2dcb-4700-978a-f64267a215ae"
+    "name": "乾くるみ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009762453-00"
+  - "domain": "isbn"
+    "id": "9784167732035"
+  "publish":
+    "issued": "2008-11"
+    "page": 478
+    "publisher": "文春文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 686
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "1fd93c32-c016-4141-929f-1adbf06f6d58"
+  "title":
+    "name": "シークレット・シーズン : あの娘のこと憶えてる?"
+    "kana": "しーくれっとしーずん : あのこのことおぼえてる"
+  "creator":
+  - "id": "4d155ddb-2eba-4b85-911e-e30f0aa40791"
+    "name": "早川倉理"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008146938-00"
+  - "domain": "isbn"
+    "id": "4797499915"
+  "publish":
+    "issued": "2006-04"
+    "page": 205
+    "publisher": "新風舎文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 700
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "4bc10628-770d-4ca0-bfdf-37f7d91f7617"
+  "title":
+    "name": "しずるさんと偏屈な死者たち : The Eccentric Dead In White Sickroom"
+    "kana": "しずるさんとへんくつなししゃたち : じえきせんとりっくでっどいんほわいとしっくるーむ"
+  "creator":
+  - "id": "5b807c05-6f78-4338-a580-b897df5b9e6b"
+    "name": "上遠野浩平"
+    "type": "author"
+  - "id": "6b9aa6e7-82cf-44a5-9fb8-9f2aac72f383"
+    "name": "椋本夏夜"
+    "type": "illust"
+  - "id": "ca973ff0-8881-42da-a9e7-ab7d70e8746d"
+    "name": "国道12号"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024642046-00"
+  - "domain": "isbn"
+    "id": "9784061389519"
+  "publish":
+    "issued": "2013-07"
+    "page": 248
+    "publisher": "星海社文庫"
+  "toc":
+  - しずるさんと唐傘小僧
+  - しずるさんと宇宙怪物
+  - しずるさんと幽霊犬
+  - しずるさんと吊られた男
+  - はりねずみチクタのぼうけん
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 676
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "5941957e-67fa-4655-a879-0bf6b9579d93"
+  "title":
+    "name": "しずるさんと底無し密室たち : The Bottomless Closed-Rooms In The Limited World"
+    "kana": "しずるさんとそこなしみっしつたち : ざぼとむれすくろーずどるーむずいんざりみてっどわーるど"
+  "creator":
+  - "id": "5b807c05-6f78-4338-a580-b897df5b9e6b"
+    "name": "上遠野浩平"
+    "type": "author"
+  - "id": "6b9aa6e7-82cf-44a5-9fb8-9f2aac72f383"
+    "name": "椋本夏夜"
+    "type": "illust"
+  - "id": "ca973ff0-8881-42da-a9e7-ab7d70e8746d"
+    "name": "国道12号"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024799712-00"
+  - "domain": "isbn"
+    "id": "9784061389540"
+  "publish":
+    "issued": "2013-09"
+    "page": 243
+    "publisher": "星海社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 680
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "0205f610-3195-40e8-b5b8-0bf086b9529c"
+  "title":
+    "name": "しずるさんと無言の姫君たち : The Silent Princess In The Unprincipled Tales"
+    "kana": "しずるさんとむごんのひめぎみたち : ざさいれんとぷりんせすいんざあんぷりんしぷるどているず"
+  "creator":
+  - "id": "5b807c05-6f78-4338-a580-b897df5b9e6b"
+    "name": "上遠野浩平"
+    "type": "author"
+  - "id": "6b9aa6e7-82cf-44a5-9fb8-9f2aac72f383"
+    "name": "椋本夏夜"
+    "type": "illust"
+  - "id": "ca973ff0-8881-42da-a9e7-ab7d70e8746d"
+    "name": "国道12号"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024953220-00"
+  - "domain": "isbn"
+    "id": "9784061389595"
+  "publish":
+    "issued": "2013-11"
+    "page": 231
+    "publisher": "星海社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 680
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "9bad1ee3-8ff1-4bda-8c64-f44df6be6c21"
+  "title":
+    "name": "しずるさんと気弱な物怪たち : The Insecure Insects In Hollow Holes"
+    "kana": "しずるさんときよわなもののけたち:じいんせきゅあいんせくついんほろうほーるず"
+  "creator":
+  - "id": "5b807c05-6f78-4338-a580-b897df5b9e6b"
+    "name": "上遠野浩平"
+    "type": "author"
+  - "id": "6b9aa6e7-82cf-44a5-9fb8-9f2aac72f383"
+    "name": "椋本夏夜"
+    "type": "illust"
+  - "id": "ca973ff0-8881-42da-a9e7-ab7d70e8746d"
+    "name": "国道12号"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025369329-00"
+  - "domain": "isbn"
+    "id": "9784061389670"
+  "publish":
+    "issued": "2014-04"
+    "page": 259
+    "publisher": "星海社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 690
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "dd2b6b1d-3c27-4695-8d12-76caadb2d5f4"
+  "title":
+    "name": "下妻物語 : ヤンキーちゃんとロリータちゃん"
+    "kana": "しもつまものがたり:やんきーちゃんとろりーたちゃん"
+  "creator":
+  - "id": "55c764fb-bdc9-4371-8d76-c2ebf7af926b"
+    "name": "嶽本野ばら"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000004388461-00"
+  - "domain": "isbn"
+    "id": "4094080236"
+  "publish":
+    "issued": "2004-04"
+    "page": 315
+    "publisher": "小学館文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "ca7547cd-5bd2-4cf0-b16b-c958b4eb7a0e"
+  "title":
+    "name": "白羽のお鏡情艶旅"
+    "kana": "しらはのおきょうじょうえんたび"
+  "creator":
+  - "id": "7c881a08-62df-4612-b612-5501451c6cbb"
+    "name": "風間九郎"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008276348-00"
+  - "domain": "isbn"
+    "id": "4331612422"
+  "publish":
+    "issued": "2006-09"
+    "page": 307
+    "publisher": "廣済堂文庫. 特選時代小説"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "7ecd31c2-c67c-468b-8ad8-e07018773166"
+  "title":
+    "name": "刺青狩り : 白羽のお鏡情艶旅"
+    "kana": "いれずみがり : しらはのおきょうじょうえんたび"
+  "creator":
+  - "id": "7c881a08-62df-4612-b612-5501451c6cbb"
+    "name": "風間九郎"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009201282-00"
+  - "domain": "isbn"
+    "id": "9784331613139"
+  "publish":
+    "issued": "2008-01"
+    "page": 316
+    "publisher": "廣済堂文庫. 特選時代小説"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 619
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "d9783855-eebf-475d-9d70-1350817ada25"
+  "title":
+    "name": "スキュラ&カリュブディス : 死の口吻"
+    "kana": "すきゅらあんどかりゅぶでぃす:たなとすのくちずけ"
+  "creator":
+  - "id": "3a9b3d99-fafe-4098-b12b-5e7a7ddc095f"
+    "name": "相沢沙呼"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025772242-00"
+  - "domain": "isbn"
+    "id": "9784101800073"
+  "publish":
+    "issued": "2014-10"
+    "page": 382
+    "publisher": "新潮文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 670
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "e238fb03-870c-4de3-b442-9bd7da3d58b4"
+  "title":
+    "name": "ストロベリー・パニック!"
+    "kana": "すとろべりーぱにっく!"
+  "creator":
+  - "id": "64b2d89e-7a11-440b-a721-4a1a3c3ec162"
+    "name": "公野櫻子"
+    "type": "author"
+  - "id": "8536901c-f0ea-489d-8067-d0312e28a1d5"
+    "name": "真木ちとせ"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008129334-00"
+  - "domain": "isbn"
+    "id": "4840233543"
+  "publish":
+    "issued": "2006-03"
+    "page": 323
+    "publisher": "電撃文庫"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 630
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "8c25aab5-8abd-4bc6-8aaa-8212e7b6056f"
+  "title":
+    "name": "ストロベリー・パニック! 2"
+    "kana": "すとろべりーぱにっく! 2"
+  "creator":
+  - "id": "64b2d89e-7a11-440b-a721-4a1a3c3ec162"
+    "name": "公野櫻子"
+    "type": "author"
+  - "id": "8536901c-f0ea-489d-8067-d0312e28a1d5"
+    "name": "真木ちとせ"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008262661-00"
+  - "domain": "isbn"
+    "id": "4840235260"
+  "publish":
+    "issued": "2006-08"
+    "page": 355
+    "publisher": "電撃文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 630
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "e40b6225-8650-41c9-bd1b-82d7dd85722f"
+  "title":
+    "name": "ストロベリー・パニック! 3"
+    "kana": "すとろべりーぱにっく! 3"
+  "creator":
+  - "id": "64b2d89e-7a11-440b-a721-4a1a3c3ec162"
+    "name": "公野櫻子"
+    "type": "author"
+  - "id": "8536901c-f0ea-489d-8067-d0312e28a1d5"
+    "name": "真木ちとせ"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008388940-00"
+  - "domain": "isbn"
+    "id": "4840236461"
+  "publish":
+    "issued": "2006-12"
+    "page": 323
+    "publisher": "電撃文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 630
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "7e860897-3a94-4c31-9063-f2444a75033a"
+  "title":
+    "name": "スーパー乙女大戦"
+    "kana": "すーぱーおとめたいせん"
+  "creator":
+  - "id": "4b5bc5d3-93cc-490f-8915-c41ac40d1c30"
+    "name": "森奈津子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024690671-00"
+  - "domain": "isbn"
+    "id": "9784198937348"
+  "publish":
+    "issued": "2013-08"
+    "page": 477
+    "publisher": "徳間文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 686
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "be8d8dda-fb72-472d-8da0-643a44f44989"
+  "title":
+    "name": "征服娘。"
+    "kana": "せいふくむすめ"
+  "creator":
+  - "id": "7f394e3a-0f14-455d-b4ea-b8493365cff1"
+    "name": "神楽坂淳"
+    "type": "author"
+  - "id": "5284f1da-e609-4025-82f7-718377b9bad5"
+    "name": "鈴羅木かりん"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009241407-00"
+  - "domain": "isbn"
+    "id": "9784086304023"
+  "publish":
+    "issued": "2008-01"
+    "page": 244
+    "publisher": "集英社スーパーダッシュ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 552
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "6bc91f20-e689-4105-9f9e-d48e135d2e4b"
+  "title":
+    "name": "セク研!"
+    "kana": "せくけん"
+  "creator":
+  - "id": "2f37a1e4-c81d-4c5b-8f11-f3fcb7504766"
+    "name": "大泉りか"
+    "type": "author"
+  - "id": "c3f7e4da-7bd6-473e-8e85-c56bfd2fa747"
+    "name": "相音うしお"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010869470-00"
+  - "domain": "isbn"
+    "id": "9784094512045"
+  "publish":
+    "issued": "2010-05"
+    "page": 263
+    "publisher": "ガガガ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "8cb6adc5-e738-4668-baf8-3c988917090b"
+  "title":
+    "name": "セク研! 2"
+    "kana": "せくけん! 2"
+  "creator":
+  - "id": "2f37a1e4-c81d-4c5b-8f11-f3fcb7504766"
+    "name": "大泉りか"
+    "type": "author"
+  - "id": "c3f7e4da-7bd6-473e-8e85-c56bfd2fa747"
+    "name": "相音うしお"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011013911-00"
+  - "domain": "isbn"
+    "id": "9784094512342"
+  "publish":
+    "issued": "2010-10"
+    "page": 263
+    "publisher": "ガガガ文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "8fda8640-5587-47ef-bf4b-81878efa1b10"
+  "title":
+    "name": "セク研! 3"
+    "kana": "せくけん! 3"
+  "creator":
+  - "id": "2f37a1e4-c81d-4c5b-8f11-f3fcb7504766"
+    "name": "大泉りか"
+    "type": "author"
+  - "id": "c3f7e4da-7bd6-473e-8e85-c56bfd2fa747"
+    "name": "相音うしお"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011188551-00"
+  - "domain": "isbn"
+    "id": "9784094512717"
+  "publish":
+    "issued": "2011-05"
+    "page": 229
+    "publisher": "ガガガ文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "ebe539ef-9d5b-4c88-935a-1c4dba4533b2"
+  "title":
+    "name": "セクシーGメン麻紀&ミーナ"
+    "kana": "せくしーGめんまき&みーな"
+  "creator":
+  - "id": "4b5bc5d3-93cc-490f-8915-c41ac40d1c30"
+    "name": "森奈津子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011233120-00"
+  - "domain": "isbn"
+    "id": "9784198632137"
+  "publish":
+    "issued": "2011-07"
+    "page": 253
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 1600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "3c9e545d-3206-4abc-91c1-bc6c7db3cb22"
+  "title":
+    "name": "ゼロの使い魔 12 妖精達の休日"
+    "kana": "ぜろのつかいま"
+  "creator":
+  - "id": "13f63425-e73b-464c-af39-6998a4d22481"
+    "name": "ヤマグチノボル"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009265319-00"
+  - "domain": "isbn"
+    "id": "9784840119009"
+  "publish":
+    "issued": "2007-08"
+    "page": 262
+    "publisher": "MF文庫J"
+    "volume": 12
+  "toc":
+  - 白の国(アルビオン)からの編入生
+  - 水精霊騎士隊、突撃せよ
+  - サイトの一日使用権
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 580
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "5587b003-28a9-4b40-870c-54e07ec7b9b4"
+  "title":
+    "name": "ストライクウィッチーズ : スオムスいらん子中隊がんばる"
+    "kana": "すとらいくうぃっちーず:すおむすいらんこちゅうたいがんばる"
+  "creator":
+  - "id": "13f63425-e73b-464c-af39-6998a4d22481"
+    "name": "ヤマグチノボル"
+    "type": "author"
+  - "id": "e297b055-9a69-4ba0-b35a-49de7a9469f1"
+    "name": "島田フミカネ"
+    "type": "author"
+  - "id": "98aa8515-5226-44f7-92df-e68f56bc4b5e"
+    "name": "上田梯子"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008330505-00"
+  - "domain": "isbn"
+    "id": "404424605X"
+  "publish":
+    "issued": "2006-10"
+    "page": 237
+    "publisher": "角川文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "d8dee0dc-4419-46fb-9e7f-e1e474d42bbb"
+  "title":
+    "name": "ストライクウィッチーズ 2ノ巻(スオムスいらん子中隊恋する)"
+    "kana": "すとらいくうぃっちーず にのまき(すおむすいらんこちゅうたいこいする)"
+  "creator":
+  - "id": "13f63425-e73b-464c-af39-6998a4d22481"
+    "name": "ヤマグチノボル"
+    "type": "author"
+  - "id": "e297b055-9a69-4ba0-b35a-49de7a9469f1"
+    "name": "島田フミカネ"
+    "type": "author"
+  - "id": "98aa8515-5226-44f7-92df-e68f56bc4b5e"
+    "name": "上田梯子"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008469901-00"
+  - "domain": "isbn"
+    "id": "9784044246068"
+  "publish":
+    "issued": "2007-03"
+    "page": 206
+    "publisher": "角川文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "d45c9285-c029-4b46-8f1c-52ab09752d6c"
+  "title":
+    "name": "ストライクウィッチーズ 3ノ巻 (スオムスいらん子中隊はじける)"
+    "kana": "すとらいくうぃっちーず さんのまき (すおむすいらんこちゅうたいはじける)"
+  "creator":
+  - "id": "13f63425-e73b-464c-af39-6998a4d22481"
+    "name": "ヤマグチノボル"
+    "type": "author"
+  - "id": "e297b055-9a69-4ba0-b35a-49de7a9469f1"
+    "name": "島田フミカネ"
+    "type": "author"
+  - "id": "98aa8515-5226-44f7-92df-e68f56bc4b5e"
+    "name": "上田梯子"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009406427-00"
+  - "domain": "isbn"
+    "id": "9784044246075"
+  "publish":
+    "issued": "2008-07"
+    "page": 218
+    "publisher": "角川文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 571
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "ad4928bb-34ab-4ad4-b464-5527b71b70fd"
+  "title":
+    "name": "戦場のライラプス"
+    "kana": "せんじょうのらいらぷす"
+  "creator":
+  - "id": "43ea3753-3299-4ba2-adf2-20c5a92ff45d"
+    "name": "瑞智士記"
+    "type": "author"
+  - "id": "b6300eea-8c7c-4310-bc00-af243ceed7db"
+    "name": "高橋武久"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010001677-00"
+  - "domain": "isbn"
+    "id": "9784198508166"
+  "publish":
+    "issued": "2009-01"
+    "page": 257
+    "publisher": "Tokuma novels edge"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "48b0b6e8-6375-418e-a10d-5365cdce5e57"
+  "title":
+    "name": "聖(セント)クロス女学院物語(ストーリア) 1 (ようこそ、神秘倶楽部へ!)"
+    "kana": "せんとくろすじょがくいんすとーりあ"
+  "creator":
+  - "id": "64624076-fe42-4b0d-9495-ed09104014bb"
+    "name": "南部くまこ"
+    "type": "author"
+  - "id": "5b1cf838-01ce-437e-b69f-2945c22ab364"
+    "name": "KeG"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025314698-00"
+  - "domain": "isbn"
+    "id": "9784046313751"
+  "publish":
+    "issued": "2014-03"
+    "page": 229
+    "publisher": "角川つばさ文庫"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "cf90d6b7-4d5a-497d-96a4-5d7a673dce67"
+  "title":
+    "name": "聖(セント)クロス女学院物語(ストーリア) 2 (ひみつの鍵とティンカーベル)"
+    "kana": "せんとくろすじょがくいんすとーりあ"
+  "creator":
+  - "id": "64624076-fe42-4b0d-9495-ed09104014bb"
+    "name": "南部くまこ"
+    "type": "author"
+  - "id": "5b1cf838-01ce-437e-b69f-2945c22ab364"
+    "name": "KeG"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025486670-00"
+  - "domain": "isbn"
+    "id": "9784046314154"
+  "publish":
+    "issued": "2014-06"
+    "page": 222
+    "publisher": "角川つばさ文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "9e9a45bd-67e7-4bfe-9d7a-68f91c83f33e"
+  "title":
+    "name": "聖(セント)クロス女学院物語(ストーリア) 3 (花音のひみつとガジュマルの精霊)"
+    "kana": "せんとくろすじょがくいんすとーりあ"
+  "creator":
+  - "id": "64624076-fe42-4b0d-9495-ed09104014bb"
+    "name": "南部くまこ"
+    "type": "author"
+  - "id": "5b1cf838-01ce-437e-b69f-2945c22ab364"
+    "name": "KeG"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025813312-00"
+  - "domain": "isbn"
+    "id": "9784046314475"
+  "publish":
+    "issued": "2014-10"
+    "page": 214
+    "publisher": "角川つばさ文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "cbe540d5-f3ca-4f0d-bc33-86b5678cc193"
+  "title":
+    "name": "蒼穹の女神 : 111ヤークトシュタッフェル"
+    "kana": "そうきゅうのめがみ:111やーくとしゅたっふぇる"
+  "creator":
+  - "id": "6bf213b8-01b6-4b34-ad84-d5d7bbe1461c"
+    "name": "すずきあきら"
+    "type": "author"
+  - "id": "478fad93-3c8b-4d71-93ea-944753fcf183"
+    "name": "がんぽん"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007359804-00"
+  - "domain": "isbn"
+    "id": "4840110875"
+  "publish":
+    "issued": "2004-05"
+    "page": 279
+    "publisher": "MF文庫J"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 580
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "683b5bed-568d-4bb4-8d4f-634efc3da09a"
+  "title":
+    "name": "卒業式はマリファナの花束を抱いて"
+    "kana": "そつぎょうしきはまりふぁなのはなたばをだいて"
+  "creator":
+  - "id": "cc75e4f4-4170-44d0-90f3-c3394a7de7c2"
+    "name": "伊藤たかみ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002607724-00"
+  - "domain": "isbn"
+    "id": "4309011462"
+  "publish":
+    "issued": "1997-05"
+    "page": 119
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 1200
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "7d3ccbdd-0445-4b16-8cf7-dd6ef1827c75"
+  "title":
+    "name": "タウンメモリー"
+    "kana": "たうんめもりー"
+  "creator":
+  - "id": "23650e58-10ea-47e2-8c00-80edeb7049d1"
+    "name": "加納新太"
+    "type": "author"
+  - "id": "dc09a524-05aa-4203-b412-f1177d0ec750"
+    "name": "未影"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007306621-00"
+  - "domain": "isbn"
+    "id": "4757717083"
+  "publish":
+    "issued": "2004-03"
+    "page": 276
+    "publisher": "ファミ通文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "0bc85ed1-38a1-4b76-8480-96ce4247ca82"
+  "title":
+    "name": "蛇行する川のほとり"
+    "kana": "だこうするかわのほとり"
+  "creator":
+  - "id": "8fb585d1-9f13-45ea-9cfb-2dfd2a687af0"
+    "name": "恩田陸"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010903304-00"
+  - "domain": "isbn"
+    "id": "9784087465884"
+  "publish":
+    "issued": "2010-06"
+    "page": 350
+    "publisher": "集英社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 552
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "ee1de5d6-f7eb-4dde-8e1a-dd5d3e1bb360"
+  "title":
+    "name": "たったひとつの冴えたやりかた"
+    "kana": "たったひとつのさえたやりかた"
+  "creator":
+  - "id": "9de12e15-a0db-4799-a938-6f59384b1926"
+    "name": "ジェイムズ・ティプトリー・ジュニア"
+    "type": "author"
+  - "id": "8b967d80-238f-4cf0-8ad9-00c16e00a50e"
+    "name": "浅倉久志"
+    "type": "translator"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000004-I000733989-00"
+  - "domain": "isbn"
+    "id": "4150107394"
+  "publish":
+    "issued": "1987-10"
+    "page": 379
+    "publisher": "ハヤカワ文庫 SF"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 820
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "9bac857d-ba77-415e-8e2d-e0e57d13761f"
+  "title":
+    "name": "誰よりも優しいあなたのために"
+    "kana": "だれよりもやさしいあなたのために"
+  "creator":
+  - "id": "3262c35d-a075-4e04-b239-36cb05557495"
+    "name": "あきさかあさひ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I023305500-00"
+  - "domain": "isbn"
+    "id": "9784758043014"
+  "publish":
+    "issued": "2012-02"
+    "page": 286
+    "publisher": "一迅社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 619
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "14d6b52f-b62d-49d1-a8c0-594710b48ae4"
+  "title":
+    "name": "ちいさい百合みぃつけた"
+    "kana": "ちいさいゆりみぃつけた"
+  "creator":
+  - "id": "460a01dc-6186-469f-9d78-56caad11a6ff"
+    "name": "綾奈ゆにこ"
+    "type": "author"
+  - "id": "f3c81dcd-6d0e-4a1f-87c3-fdf258ad7a34"
+    "name": "HERO"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025897525-00"
+  - "domain": "isbn"
+    "id": "9784041025499"
+  "publish":
+    "issued": "2014-11"
+    "page": 143
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 1200
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "9c2769a7-7d64-4f40-8e08-48f7f7aeedfe"
+  "title":
+    "name": "蝶々の纏足・風葬の教室"
+    "kana": "ちょうちょうのてんそくふうそうのきょうしつ"
+  "creator":
+  - "id": "594e1cf1-6379-49a8-bc8f-b3440162c72c"
+    "name": "山田詠美"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002562744-00"
+  - "domain": "isbn"
+    "id": "4101036187"
+  "publish":
+    "issued": "1997-03"
+    "page": 215
+    "publisher": "新潮文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 520
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "b91e2e1f-5952-4983-90fd-27de1ce3b16c"
+  "title":
+    "name": "でびるbox : あくまで姉妹!"
+    "kana": "でびるbox:あくまでしまい"
+  "creator":
+  - "id": "046c0a30-cead-4589-be4d-96607b57d79c"
+    "name": "あおしまたかし"
+    "type": "author"
+  - "id": "035500b3-1254-480b-b1c8-b624451014b4"
+    "name": "爆天童"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008210671-00"
+  - "domain": "isbn"
+    "id": "484023454X"
+  "publish":
+    "issued": "2006-06"
+    "page": 259
+    "publisher": "電撃文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 550
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "ebdfe624-8f44-4196-83a0-d81278a31267"
+  "title":
+    "name": "天空のリリー"
+    "kana": "てんくうのりりー"
+  "creator":
+  - "id": "89e62626-251b-4a83-a489-18f5f0f008cb"
+    "name": "千田誠行"
+    "type": "author"
+  - "id": "21b49d7b-3d1e-4820-a067-0e93dc3d8676"
+    "name": "まさはる"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010979622-00"
+  - "domain": "isbn"
+    "id": "9784758041423"
+  "publish":
+    "issued": "2010-04"
+    "page": 286
+    "publisher": "一迅社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 619
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "897bf413-353a-4fb6-a6c4-8aa1005c3f79"
+  "title":
+    "name": "展翅少女人形館"
+    "kana": "てんししょうじょにんぎょうかん"
+  "creator":
+  - "id": "43ea3753-3299-4ba2-adf2-20c5a92ff45d"
+    "name": "瑞智士記"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011258640-00"
+  - "domain": "isbn"
+    "id": "9784150310455"
+  "publish":
+    "issued": "2011-08"
+    "page": 397
+    "publisher": "ハヤカワ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 760
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "f5055362-e9d1-4ec4-9357-c774b19f40d8"
+  "title":
+    "name": "天使の骨"
+    "kana": "てんしのほね"
+  "creator":
+  - "id": "f2d1cd04-b7e1-47bf-8c68-6a313ed46fc3"
+    "name": "中山可穂"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000003017405-00"
+  - "domain": "isbn"
+    "id": "4087473538"
+  "publish":
+    "issued": "2001-08"
+    "page": 248
+    "publisher": "集英社文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 476
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "c08ba874-83d3-42f5-b4be-151d7cacf6ad"
+  "title":
+    "name": "天槍の下のバシレイス 1 (まれびとの棺 上)"
+    "kana": "てんそうのしたのばしれいす 1 (まれびとのひつぎ 上)"
+  "creator":
+  - "id": "622f8786-631e-4638-b845-d8a78802e946"
+    "name": "伊都工平"
+    "type": "author"
+  - "id": "84c73cc1-d5f2-4c76-b75d-b70172ff5e21"
+    "name": "瑚澄遊智"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007505903-00"
+  - "domain": "isbn"
+    "id": "4840228396"
+  "publish":
+    "issued": "2004-10"
+    "page": 323
+    "publisher": "電撃文庫"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 610
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "72900e52-68d7-4c69-8c9b-215b62ec5268"
+  "title":
+    "name": "天槍の下のバシレイス 2 (まれびとの棺 下)"
+    "kana": "てんそうのしたのばしれいす 2 (まれびとの棺 下)"
+  "creator":
+  - "id": "622f8786-631e-4638-b845-d8a78802e946"
+    "name": "伊都工平"
+    "type": "author"
+  - "id": "84c73cc1-d5f2-4c76-b75d-b70172ff5e21"
+    "name": "瑚澄遊智"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007540157-00"
+  - "domain": "isbn"
+    "id": "4840228477"
+  "publish":
+    "issued": "2004-11"
+    "page": 317
+    "publisher": "電撃文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 610
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "3beb0cc7-a2df-4e85-b440-a1fb40f46a36"
+  "title":
+    "name": "天になき星々の群れ : フリーダの世界"
+    "kana": "てんになきほしぼしのむれ:ふりーだのせかい"
+  "creator":
+  - "id": "fde89f72-651e-406e-8956-0396aafa4728"
+    "name": "長谷敏司"
+    "type": "author"
+  - "id": "aae11fe8-c1d6-44fa-8ee2-de61288ff70f"
+    "name": "CHOCO"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000003989841-00"
+  - "domain": "isbn"
+    "id": "4044267022"
+  "publish":
+    "issued": "2002-12"
+    "page": 301
+    "publisher": "角川文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 514
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "ddb2f9a6-5ca9-4749-a5b2-855cdafcf521"
+  "title":
+    "name": "天夢航海"
+    "kana": "てんむこうかい"
+  "creator":
+  - "id": "d3fe82ab-f497-4a22-b9a8-2bbee6c6a7f5"
+    "name": "谷山由紀"
+    "type": "author"
+  - "id": "b7a44ec5-cb78-4c11-939e-73645f7e3114"
+    "name": "弘司"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000002643977-00"
+  - "domain": "isbn"
+    "id": "4257768266"
+  "publish":
+    "issued": "1997-11"
+    "page": 263
+    "publisher": "ソノラマ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 490
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "566b5d3c-c27e-4764-9892-04e23563a979"
+  "title":
+    "name": "塔の町、あたしたちの街"
+    "kana": "とうのまちあたしたちのまち"
+  "creator":
+  - "id": "7124c36a-bb57-4596-90ce-c91c769693cb"
+    "name": "扇智史"
+    "type": "author"
+  - "id": "1ee0a2be-f68c-4c17-bec6-34c267eb2ebf"
+    "name": "尾崎弘宜"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008512604-00"
+  - "domain": "isbn"
+    "id": "9784757734234"
+  "publish":
+    "issued": "2007-04"
+    "page": 347
+    "publisher": "ファミ通文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "78f526e1-449b-41e9-ab22-d69728e86ca8"
+  "title":
+    "name": "塔の町、あたしたちの街 2"
+    "kana": "とうのまちあたしたちのまち 2"
+  "creator":
+  - "id": "7124c36a-bb57-4596-90ce-c91c769693cb"
+    "name": "扇智史"
+    "type": "author"
+  - "id": "1ee0a2be-f68c-4c17-bec6-34c267eb2ebf"
+    "name": "尾崎弘宜"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009342358-00"
+  - "domain": "isbn"
+    "id": "9784757741751"
+  "publish":
+    "issued": "2008-05"
+    "page": 318
+    "publisher": "ファミ通文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "178f3de9-934d-4192-a6be-bc6229b1e9ec"
+  "title":
+    "name": "倒立する塔の殺人"
+    "kana": "とうりつするとうのさつじん"
+  "creator":
+  - "id": "c6fb4657-07c8-4666-8986-b297d1af3a39"
+    "name": "皆川博子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I023153822-00"
+  - "domain": "isbn"
+    "id": "9784569677538"
+  "publish":
+    "issued": "2011-12"
+    "page": 357
+    "publisher": "PHP文芸文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 686
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "96cdc71c-eb71-4c4a-8e6f-6cffddae8233"
+  "title":
+    "name": "特別時限少女マミミ"
+    "kana": "とくべつじげんしょうじょまみみ"
+  "creator":
+  - "id": "7c161d10-2c5b-40a8-91e3-410527984e3b"
+    "name": "斧名田マニマニ"
+    "type": "author"
+  - "id": "6cba2e96-4421-4e99-994d-9c58499dfffb"
+    "name": "wingheart"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025387498-00"
+  - "domain": "isbn"
+    "id": "9784086307826"
+  "publish":
+    "issued": "2014-04"
+    "page": 269
+    "publisher": "集英社スーパーダッシュ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "e0ad4fd4-ba7e-4299-8496-6f2ba8e7724a"
+  "title":
+    "name": "友だちの作り方"
+    "kana": "ともだちのつくりかた"
+  "creator":
+  - "id": "72f616ae-8bb4-4c99-84c0-b2112f17cfdc"
+    "name": "愛洲かりみ"
+    "type": "author"
+  - "id": "93defcb5-5a09-4167-af9b-8a0145c8ff2a"
+    "name": "もりちか"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010598296-00"
+  - "domain": "isbn"
+    "id": "9784894259461"
+  "publish":
+    "issued": "2009-10"
+    "page": 230
+    "publisher": "HJ文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 619
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "1044b7f8-0cbc-4c5c-b051-4fefef6a25f2"
+  "title":
+    "name": "トリックスターズ = TRICKSTERS"
+    "kana": "とりっくすたーず"
+  "creator":
+  - "id": "9819c601-0ea4-4ed3-a400-f34ea06c9212"
+    "name": "久住四季"
+    "type": "author"
+  - "id": "6a1004ef-6473-4358-910b-9c7be592cc15"
+    "name": "甘塩コメコ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027027881-00"
+  - "domain": "isbn"
+    "id": "9784048656726"
+  "publish":
+    "issued": "2016-01"
+    "page": 389
+    "publisher": "メディアワークス文庫"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 670
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "fc5c4a6b-e928-4edc-bfae-c55ccd8eb77b"
+  "title":
+    "name": "トリックスターズL = TRICKSTERS L"
+    "kana": "とりっくすたーずえる"
+  "creator":
+  - "id": "9819c601-0ea4-4ed3-a400-f34ea06c9212"
+    "name": "久住四季"
+    "type": "author"
+  - "id": "6a1004ef-6473-4358-910b-9c7be592cc15"
+    "name": "甘塩コメコ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027027879-00"
+  - "domain": "isbn"
+    "id": "9784048656702"
+  "publish":
+    "issued": "2016-01"
+    "page": 325
+    "publisher": "メディアワークス文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 650
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "d46a49f1-2cea-4874-a70b-d5400fd2b81b"
+  "title":
+    "name": "トリックスターズD = TRICKSTERS D"
+    "kana": "とりっくすたーずでぃー"
+  "creator":
+  - "id": "9819c601-0ea4-4ed3-a400-f34ea06c9212"
+    "name": "久住四季"
+    "type": "author"
+  - "id": "6a1004ef-6473-4358-910b-9c7be592cc15"
+    "name": "甘塩コメコ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027098166-00"
+  - "domain": "isbn"
+    "id": "9784048656696"
+  "publish":
+    "issued": "2016-02"
+    "page": 337
+    "publisher": "メディアワークス文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 670
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "e381ba40-229b-4b07-acb1-63be5d044911"
+  "title":
+    "name": "トリックスターズM = TRICKSTERS M"
+    "kana": "とりっくすたーずえむ"
+  "creator":
+  - "id": "9819c601-0ea4-4ed3-a400-f34ea06c9212"
+    "name": "久住四季"
+    "type": "author"
+  - "id": "6a1004ef-6473-4358-910b-9c7be592cc15"
+    "name": "甘塩コメコ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027098157-00"
+  - "domain": "isbn"
+    "id": "9784048656719"
+  "publish":
+    "issued": "2016-02"
+    "page": 264
+    "publisher": "メディアワークス文庫"
+    "volume": 4
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 630
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "55b043cb-b948-48aa-9094-5c90a6886a81"
+  "title":
+    "name": "トリックスターズC = TRICKSTERS C"
+    "kana": "とりっくすたーずしー"
+  "creator":
+  - "id": "9819c601-0ea4-4ed3-a400-f34ea06c9212"
+    "name": "久住四季"
+    "type": "author"
+  - "id": "6a1004ef-6473-4358-910b-9c7be592cc15"
+    "name": "甘塩コメコ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027161356-00"
+  - "domain": "isbn"
+    "id": "9784048656672"
+  "publish":
+    "issued": "2016-03"
+    "page": 310
+    "publisher": "メディアワークス文庫"
+    "volume": 5
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 650
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "91b2bee4-16b2-447d-8dc8-693eb4aaafd3"
+  "title":
+    "name": "トリックスターズC = TRICKSTERS C"
+    "kana": "とりっくすたーずしー"
+  "creator":
+  - "id": "9819c601-0ea4-4ed3-a400-f34ea06c9212"
+    "name": "久住四季"
+    "type": "author"
+  - "id": "6a1004ef-6473-4358-910b-9c7be592cc15"
+    "name": "甘塩コメコ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027161357-00"
+  - "domain": "isbn"
+    "id": "9784048656689"
+  "publish":
+    "issued": "2016-03"
+    "page": 342
+    "publisher": "メディアワークス文庫"
+    "volume": 6
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 690
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+- "id": "74ab2451-d0fb-43fd-b041-0e8378ba89ec"
+  "title":
+    "name": "ドリームノッカー : チョコの奇妙な文化祭"
+    "kana": "どりーむのっかー:ちょこのきみょうなぶんかさい"
+  "creator":
+  - "id": "95a1cc89-dce6-48b2-aa2a-80a1f5d40fab"
+    "name": "御影"
+    "type": "author"
+  - "id": "d4339d4d-f66c-4be5-993f-fc6ec724224b"
+    "name": "若月さな"
+    "type": "illust"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008294865-00"
+  - "domain": "isbn"
+    "id": "4840235600"
+  "publish":
+    "issued": "2006-09"
+    "page": 357
+    "publisher": "電撃文庫"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-04-30"
+    "n": 610
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-04-30"
+
+
