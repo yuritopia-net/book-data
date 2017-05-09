@@ -19,3 +19,7 @@
 + http://d.hatena.ne.jp/tama-427270/20161029/1477716830
 + https://matome.naver.jp/odai/2144378784034519801
 + https://www.amazon.co.jp/lm/ROUS76G0KBR8Y
+
+## 謝辞
+
+* <a href="https://mastodon.yuritopia.net/@tokami">@tokami@mastodon.yuritopia.net</a>'s <a href="https://mastodon.yuritopia.net/@tokami/42303">toot:42303</a>
