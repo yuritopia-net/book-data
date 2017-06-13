@@ -34,10 +34,9 @@
       type: abstract
       last_visit: "2017-04-21"
   last_update: "2017-04-21"
-  next: fed6b913-ba60-4ef1-a4cf-9934073ff680
 
 - id: fed6b913-ba60-4ef1-a4cf-9934073ff680
-  title: 
+  title:
     name: 安達としまむら 2
     kana: あだちとしまむら 2
   creator:
@@ -72,11 +71,9 @@
     - 満点のふともも
     - 真剣なおっぱい
   last_update: "2017-04-21"
-  prev: ba3a0090-f612-4c25-8539-648443626610
-  next: a91b8011-0177-404b-85b4-9f3b28e34a9b
 
 - id: a91b8011-0177-404b-85b4-9f3b28e34a9b
-  title: 
+  title:
     name: 安達としまむら 3
     kana: あだちとしまむら 3
   creator:
@@ -102,8 +99,6 @@
       source: iss.ndl.go.jp
       last_visit: "2017-04-21"
   last_update: "2017-04-21"
-  prev: fed6b913-ba60-4ef1-a4cf-9934073ff680
-  next: 67a53f6a-1b83-4077-9312-6a1c1da261f4
 
 - id: 67a53f6a-1b83-4077-9312-6a1c1da261f4
   title:
@@ -132,8 +127,6 @@
       last_visit: "2017-04-22"
       source: iss.ndl.go.jp
   last_update: "2017-04-22"
-  prev: a91b8011-0177-404b-85b4-9f3b28e34a9b
-  next: 5c978fdf-8753-4f51-98e0-797150a928ba
 
 - id: 5c978fdf-8753-4f51-98e0-797150a928ba
   title:
@@ -162,8 +155,6 @@
     page: 233
     publisher: 電撃文庫
     volume: 5
-  prev: 67a53f6a-1b83-4077-9312-6a1c1da261f4
-  next: b1685ea2-0a29-45aa-b836-5f0d4691d29e
 
 - id: b1685ea2-0a29-45aa-b836-5f0d4691d29e
   title:
@@ -192,8 +183,6 @@
     publisher: 電撃文庫
     volume: 6
   last_update: "2017-04-22"
-  prev: 5c978fdf-8753-4f51-98e0-797150a928ba
-  next: 25338ab8-5a4f-4009-bb39-34006d939b3a
 
 - id: 25338ab8-5a4f-4009-bb39-34006d939b3a
   title:
@@ -222,7 +211,6 @@
     publisher: 電撃文庫
     volume: 7
   last_update: "2017-04-22"
-  prev: b1685ea2-0a29-45aa-b836-5f0d4691d29e
 
 - id: 83fafce4-874a-4806-8094-ebbec7953907
   title:
@@ -647,7 +635,7 @@
     "name": "上田ながの"
     "type": "author"
   - "id": "421ad820-42a6-4276-8b1e-0f9c2a76a8dc"
-    "name": "瀬奈茅冬"
+    "name": "瀬奈茅冬*"
     "type": "illust"
   "identifier":
   - "domain": "iss.ndl.go.jp"
@@ -6480,4 +6468,6123 @@
     "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
+- "id": "7e321079-72bc-4fd2-b0b6-654257173ec1"
+  "title":
+    "name": "となりのロボット = Tonari no Robot."
+    "kana": "となりのろぼっと"
+  "creator":
+  - "id": "789eacf4-535f-4dcf-b6d3-a8c14f51082b"
+    "name": "西UKO"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025877988-00"
+  - "domain": "isbn"
+    "id": "9784253100557"
+  "publish":
+    "issued": "2014-11"
+    "page": 135
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 830
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
 
+- "id": "979aac42-6396-4b6b-9a44-d82ffd244e60"
+  "title":
+    "name": "宝石色の恋 = Couleur de bijoux d'amour : 西UKO作品集"
+    "kana": "ほうせきいろのこい:にしゆうこさくひんしゅう"
+  "creator":
+  - "id": "789eacf4-535f-4dcf-b6d3-a8c14f51082b"
+    "name": "西UKO"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025583835-00"
+  - "domain": "isbn"
+    "id": "9784592710714"
+  "publish":
+    "issued": "2014-08"
+    "page": 134
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 838
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "5894ec9a-aaa5-4bf7-bab7-add4e5175a12"
+  "title":
+    "name": "Collectors 1"
+    "kana": "これくたーず 1"
+  "creator":
+  - "id": "789eacf4-535f-4dcf-b6d3-a8c14f51082b"
+    "name": "西UKO"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024072268-00"
+  - "domain": "isbn"
+    "id": "9784592710479"
+  "publish":
+    "issued": "2012-12"
+    "page": 138
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 838
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "09210227-7728-4e64-b377-185d9990bd71"
+  "title":
+    "name": "Collectors 2"
+    "kana": "これくたーず 2"
+  "creator":
+  - "id": "789eacf4-535f-4dcf-b6d3-a8c14f51082b"
+    "name": "西UKO"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027775119-00"
+  - "domain": "isbn"
+    "id": "9784592711117"
+  "publish":
+    "issued": "2016-12"
+    "page": 136
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 838
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "cef4a0e4-665a-4f6a-8b0b-449121a6cff9"
+  "title":
+    "name": "シュガールーム"
+    "kana": "しゅがーるーむ"
+  "creator":
+  - "id": "68734212-aa5f-44c9-9405-a776665fa7d2"
+    "name": "鹿嵐"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026818081-00"
+  - "domain": "isbn"
+    "id": "9784758074681"
+  "publish":
+    "issued": "2015-09"
+    "page": 146
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 852
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "1581d706-cec3-4138-887d-18b03be1120e"
+  "title":
+    "name": "女の子合わせ"
+    "kana": "おんなのこあわせ"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "isbn"
+    "id": "9784758072434"
+  "publish":
+    "issued": "2013-05"
+    "publisher": "一迅社"
+  "price": []
+  "last_update": "2017-05-13"
+
+- "id": "b9f76066-8676-4333-911a-a7a5e8299cce"
+  "title":
+    "name": "ユリ熊嵐 1"
+    "kana": "ゆりくまあらし 1"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "isbn"
+    "id": "9784344832565"
+  "publish":
+    "issued": "2014-11-24"
+    "publisher": "バーズコミックス"
+    "volume": 1
+  "last_update": "2017-05-13"
+
+- "id": "6173d274-cb1c-4791-8b57-52c65cc8124a"
+  "title":
+    "name": "ユリ熊嵐 2"
+    "kana": "ゆりくまあらし 2"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026609867-00"
+  - "domain": "isbn"
+    "id": "9784344834804"
+  "publish":
+    "issued": "2015-07-24"
+    "page": 175
+    "publisher": "バーズコミックス"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 630
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "a2403fc7-ae7d-4ccb-9325-f2d887ca18b4"
+  "title":
+    "name": "ユリ熊嵐 3"
+    "kana": "ゆりくまあらし 3"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027313315-00"
+  - "domain": "isbn"
+    "id": "9784344837119"
+  "publish":
+    "issued": "2016-05-24"
+    "page": 189
+    "publisher": "バーズコミックス"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 630
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "845b61d0-df29-4c72-967b-2e8c9f97482c"
+  "title":
+    "name": "聖純少女パラダイム"
+    "kana": "せいじゅんしょうじょぱらだいむ"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026152453-00"
+  - "domain": "isbn"
+    "id": "9784403671654"
+  "publish":
+    "issued": "2015-03"
+    "page": 158
+    "publisher": "hirari、comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 850
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "caac9920-2963-43f6-8b0d-e155a3882cec"
+  "title":
+    "name": "楽園の条件"
+    "kana": "らくえんのじょうけん"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026734245-00"
+  - "domain": "isbn"
+    "id": "9784758070249"
+  "publish":
+    "issued": "2008-01"
+    "page": 147
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "53d2b803-22c4-4f43-a9db-85e296a500f1"
+  "title":
+    "name": "星学院工科大学夜間部"
+    "kana": "せいがくいんこうかだいがくやかんぶ"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011201859-00"
+  - "domain": "isbn"
+    "id": "9784403621123"
+  "publish":
+    "issued": "2011-06"
+    "page": 174
+    "publisher": "Spade comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 590
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "c70bb446-687b-42f8-a0fb-4d740a543db3"
+  "title":
+    "name": "レンアイ♥女子ファイル"
+    "kana": "れんあい♥じょしふぁいる"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026734264-00"
+  - "domain": "isbn"
+    "id": "9784758072199"
+  "publish":
+    "issued": "2012-12"
+    "page": 144
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "efa5b742-5ecf-4eff-946f-8a1b88a378f8"
+  "title":
+    "name": "半熟女子 1"
+    "kana": "はんじゅくじょし 1"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026734277-00"
+  - "domain": "isbn"
+    "id": "9784758070348"
+  "publish":
+    "issued": "2008-10"
+    "publisher": "IDコミックス. Yuri-hime comics"
+    "volume": 1
+  "price": []
+  "last_update": "2017-05-13"
+
+- "id": "1f8c16d5-47f4-4a74-b393-454e81267fbc"
+  "title":
+    "name": "半熟女子 2"
+    "kana": "はんじゅくじょし 2"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026734277-00"
+  - "domain": "isbn"
+    "id": "9784758070591"
+  "publish":
+    "issued": "2009-09"
+    "page": 121
+    "publisher": "IDコミックス. Yuri-hime comics"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "f335cf7f-a2e3-4297-802f-324055372dda"
+  "title":
+    "name": "瑠璃色の夢"
+    "kana": "るりいろのゆめ"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026734269-00"
+  - "domain": "isbn"
+    "id": "9784758070607"
+  "publish":
+    "issued": "2009-09"
+    "page": 140
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "34a28172-3c4f-4211-8609-b7600abae530"
+  "title":
+    "name": "お江戸とてシャン"
+    "kana": "おえどとてしゃん"
+  "creator":
+  - "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154"
+    "name": "森島明子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025601242-00"
+  - "domain": "isbn"
+    "id": "9784832268227"
+  "publish":
+    "issued": "2010-02"
+    "page": 219
+    "publisher": "Manga time comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 667
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "f7a0de0b-0b2b-4cb6-901b-f6f6a0b5d070"
+  "title":
+    "name": "想いの欠片 1"
+    "kana": "おもいのかけら 1"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011246008-00"
+  - "domain": "isbn"
+    "id": "9784592710349"
+  "publish":
+    "issued": "2011-08"
+    "page": 179
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 743
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "40f53ec3-c013-45b6-b039-c98b8af10319"
+  "title":
+    "name": "想いの欠片 2"
+    "kana": "おもいのかけら 2"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024432838-00"
+  - "domain": "isbn"
+    "id": "9784592710554"
+  "publish":
+    "issued": "2013-06"
+    "page": 176
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 743
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "8203fc10-64e9-45ef-98d5-9c853b96f1ec"
+  "title":
+    "name": "想いの欠片 3"
+    "kana": "おもいのかけら 3"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025964883-00"
+  - "domain": "isbn"
+    "id": "9784592710776"
+  "publish":
+    "issued": "2014-12"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 743
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "1c68372d-ac38-4bbc-9161-9fcc9ebe61a6"
+  "title":
+    "name": "喋喋喃喃"
+    "kana": "ちょうちょうなんなん"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026733881-00"
+  - "domain": "isbn"
+    "id": "9784758073899"
+  "publish":
+    "issued": "2015-03"
+    "page": 146
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 852
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "dc49e780-7dfa-4e6f-958c-b1fdca2020a9"
+  "title":
+    "name": "Girlish sweet : アタシノ彼女"
+    "kana": "がーりっしゅすいーと : あたしのかのじょ"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010850919-00"
+  - "domain": "isbn"
+    "id": "9784592710233"
+  "publish":
+    "issued": "2010-04"
+    "page": 210
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 800
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "5ea6e451-71f6-4e0c-816d-13269b0a5056"
+  "title":
+    "name": "Seasons"
+    "kana": "しーずんず"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I023162413-00"
+  - "domain": "isbn"
+    "id": "9784592710356"
+  "publish":
+    "issued": "2011-12"
+    "page": 204
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 800
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "791e9913-d451-4c9c-9713-c69f72cb12fd"
+  "title":
+    "name": "ラブフリッカー"
+    "kana": "らぶふりっかー"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027965925-00"
+  - "domain": "isbn"
+    "id": "9784758070911"
+  "publish":
+    "issued": "2010-07"
+    "page": 163
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "806fd379-a485-4f66-9366-9716eb831871"
+  "title":
+    "name": "Game"
+    "kana": "げーむ"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026733886-00"
+  - "domain": "isbn"
+    "id": "9784758073059"
+  "publish":
+    "issued": "2014-06"
+    "page": 162
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 852
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "9b93f459-c9dd-4e2e-8623-1e8149a79041"
+  "title":
+    "name": "シーソー×ゲーム"
+    "kana": "しーそー×げーむ"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027250454-00"
+  - "domain": "isbn"
+    "id": "9784758074971"
+  "publish":
+    "issued": "2015-11"
+    "page": 143
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 852
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "02493330-7bea-41a4-b7f5-0b6ca3b5b110"
+  "title":
+    "name": "キラキラ"
+    "kana": "きらきら"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027966043-00"
+  - "domain": "isbn"
+    "id": "9784758071529"
+  "publish":
+    "issued": "2011-07"
+    "page": 151
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "bb7fbd8d-7be9-4b73-8e1a-492feec32693"
+  "title":
+    "name": "不条理なあたし達 = An absurd relationship"
+    "kana": "ふじょうりなあたしたち"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I028038121-00"
+  - "domain": "isbn"
+    "id": "9784592711155"
+  "publish":
+    "issued": "2017-04"
+    "page": 168
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 740
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "6270d126-c513-473a-b7ed-bb642e7beacf"
+  "title":
+    "name": "恋のカオリ"
+    "kana": "こいのかおり"
+  "creator":
+  - "id": "5bf39639-2362-47dd-9cbc-e51a66600b87"
+    "name": "竹宮ジン"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027966052-00"
+  - "domain": "isbn"
+    "id": "9784758071987"
+  "publish":
+    "issued": "2012-07"
+    "page": 142
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "590e2a74-ca27-4c92-afc2-97c7378b93fb"
+  "title":
+    "name": "レイニーソング"
+    "kana": "れいにーそんぐ"
+  "creator":
+  - "id": "36fc981a-33ee-47f0-ab72-f13b896ac5f7"
+    "name": "百乃モト"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026734215-00"
+  - "domain": "isbn"
+    "id": "9784758072786"
+  "publish":
+    "issued": "2013-11"
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "784510b1-2775-462a-8a39-f746973f3195"
+  "title":
+    "name": "私の無知なわたしの未知 1"
+    "kana": "わたしのむちなわたしのみち 1"
+  "creator":
+  - "id": "36fc981a-33ee-47f0-ab72-f13b896ac5f7"
+    "name": "百乃モト"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026411955-00"
+  - "domain": "isbn"
+    "id": "9784063807745"
+  "publish":
+    "issued": "2015-06"
+    "page": 161
+    "publisher": "KCx"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 581
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "05578e0e-1042-466d-99d4-aa4477ea5345"
+  "title":
+    "name": "私の無知なわたしの未知 2"
+    "kana": "わたしのむちなわたしのみち 2"
+  "creator":
+  - "id": "36fc981a-33ee-47f0-ab72-f13b896ac5f7"
+    "name": "百乃モト"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027002971-00"
+  - "domain": "isbn"
+    "id": "9784063808278"
+  "publish":
+    "issued": "2016-01"
+    "page": 160
+    "publisher": "KCx"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 581
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "be1aa4bd-49d9-4d24-a2b3-aa12fc9a1301"
+  "title":
+    "name": "トゥルー・トゥルー"
+    "kana": "とぅるー・とぅるー"
+  "creator":
+  - "id": "36fc981a-33ee-47f0-ab72-f13b896ac5f7"
+    "name": "百乃モト"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026734227-00"
+  - "domain": "isbn"
+    "id": "9784758073066"
+  "publish":
+    "issued": "2014-06"
+    "page": 148
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 926
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "24e34b94-2e15-4817-a6d9-5d0dcbf2b3a1"
+  "title":
+    "name": "ハートオブtheガール 1"
+    "kana": "はーとおぶざがーる 1"
+  "creator":
+  - "id": "1b7facee-a00c-42c7-a652-dbcf92bf72c9"
+    "name": "奥たまむし"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027193292-00"
+  - "domain": "isbn"
+    "id": "9784832246706"
+  "publish":
+    "issued": "2016-03"
+    "page": 118
+    "publisher": "Manga time KR comics. Kirara menu"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 819
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "995e9b34-bdec-48d5-bda4-dca643e4041c"
+  "title":
+    "name": "ハートオブtheガール 2"
+    "kana": "はーとおぶざがーる 2"
+  "creator":
+  - "id": "1b7facee-a00c-42c7-a652-dbcf92bf72c9"
+    "name": "奥たまむし"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027760180-00"
+  - "domain": "isbn"
+    "id": "9784832247734"
+  "publish":
+    "issued": "2016-12"
+    "page": 118
+    "publisher": "Manga time KR comics. Kirara menu"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 819
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "93aa1ba4-90d6-43b2-80de-4683c602c682"
+  "title":
+    "name": "明るい記憶喪失 = Cheerful Amnesia"
+    "kana": "あかるいきおくそうしつ"
+  "creator":
+  - "id": "1b7facee-a00c-42c7-a652-dbcf92bf72c9"
+    "name": "奥たまむし"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027984825-00"
+  - "domain": "isbn"
+    "id": "9784040690261"
+  "publish":
+    "issued": "2017-02"
+    "page": 128
+    "publisher": "MFCキューンシリーズ"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "ecf6ef29-1971-4ae1-b06b-aa6b8cce0992"
+  "title":
+    "name": "さわっちゃダメダメ! : お助けランジェリー百科"
+    "kana": "さわっちゃだめだめ"
+  "creator":
+  - "id": "66d38e50-52c1-49ee-b923-2efd801f9187"
+    "name": "吉沢蛍"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007610615-00"
+  - "domain": "isbn"
+    "id": "4063653080"
+  "publish":
+    "issued": "2005-01"
+    "page": 196
+    "publisher": "講談社コミックスデザート"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 390
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "155163af-ff0b-479b-ad43-dfd0dc206092"
+  "title":
+    "name": "脱いでもキレイ? : お助けランジェリー百科"
+    "kana": "ぬいでもきれい"
+  "creator":
+  - "id": "66d38e50-52c1-49ee-b923-2efd801f9187"
+    "name": "吉沢蛍"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000003067332-00"
+  - "domain": "isbn"
+    "id": "4063411605"
+  "publish":
+    "issued": "2002-03"
+    "page": 187
+    "publisher": "講談社コミックスデザート"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 390
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "77dbcdf1-0875-478c-a44d-ff0ad3d0bace"
+  "title":
+    "name": "秘密のベビードール : お助けランジェリー百科"
+    "kana": "ひみつのべびーどーる"
+  "creator":
+  - "id": "66d38e50-52c1-49ee-b923-2efd801f9187"
+    "name": "吉沢蛍"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000004153411-00"
+  - "domain": "isbn"
+    "id": "4063652254"
+  "publish":
+    "issued": "2003-06"
+    "page": 206
+    "publisher": "講談社コミックスデザート"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 390
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "20182dd3-8cf9-4903-9f49-e0a3a13b35b9"
+  "title":
+    "name": "ビューティーファクトリー"
+    "kana": "びゅーてぃーふぁくとりー"
+  "creator":
+  - "id": "66d38e50-52c1-49ee-b923-2efd801f9187"
+    "name": "吉沢蛍"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010249120-00"
+  - "domain": "isbn"
+    "id": "9784063655568"
+  "publish":
+    "issued": "2009-06"
+    "page": 180
+    "publisher": "講談社コミックスデザート"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 438
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "b7f1fe48-7cc9-497d-b180-6df5320622ea"
+  "title":
+    "name": "キラキラへの階段 : お助けランジェリー百科"
+    "kana": "きらきらえのかいだん"
+  "creator":
+  - "id": "66d38e50-52c1-49ee-b923-2efd801f9187"
+    "name": "吉沢蛍"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000004382157-00"
+  - "domain": "isbn"
+    "id": "4063652602"
+  "publish":
+    "issued": "2004-03"
+    "page": 202
+    "publisher": "講談社コミックスデザート"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 390
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "1e39b2f9-0451-4375-97f5-2c132e047d7e"
+  "title":
+    "name": "ビーチde萌え萌え! : お助けランジェリー百科"
+    "kana": "びーちでもえもえ"
+  "creator":
+  - "id": "66d38e50-52c1-49ee-b923-2efd801f9187"
+    "name": "吉沢蛍"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008045945-00"
+  - "domain": "isbn"
+    "id": "4063653684"
+  "publish":
+    "issued": "2006-01"
+    "page": 182
+    "publisher": "講談社コミックスデザート"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 390
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "d6e4f2b8-1f50-48e8-b940-11a8460a21ab"
+  "title":
+    "name": "ウエディング・パフューマー"
+    "kana": "うえでぃんぐぱふゅーまー"
+  "creator":
+  - "id": "66d38e50-52c1-49ee-b923-2efd801f9187"
+    "name": "吉沢蛍"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009159593-00"
+  - "domain": "isbn"
+    "id": "9784063654790"
+  "publish":
+    "issued": "2007-11"
+    "page": 196
+    "publisher": "講談社コミックスデザート"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 419
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "df0ebc73-627d-4205-a6c0-70830ce4efe9"
+  "title":
+    "name": "グッバイ!!デカ尻! : お助けランジェリー百科"
+    "kana": "ぐっばいでかじり"
+  "creator":
+  - "id": "66d38e50-52c1-49ee-b923-2efd801f9187"
+    "name": "吉沢蛍"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000003677469-00"
+  - "domain": "isbn"
+    "id": "4063411842"
+  "publish":
+    "issued": "2002-09"
+    "page": 188
+    "publisher": "講談社コミックスデザート"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-13"
+    "n": 390
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-13"
+
+- "id": "6e431cd6-0eb9-4b76-beea-54b7af923ebb"
+  "title":
+    "name": "青葉、ご報告します!"
+    "kana": "あおば、ごほうこくします!"
+  "creator":
+  - "id": "7786de0e-fd53-4e77-8844-26ce6328798d"
+    "name": "北尾タキ"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027438211-00"
+  "publish":
+    "issued": "2014-03"
+    "page": 26
+  "last_update": "2017-05-13"
+
+- "id": "8c06ef36-e5d2-4d43-a320-4d6ba6aa5d25"
+  "title":
+    "name": "青い花 1"
+    "kana": "あおいはな 1"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011250794-00"
+  - "domain": "isbn"
+    "id": "9784778320058"
+  "publish":
+    "issued": "2006-01"
+    "page": 193
+    "publisher": "F×comics"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 952
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "de498692-7717-4cc6-97c0-e083831f458f"
+  "title":
+    "name": "青い花 2"
+    "kana": "あおいはな 2"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008571504-00"
+  - "domain": "isbn"
+    "id": "9784778320324"
+  "publish":
+    "issued": "2006-12"
+    "page": 185
+    "publisher": "F×comics"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 952
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "3846578b-c1a5-4c84-b0c1-02528293f487"
+  "title":
+    "name": "青い花 3"
+    "kana": "あおいはな 3"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009898771-00"
+  - "domain": "isbn"
+    "id": "9784778320539"
+  "publish":
+    "issued": "2008-04"
+    "page": 174
+    "publisher": "F×comics"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 952
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "24482f4d-10b5-4540-ba3b-9d67e2499289"
+  "title":
+    "name": "青い花 4"
+    "kana": "あおいはな 4"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010690015-00"
+  - "domain": "isbn"
+    "id": "9784778320843"
+  "publish":
+    "issued": "2009-05"
+    "page": 174
+    "publisher": "F×comics"
+    "volume": 4
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 952
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "1b73dfe5-88d8-4de5-8248-0e1f6be936cb"
+  "title":
+    "name": "青い花 5"
+    "kana": "あおいはな 5"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010961932-00"
+  - "domain": "isbn"
+    "id": "9784778321086"
+  "publish":
+    "issued": "2010-03"
+    "page": 172
+    "publisher": "F×comics"
+    "volume": 5
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 952
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "c43d65a7-931d-41ad-85b7-0ee13d4593c4"
+  "title":
+    "name": "青い花 6"
+    "kana": "あおいはな 6"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011306175-00"
+  - "domain": "isbn"
+    "id": "9784778321413"
+  "publish":
+    "issued": "2011-05"
+    "page": 180
+    "publisher": "F×comics"
+    "volume": 6
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 952
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "079fde21-696f-4bc2-8865-bccaf8d343b6"
+  "title":
+    "name": "青い花 7"
+    "kana": "あおいはな 7"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I023788293-00"
+  - "domain": "isbn"
+    "id": "9784778321703"
+  "publish":
+    "issued": "2012-08"
+    "publisher": "F×comics"
+    "volume": 7
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 952
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "bde4f569-413e-45e4-87d4-2ed832a56d22"
+  "title":
+    "name": "青い花 8"
+    "kana": "あおいはな 8"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024806591-00"
+  - "domain": "isbn"
+    "id": "9784778322090"
+  "publish":
+    "issued": "2013-09"
+    "page": 190
+    "publisher": "F×comics"
+    "volume": 8
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 952
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "a766e37e-81a8-4d33-9bb9-518e3268b43b"
+  "title":
+    "name": "放浪息子 1"
+    "kana": "ほうろうむすこ 1"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000004214481-00"
+  - "domain": "isbn"
+    "id": "4757715226"
+  "publish":
+    "issued": "2003-08"
+    "page": 186
+    "publisher": "Beam comix"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "daa1b8dc-c668-49d0-98ef-90fb33c12eec"
+  "title":
+    "name": "放浪息子 2"
+    "kana": "ほうろうむすこ 2"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007370347-00"
+  - "domain": "isbn"
+    "id": "4757718055"
+  "publish":
+    "issued": "2004-06"
+    "page": 198
+    "publisher": "Beam comix"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "6a3b71cc-632c-45e4-a0ba-0d4abcd80e91"
+  "title":
+    "name": "放浪息子 3"
+    "kana": "ほうろうむすこ 3"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007608783-00"
+  - "domain": "isbn"
+    "id": "4757720912"
+  "publish":
+    "issued": "2005-01"
+    "page": 198
+    "publisher": "Beam comix"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "b7fcf863-402c-4b73-88dd-bc1d9245b8ca"
+  "title":
+    "name": "放浪息子 4"
+    "kana": "ほうろうむすこ 4"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000007908186-00"
+  - "domain": "isbn"
+    "id": "4757724020"
+  "publish":
+    "issued": "2005-09"
+    "page": 198
+    "publisher": "Beam comix"
+    "volume": 4
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "d43ce6b7-3c1e-41b5-b49d-f35d344729d1"
+  "title":
+    "name": "放浪息子 5"
+    "kana": "ほうろうむすこ 5"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008227879-00"
+  - "domain": "isbn"
+    "id": "4757728255"
+  "publish":
+    "issued": "2006-07"
+    "page": 202
+    "publisher": "Beam comix"
+    "volume": 5
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "0acc4717-848c-4b46-8dc6-e6b0d6d84b79"
+  "title":
+    "name": "放浪息子 6"
+    "kana": "ほうろうむすこ 6"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000008474048-00"
+  - "domain": "isbn"
+    "id": "9784757733527"
+  "publish":
+    "issued": "2007-03"
+    "page": 194
+    "publisher": "Beam comix"
+    "volume": 6
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "a662a5cd-bbce-4c14-be90-7f1d97bc74be"
+  "title":
+    "name": "放浪息子 7"
+    "kana": "ほうろうむすこ 7"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009222204-00"
+  - "domain": "isbn"
+    "id": "9784757739284"
+  "publish":
+    "issued": "2008-01"
+    "page": 194
+    "publisher": "Beam comix"
+    "volume": 7
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "cf6447fd-2d17-49c9-9d06-f560d889d1e2"
+  "title":
+    "name": "放浪息子 8"
+    "kana": "ほうろうむすこ 8"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000009785340-00"
+  - "domain": "isbn"
+    "id": "9784757744998"
+  "publish":
+    "issued": "2008-11"
+    "page": 194
+    "publisher": "Beam comix"
+    "volume": 8
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "7aa510dc-bde2-4cb7-9f63-e520ec81d6b3"
+  "title":
+    "name": "放浪息子 9"
+    "kana": "ほうろうむすこ 9"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010519045-00"
+  - "domain": "isbn"
+    "id": "9784757749955"
+  "publish":
+    "issued": "2009-08"
+    "page": 190
+    "publisher": "Beam comix"
+    "volume": 9
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "dba63feb-6175-46c8-af83-01ac21bb8796"
+  "title":
+    "name": "放浪息子 10"
+    "kana": "ほうろうむすこ 10"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000010826070-00"
+  - "domain": "isbn"
+    "id": "9784047264120"
+  "publish":
+    "issued": "2010-04"
+    "page": 212
+    "publisher": "Beam comix"
+    "volume": 10
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "eb1d4c9e-d6ab-4264-a9b5-caf7d4906c2b"
+  "title":
+    "name": "放浪息子 11"
+    "kana": "ほうろうむすこ 11"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011088275-00"
+  - "domain": "isbn"
+    "id": "9784047269408"
+  "publish":
+    "issued": "2011-01"
+    "page": 198
+    "publisher": "Beam comix"
+    "volume": 11
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "3625f4f4-f54e-45c1-b3e7-5ebb6d23d457"
+  "title":
+    "name": "放浪息子 12"
+    "kana": "ほうろうむすこ 12"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011287082-00"
+  - "domain": "isbn"
+    "id": "9784047275294"
+  "publish":
+    "issued": "2011-10"
+    "page": 191
+    "publisher": "Beam comix"
+    "volume": 12
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "02b499fc-43d8-46dd-a14c-829a4c5ad0d3"
+  "title":
+    "name": "放浪息子 13"
+    "kana": "ほうろうむすこ 13"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I023626566-00"
+  - "domain": "isbn"
+    "id": "9784047280687"
+  "publish":
+    "issued": "2012-06"
+    "publisher": "BEAM COMIX"
+    "volume": 13
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "9cf9537b-1cda-42cf-bf0d-018024ae0dce"
+  "title":
+    "name": "放浪息子 14"
+    "kana": "ほうろうむすこ 14"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024259404-00"
+  - "domain": "isbn"
+    "id": "9784047286962"
+  "publish":
+    "issued": "2013-03"
+    "page": 194
+    "publisher": "BEAM COMIX"
+    "volume": 14
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "ce1c16b4-0695-471a-8b68-755b270daafb"
+  "title":
+    "name": "放浪息子 15"
+    "kana": "ほうろうむすこ 15"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024765561-00"
+  - "domain": "isbn"
+    "id": "9784047291010"
+  "publish":
+    "issued": "2013-09"
+    "page": 200
+    "publisher": "BEAM COMIX"
+    "volume": 15
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "958d6d3d-3c81-4142-8ff5-c9bdc005bcf2"
+  "title":
+    "name": "ラヴ・バズ 1"
+    "kana": "らゔばず 1"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011112201-00"
+  - "domain": "isbn"
+    "id": "9784047270169"
+  "publish":
+    "issued": "2011-02"
+    "page": 200
+    "publisher": "Beam comix"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 800
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "23103cdc-aed2-425c-881c-95554e520907"
+  "title":
+    "name": "ラヴ・バズ 2"
+    "kana": "らゔばず 2"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011133016-00"
+  - "domain": "isbn"
+    "id": "9784047270749"
+  "publish":
+    "issued": "2011-03"
+    "page": 200
+    "publisher": "Beam comix"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 800
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "323f0fc6-ec7c-49c9-b458-46f0c64ee509"
+  "title":
+    "name": "ラヴ・バズ 3"
+    "kana": "らゔばず 3"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011185512-00"
+  - "domain": "isbn"
+    "id": "9784047271562"
+  "publish":
+    "issued": "2011-05"
+    "page": 210
+    "publisher": "Beam comix"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 800
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "d1234cf9-ca66-40b4-ae51-df67d3593c22"
+  "title":
+    "name": "かわいい悪魔 : 志村貴子作品集"
+    "kana": "かわいいあくま"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011132996-00"
+  - "domain": "isbn"
+    "id": "9784778321215"
+  "publish":
+    "issued": "2010-09"
+    "page": 212
+    "publisher": "F×comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 780
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "b8004e46-ad1f-49c8-9c8f-311d5e2fc382"
+  "title":
+    "name": "わがままちえちゃん"
+    "kana": "わがままちえちゃん"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026248545-00"
+  - "domain": "isbn"
+    "id": "9784047303157"
+  "publish":
+    "issued": "2015-04"
+    "page": 194
+    "publisher": "BEAM COMIX"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 680
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "9fca95f9-02f1-4895-b608-703023fc14b7"
+  "title":
+    "name": "淡島百景 1"
+    "kana": "あわじまひゃっけい 1"
+  "creator":
+  - "id": "0b28aca7-96b5-4d7d-a11c-a8b74e154437"
+    "name": "志村貴子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026290811-00"
+  - "domain": "isbn"
+    "id": "9784778322489"
+  "publish":
+    "issued": "2015-04"
+    "page": 155
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-14"
+    "n": 680
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-14"
+
+- "id": "036c9a5b-9b77-4cf7-9ba5-20dd70edfb38"
+  "title":
+    "name": "未完成ガール"
+    "kana": "みかんせいがーる"
+  "creator":
+  - "id": "02843646-c1c5-475b-a619-993c5c6db3e7"
+    "name": "河合朗"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026731164-00"
+  - "domain": "isbn"
+    "id": "9784758073301"
+  "publish":
+    "issued": "2014-08"
+    "page": 122
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-15"
+    "n": 852
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-15"
+
+- "id": "665ab82b-a0ec-45d5-af69-dc966b4e72dc"
+  "title":
+    "name": "ボウソウガールズテキモウソウレンアイテキステキプロジェクト : B・G・M・R・S・P 1"
+    "kana": "ぼうそうがーるずてきもうそうれんあいてきすてきぷろじぇくと 1"
+  "creator":
+  - "id": "02843646-c1c5-475b-a619-993c5c6db3e7"
+    "name": "河合朗"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026731217-00"
+  - "domain": "isbn"
+    "id": "9784758072861"
+  "publish":
+    "issued": "2014-02"
+    "page": 147
+    "publisher": "IDコミックス. Yuri-hime comics"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-15"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-15"
+
+- "id": "1649db87-905f-4802-9369-7b50fe7f9b23"
+  "title":
+    "name": "ボウソウガールズテキモウソウレンアイテキステキプロジェクト : B・G・M・R・S・P 2"
+    "kana": "ぼうそうがーるずてきもうそうれんあいてきすてきぷろじぇくと 2"
+  "creator":
+  - "id": "02843646-c1c5-475b-a619-993c5c6db3e7"
+    "name": "河合朗"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026731223-00"
+  - "domain": "isbn"
+    "id": "9784758073349"
+  "publish":
+    "issued": "2014-09"
+    "page": 138
+    "publisher": "IDコミックス. Yuri-hime comics"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-15"
+    "n": 852
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-15"
+
+- "id": "f5f4c7a2-c507-4eba-a59a-eebc067fc211"
+  "title":
+    "name": "ギャルとオタクはわかりあえない。 = Gal and Otaku can't understand each other"
+    "kana": "ぎゃるとおたくわわかりあえない"
+  "creator":
+  - "id": "02843646-c1c5-475b-a619-993c5c6db3e7"
+    "name": "河合朗"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027483534-00"
+  - "domain": "isbn"
+    "id": "9784040686042"
+  "publish":
+    "issued": "2016-07"
+    "page": 123
+    "publisher": "MFCキューンシリーズ"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-15"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-15"
+
+- "id": "6d7eb4d5-0f3d-4e4c-b8d6-7f5e30bd8afa"
+  "title":
+    "name": "センチメンタルダスト"
+    "kana": "せんちめんたるだすと"
+  "creator":
+  - "id": "02843646-c1c5-475b-a619-993c5c6db3e7"
+    "name": "河合朗"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026731182-00"
+  - "domain": "isbn"
+    "id": "9784758072557"
+  "publish":
+    "issued": "2013-07"
+    "page": 149
+    "publisher": "IDコミックス. Yuri-hime comics"
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-15"
+    "n": 857
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-15"
+
+- "id": "c856858b-f5e0-4448-a5ef-1adbc3650a5d"
+  "title":
+    "name": "少女失格"
+    "kana": "しょうじょしっかく"
+  "creator":
+  - "id": "02843646-c1c5-475b-a619-993c5c6db3e7"
+    "name": "河合朗"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026824136-00"
+  - "domain": "isbn"
+    "id": "9784758074810"
+  "publish":
+    "issued": "2015-10"
+    "page": 163
+    "publisher": "IDコミックス. Yurihime comics"
+    "volume": 1
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-15"
+    "n": 680
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-15"
+
+- id: 195faafd-d6c2-4344-9a5f-4fe2f84debc2
+  title:
+    name: ナチュラル・ウーマン
+    kana: なちゅらるうーまん
+  creator:
+  - id: a7924e20-1d63-45f1-b103-e881a4a251f5
+    name: 松浦理英子
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000008536545-00
+  - domain: isbn
+    id: '9784309408477'
+  publish:
+    issued: 2007-05
+    page: 227
+    publisher: 河出書房新社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 620
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: ef778d76-693c-4b76-b856-604dc11d0b6b
+  title:
+    name: なりゆき!しゅがあ・くらふと
+    kana: なりゆきしゅがあくらふと
+  creator:
+  - "id": "3262c35d-a075-4e04-b239-36cb05557495"
+    "name": "あきさかあさひ"
+    "type": "author"
+  - "id": "035500b3-1254-480b-b1c8-b624451014b4"
+    "name": "爆天童"
+    "type": "illust"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000009633267-00
+  - domain: isbn
+    id: '9784059035237'
+  publish:
+    issued: 2008-10
+    page: 284
+    publisher: 学習研究社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 620
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: bd026245-2fb5-4db2-bdf4-6aa110b315f1
+  title:
+    name: にこは神様に〇〇される?
+    kana: にこわかみさまになにされる
+  creator:
+  - id: 0138670c-550f-40c1-802d-5589ee4d55b2
+    name: 荒川工
+    type: author
+  - id: 74b35fbf-6408-4a82-905e-6ee81cba41f1
+    name: ことみようじ
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000009135590-00
+  - domain: isbn
+    id: '9784094510331'
+  publish:
+    issued: 2007-10
+    page: 214
+    publisher: 小学館
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 571
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: c6705a31-1347-4423-82a7-6a4167316a55
+  title:
+    name: 猫背の王子
+    kana: ねこぜのおうじ
+  creator:
+  - "id": "f2d1cd04-b7e1-47bf-8c68-6a313ed46fc3"
+    "name": "中山可穂"
+    "type": "author"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002940641-00
+  - domain: isbn
+    id: 408747268X
+  publish:
+    issued: 2000-11
+    page: 222
+    publisher: 集英社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 419
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 2aac9b58-ad7a-43d6-bc43-0e013e81027c
+  title:
+    name: ノートより安い恋 = The love that is cheaper than a notebook
+    kana: のーとよりやすいこい
+  creator:
+  - "id": "88f7fbea-238d-486d-b075-9d5947142d36"
+    "name": "森田季節"
+    "type": "author"
+  - "id": "5bfa313b-81ef-4f6a-abee-44f42c0c1d71"
+    "name": "小山鹿梨子"
+    "type": "illust"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I023461400-00
+  - domain: isbn
+    id: '9784758071826'
+  publish:
+    issued: 2012-04
+    page: 222
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 1500
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 28977761-1022-4e0e-8d01-ed08a210e1ae
+  title:
+    name: '白衣性恋愛症候群 : 小説短編集Summary'
+    kana: はくいせいれんあいしょうこうぐん:しょうせつたんぺんしゅうさまりー
+  creator:
+  - id: b1fbdc1f-d92b-4d73-becf-c48f3618e9eb
+    name: 円まどか
+    type: author
+  - id: 3be7b11b-44ec-4756-9a44-9c7fc300097e
+    name: 成瀬ちさと
+    type: illust
+  - id: cdbbbb03-5f23-412a-95cd-c935c9e18048
+    name: 椋本夏夜
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I023728833-00
+  - domain: isbn
+    id: '9784894905603'
+  publish:
+    issued: 2012-06
+    page: 234
+    publisher: パラダイム
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 695
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 41fea604-fe6e-435f-87d3-281d7b60da45
+  title:
+    name: 花伽藍
+    kana: はながらん
+  creator:
+  - "id": "f2d1cd04-b7e1-47bf-8c68-6a313ed46fc3"
+    "name": "中山可穂"
+    "type": "author"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010881570-00
+  - domain: isbn
+    id: '9784043661039'
+  publish:
+    issued: 2010-05
+    page: 248
+    publisher: 角川書店
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 552
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 426d194d-ee8e-4783-8359-281ce8b82cf0
+  title:
+    name: 花のもとにて
+    kana: はなのもとにて
+  creator:
+  - id: dc8fef5f-fdd5-472f-ac35-ad5eeced646c
+    name: 堀田あけみ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002860819-00
+  - domain: isbn
+    id: '4041852137'
+  publish:
+    issued: 2000-01
+    page: 243
+    publisher: 角川書店
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 514
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 47f9ba8c-2ad5-4ec5-ba18-954cdf6b27cc
+  title:
+    name: 花物語 上
+    kana: はなものがたり 上
+  creator:
+  - "id": "25eb52b5-6216-487a-ab92-d7e52397c083"
+    "name": "吉屋信子"
+    "type": "author"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010686638-00
+  - domain: isbn
+    id: '9784309409603'
+  publish:
+    issued: 2009-05
+    page: 380
+    publisher: 河出書房新社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 950
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- "id": "f8176444-621f-4d7b-9d2d-b73d9ebec6b3"
+  "title":
+    "name": "花物語 下"
+    "kana": "はなものがたり 下"
+  "creator":
+  - "id": "25eb52b5-6216-487a-ab92-d7e52397c083"
+    "name": "吉屋信子"
+    "type": "author"
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": 'R100000002-I000010686643-00'
+  - "domain": "isbn"
+    "id": "9784309409610"
+  "publish":
+    "issued": "2009-05"
+    "page": 381
+    "publisher": "河出文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 950
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- id: 2a1d8c53-292f-4908-a4c2-993cf14940c6
+  title:
+    name: ハーモニー
+    kana: はーもにー
+  creator:
+  - id: 716f3eea-a8df-401f-9df4-1befc624e038
+    name: 伊藤計劃
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I025608386-00
+  - domain: isbn
+    id: '9784150311667'
+  publish:
+    issued: 2014-08
+    page: 398
+    publisher: 早川書房
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 720
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 75071cae-26ed-453a-97d2-765901e72f7b
+  title:
+    name: 春待ちの姫君たち
+    kana: はるまちのひめぎみたち
+  creator:
+  - id: 943c8291-da10-4e94-8b39-288583854c4c
+    name: 友桐夏
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I025178311-00
+  - domain: isbn
+    id: '9784488435110'
+  publish:
+    issued: 2014-02
+    page: 247
+    publisher: 東京創元社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 620
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 90e1945f-435a-4c49-8499-a0f1a6df77f5
+  title:
+    name: 緋色の囁き
+    kana: ひいろのささやき
+  creator:
+  - id: 2db8b547-221b-4b72-8652-877084d58d29
+    name: 綾辻行人
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002638922-00
+  - domain: isbn
+    id: '4061859994'
+  publish:
+    issued: 1997-11
+    page: 471
+    publisher: 講談社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 676
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 30390bfa-1fcf-4166-a83e-af40a5dcb864
+  title:
+    name: ヒカルセカイ
+    kana: ひかるせかい
+  creator:
+  - id: 278da56a-b827-4ee1-910b-5ad9a95f61eb
+    name: 雨降波近
+    type: author
+  - id: 180de9a3-4a48-4b1d-8718-0cffdcdc51c5
+    name: タカハシマコ
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I024653356-00
+  - domain: isbn
+    id: '9784758072694'
+  publish:
+    issued: 2013-08
+    page: 255
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 1500
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 43279038-c2b7-414d-92e6-a40592a3029e
+  title:
+    name: パーフェクトフレンド
+    kana: ぱーふぇくとふれんど
+  creator:
+  - id: 2595e665-495e-4c11-966e-f10eeacfc6bd
+    name: 野崎まど
+    type: author
+  - id: 73f67cab-8ba1-4c48-9e24-5d6413427e44
+    name: kashmir
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000011257603-00
+  - domain: isbn
+    id: '9784048708685'
+  publish:
+    issued: 2011-08
+    page: 269
+    publisher: アスキー・メディアワークス
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 550
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 868da342-bf34-4867-907c-688acd18a5ba
+  title:
+    name: '春は出会いの季節です : アルテミス・スコードロン'
+    kana: はるはであいのきせつです:あるてみすすこーどろん
+  creator:
+  - id: 7124c36a-bb57-4596-90ce-c91c769693cb
+    name: 扇智史
+    type: author
+  - id: 2fbfb40c-822a-41a4-8b3c-8fa2ba9d089e
+    name: 村崎久都
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000007942711-00
+  - domain: isbn
+    id: '4757724322'
+  publish:
+    issued: 2005-10
+    page: 313
+    publisher: エンターブレイン
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 600
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 2d39d0c3-75d2-4574-8249-7c705e27d8fe
+  title:
+    name: 半身
+    kana: はんしん
+  creator:
+  - "id": "4d15ce64-dbde-4e0f-b407-6963ba16f341"
+    "name": "サラ・ウォーターズ"
+    "type": "author"
+  - "id": "ae3a0622-4a92-48c3-a9ae-c4e34586b56d"
+    "name": "中村有希"
+    "type": "translator"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000004134329-00
+  - domain: isbn
+    id: '4488254020'
+  publish:
+    issued: 2003-05
+    page: 494
+    publisher: 東京創元社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 1060
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 29e22933-09af-4532-87a2-d028c6612e5a
+  title:
+    name: 瞳をあけて
+    kana: ひとみをあけて
+  creator:
+  - id: ef976075-6ad9-438d-b0b3-f324d545a1ba
+    name: エナ・ミリュウ
+    type: author
+  - id: 52004479-8f94-4737-8f3c-b795c2a5aee7
+    name: 小浜澄子
+    type: translator
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002398728-00
+  - domain: isbn
+    id: '4756700926'
+  publish:
+    issued: 1994-08
+    page: 231
+    publisher: 桜桃書房
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 880
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: f4183f69-8de7-4021-91fb-681f44d0668b
+  title:
+    name: 微熱狼少女
+    kana: びねつおおかみしょうじょ
+  creator:
+  - id: a4a28e79-da66-4837-a8ff-b4d1cfcb9e5b
+    name: 仁川高丸
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002398660-00
+  - domain: isbn
+    id: '4087482820'
+  publish:
+    issued: 1995-02
+    page: 212
+    publisher: 集英社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 400
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 622dfddc-eb5b-4f51-a899-0f7284e444ef
+  title:
+    name: PiPit!!〜ぴぴっと!!〜
+    kana: ぴぴっと
+  creator:
+  - id: 88f33bd4-7ec8-4c83-9179-c8ed7aa18a38
+    name: 和智正喜
+    type: author
+  - id: c0bcc364-6cc2-4099-8670-38ce22210083
+    name: シバユウスケ
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000008586629-00
+  - domain: isbn
+    id: '9784840118699'
+  publish:
+    issued: 2007-06
+    page: 269
+    publisher: メディアファクトリー
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 580
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- "id": "533892ca-e388-4f00-b0f3-13bf170cdb44"
+  "title":
+    "name": "PiPit!!〜ぴぴっと!!〜 2"
+    "kana": "ぴぴっと 2"
+  "creator":
+  - id: 88f33bd4-7ec8-4c83-9179-c8ed7aa18a38
+    name: 和智正喜
+    type: author
+  - id: c0bcc364-6cc2-4099-8670-38ce22210083
+    name: シバユウスケ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": R100000002-I000009169727-00
+  - "domain": "isbn"
+    "id": "9784840120883"
+  "publish":
+    "issued": "2007-11"
+    "page": 269
+    "publisher": "MF文庫J"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 580
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+
+- id: 7b6e1322-348f-4398-8166-d002bf70caf4
+  title:
+    name: ぴぴぴ!
+    kana: ぴぴぴ
+  creator:
+  - id: 158a8750-bc29-4986-a531-4407c75562ae
+    name: 神代明
+    type: author
+  - id: eaf73c11-1b05-437b-b579-1d85e0cdd82f
+    name: 鈴見敦
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000008344641-00
+  - domain: isbn
+    id: '4086303248'
+  publish:
+    issued: 2006-10
+    page: 256
+    publisher: 集英社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 552
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 100bbdca-fd74-4485-b775-cba5280759aa
+  title:
+    name: .(period)
+    kana: ぴりおど
+  creator:
+  - id: 27c8eba4-b6ef-49fc-b086-3a84c36dea79
+    name: 瑠璃歩月
+    type: author
+  - id: 5b1fd6b8-d80e-4a5e-95ee-957a10bffa66
+    name: 玄鉄絢
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010014417-00
+  - domain: isbn
+    id: '9784758040198'
+  publish:
+    issued: 2008-08
+    page: 302
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 619
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 7927436f-95cd-4af3-8f7f-5b1248442680
+  title:
+    name: フィオナ旅行記
+    kana: ふぃおなりょこうき
+  creator:
+  - id: ac0481ee-33ab-47ba-9245-46139dc0273b
+    name: 小雨大豆
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000011025478-00
+  - domain: isbn
+    id: '9784062837637'
+  publish:
+    issued: 2010-11
+    page: 388
+    publisher: 講談社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 1500
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- "id": "1eaf6916-c648-43ae-9b75-9f91b5b922a0"
+  "title":
+    "name": "フィオナ旅行記 2"
+    "kana": "ふぃおなりょこうき 2"
+  "creator":
+  - id: ac0481ee-33ab-47ba-9245-46139dc0273b
+    name: 小雨大豆
+    type: author
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I000011053168-00"
+  - "domain": "isbn"
+    "id": "9784062837644"
+  "publish":
+    "issued": "2010-12"
+    "page": 344
+    "publisher": "講談社box"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 1500
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+
+- id: 3c7f1c5a-d0d2-4b69-a5cf-5e9561a49cf4
+  title:
+    name: フィメールの恋夜
+    kana: ふぃめーるのれんや
+  creator:
+  - id: fc5215bf-22ea-4af7-a507-fd6e6f96fe3a
+    name: 藤村紫
+    type: author
+  - id: 39cf57ae-c1e8-4535-b28a-1f327452ecb7
+    name: 汐月玲子
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002456010-00
+  - domain: isbn
+    id: '4044355010'
+  publish:
+    issued: 1995-11
+    page: 241
+    publisher: 角川書店
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 480
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 3151b5b5-d1d7-47c7-8a3f-426ce393e90e
+  title:
+    name: フィリシエラと、わたしと、終わりゆく世界に 1 ゆき、ふりつむ
+    kana: ふぃりしえらと、わたしと、おわりゆくせかいに 1 ゆき、ふりつむ
+  creator:
+  - id: 125e93e8-7699-4693-98d3-2198429ea01c
+    name: 今田隆文
+    type: author
+  - id: 0edc5847-be2b-4809-af3d-35f4ffcf25db
+    name: 水上カオリ
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000007362130-00
+  - domain: isbn
+    id: '4829116153'
+  publish:
+    issued: 2004-05
+    page: 251
+    publisher: 富士見書房
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 560
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 334762af-ae65-470c-adfa-7e197ee1d70e
+  title:
+    name: 深爪
+    kana: ふかづめ
+  creator:
+  - "id": "f2d1cd04-b7e1-47bf-8c68-6a313ed46fc3"
+    "name": "中山可穂"
+    "type": "author"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000004134960-00
+  - domain: isbn
+    id: '4101205329'
+  publish:
+    issued: 2003-06
+    page: 222
+    publisher: 新潮社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 400
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: aa6f5136-df35-45a7-9ff9-a0f161fb3e05
+  title:
+    name: 'ふたり : Days of broken blood'
+    kana: ふたり
+  creator:
+  - id: 5c682ca7-0978-46b4-ada9-9a67b13baa45
+    name: 山下卓
+    type: author
+  - id: a27b4f82-80c9-4130-95d1-5571fc626fa8
+    name: HACCAN
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000003633616-00
+  - domain: isbn
+    id: '4757708378'
+  publish:
+    issued: 2002-05
+    page: 221
+    publisher: エンターブレイン
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 640
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 298b7c0e-766b-4885-befd-4569ab3dd3df
+  title:
+    name: 二人のひとりあそび
+    kana: 2りのひとりあそび
+  creator:
+  - id: 4b5bc5d3-93cc-490f-8915-c41ac40d1c30
+    name: 森奈津子
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010631401-00
+  - domain: isbn
+    id: '9784198930899'
+  publish:
+    issued: 2009-12
+    page: 299
+    publisher: 徳間書店
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 571
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 43bc4f40-d7be-40dc-be11-693e5972c088
+  title:
+    name: 不動カリンは一切動ぜず
+    kana: ふどうかりんはいっさいどうぜず
+  creator:
+  - "id": "88f7fbea-238d-486d-b075-9d5947142d36"
+    "name": "森田季節"
+    "type": "author"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010997584-00
+  - domain: isbn
+    id: '9784150310103'
+  publish:
+    issued: 2010-09
+    page: 362
+    publisher: 早川書房
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 760
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 00a1afb6-9067-4c63-963e-c5c6d4e0655f
+  title:
+    name: 文月に不実の花咲く
+    kana: ふみずきにふじつのはなさく
+  creator:
+  - "id": "a4a28e79-da66-4837-a8ff-b4d1cfcb9e5b"
+    "name": "仁川高丸"
+    "type": "author"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002653319-00
+  - domain: isbn
+    id: '4087743063'
+  publish:
+    issued: 1997-12
+    page: 187
+    publisher: 集英社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 1300
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: d68ed339-289d-4103-a011-35bbd186e95b
+  title:
+    name: フラクタルの女神
+    kana: ふらくたるのめがみ
+  creator:
+  - id: fcace1d8-3df7-4159-a075-4170ba4f98c1
+    name: アン・ハリス
+    type: author
+  - id: ceb1d9bb-b8e4-411a-9f12-2499487228d1
+    name: 河野佐知
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000007800818-00
+  - domain: isbn
+    id: '4488720013'
+  publish:
+    issued: 2005-06
+    page: 360
+    publisher: 東京創元社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 920
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 06e1ee00-d074-4e11-a593-5b09d23635b5
+  title:
+    name: 'Black sheep : 黒き羊は聖夜に迷う'
+    kana: 'ぶらっくしーぷ : くろきひつじはせいやにまよう'
+  creator:
+  - id: b3b837ef-23d8-4043-b0c3-6718ae74ea1a
+    name: 富永浩史
+    type: author
+  - id: 79978efb-3495-470f-b79c-1f72aaac31cd
+    name: さんば
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000009887780-00
+  - domain: isbn
+    id: '9784894257962'
+  publish:
+    issued: 2008-12
+    page: 253
+    publisher: ホビージャパン
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 619
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 5caac61d-ab06-4b5e-8d38-b7b359096c4d
+  title:
+    name: プリンセス・ベルクチカ proyekt-0
+    kana: ぷりんせすべるくちか
+  creator:
+  - id: b3b837ef-23d8-4043-b0c3-6718ae74ea1a
+    name: 富永浩史
+    type: author
+  - id: 5a1902f0-c41a-4040-8252-3b32b1dd9c7f
+    name: 吉田音
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000007992680-00
+  - domain: isbn
+    id: 475772487X
+  publish:
+    issued: 2005-11
+    page: 275
+    publisher: エンターブレイン
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 580
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 918de0f8-83c9-47e5-9d9b-1b148a5128d3
+  title:
+    name: プロジェクトA子
+    kana: ぷろじぇくとえいこ
+  creator:
+  - id: 129e7a88-1e77-4c7a-9fa3-b514d92bcba0
+    name: 越沼初美
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000001804476-00
+  - domain: isbn
+    id: '4041657016'
+  publish:
+    issued: 1986-06
+    page: 227
+    publisher: 角川書店
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 340
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 7d6276ac-0de8-4356-9089-66e4ee5ead04
+  title:
+    name: 包帯をまいたイブ
+    kana: ほうたいをまいたいぶ
+  creator:
+  - id: 4f2e6adb-c592-4b4e-9d3a-a9837be1b6ef
+    name: 富士本由紀
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002857754-00
+  - domain: isbn
+    id: '4087471527'
+  publish:
+    issued: 2000-01
+    page: 198
+    publisher: 集英社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 381
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 5a2c8196-27b9-4953-8128-499385bd8367
+  title:
+    name: ほかに誰がいる
+    kana: ほかにだれがいる
+  creator:
+  - id: 764ba84b-dc54-4cdb-9e4d-0ece3490bf8c
+    name: 朝倉かすみ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000009428461-00
+  - domain: isbn
+    id: '9784344410770'
+  publish:
+    issued: 2008-02
+    page: 270
+    publisher: 幻冬舎
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 571
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: d9c5590e-a9a9-4997-b02c-4085e6ca8df6
+  title:
+    name: ホーンテッド!
+    kana: ほーんてっど
+  creator:
+  - id: 8719523d-9e16-4065-b43b-1b585f8c90bf
+    name: 平坂読
+    type: author
+  - id: 526473cb-a00b-41e7-81ee-653c27430ce2
+    name: 片瀬優
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000007495177-00
+  - domain: isbn
+    id: '4840111480'
+  publish:
+    issued: 2004-09
+    page: 263
+    publisher: メディアファクトリー
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 580
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 3d267031-b2d7-4378-a602-e4cbfc3d1aeb
+  title:
+    name: '滅びのマヤウェル : その仮面をはずして'
+    kana: ほろびのまやうぇる:そのかめんをはずして
+  creator:
+  - id: 25b5c834-5811-4645-999b-68fb97c4ab23
+    name: 岡崎裕信
+    type: author
+  - id: d4a82b74-307d-40ed-9160-f61b249eaad4
+    name: 西E田
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000007927498-00
+  - domain: isbn
+    id: '4086302586'
+  publish:
+    issued: 2005-09
+    page: 271
+    publisher: 集英社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 552
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: da25c60c-95fb-4309-91f7-4dd9f8d08a44
+  title:
+    name: マジカル・デスゲーム 1 少女は魔法で嘘をつく
+    kana: まじかる・ですげーむ 1 しょうじょはまほうでうそをつく
+  creator:
+  - id: 3ddef172-4967-4a8d-b762-2f1119a3d5b8
+    name: うれま庄司
+    type: author
+  - id: dcc7ab10-a784-4739-b14a-585c8b33f9f6
+    name: CUTEG
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I025323210-00
+  - domain: isbn
+    id: '9784040700601'
+  publish:
+    issued: 2014-03
+    page: 307
+    publisher: KADOKAWA
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 580
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- "id": "32a7a0ce-1fc2-45af-97c9-7683cabf6a28"
+  "title":
+    "name": "マジカル・デスゲーム 2 反証のアーギュメント"
+    "kana": "まじかる・ですげーむ 2 はんしょうのあーぎゅめんと"
+  "creator":
+  - id: 3ddef172-4967-4a8d-b762-2f1119a3d5b8
+    name: うれま庄司
+    type: author
+  - id: dcc7ab10-a784-4739-b14a-585c8b33f9f6
+    name: CUTEG
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025430085-00"
+  - "domain": "isbn"
+    "id": "9784040701127"
+  "publish":
+    "issued": "2014-05"
+    "page": 282
+    "publisher": "富士見ファンタジア文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 660
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+
+- id: 47e54863-9e26-4302-95e1-2dd72ec2536f
+  title:
+    name: '魔女のソナタ : 伊集院大介の洞察'
+    kana: まじょのそなた:いじゅういんだいすけのどうさつ
+  creator:
+  - id: 9cb2638c-6a0d-409d-90e1-189cd73393cc
+    name: 栗本薫
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002734423-00
+  - domain: isbn
+    id: '4062639394'
+  publish:
+    issued: 1998-11
+    page: 391
+    publisher: 講談社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 619
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: ed9456b6-cca3-478b-a29d-25e4d68eccdd
+  title:
+    name: 魔女は月出づるところに眠る = Maga in terra lunae orientis dormiat　上
+    kana: まじょはつきいづるところにねむる
+  creator:
+  - id: 08a48bb3-a4bd-4c60-a311-7a4b1008fd0b
+    name: 佐藤ケイ
+    type: author
+  - id: 81f8ec32-cc1b-4e6f-8993-888dde8f1ba8
+    name: 文倉十
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I025031328-00
+  - domain: isbn
+    id: '9784048661942'
+  publish:
+    issued: 2013-12
+    page: 299
+    publisher: KADOKAWA
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 590
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- "id": "10ef4b66-ece3-47de-8582-67f8f246f9d6"
+  "title":
+    "name": "魔女は月出づるところに眠る = Maga in terra lunae orientis dormiat　下"
+    "kana": "まじょはつきいづるところにねむる"
+  "creator":
+  - id: 08a48bb3-a4bd-4c60-a311-7a4b1008fd0b
+    name: 佐藤ケイ
+    type: author
+  - id: 81f8ec32-cc1b-4e6f-8993-888dde8f1ba8
+    name: 文倉十
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025363560-00"
+  - "domain": "isbn"
+    "id": "9784048664745"
+  "publish":
+    "issued": "2014-04"
+    "page": 360
+    "publisher": "電撃文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 750
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+
+- id: 79de0d7c-54a6-4976-b38d-d099c46c3949
+  title:
+    name: 街の灯
+    kana: まちのひ
+  creator:
+  - id: c76d9c4d-f2ae-428b-83a1-cc24f72fe5f9
+    name: 北村薫
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000008174411-00
+  - domain: isbn
+    id: '4167586045'
+  publish:
+    issued: 2006-05
+    page: 278
+    publisher: 文藝春秋
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 476
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: cf709924-d4fd-4278-bb82-a0a285b0a0f2
+  title:
+    name: '魔法少女オーバーエイジ : 私たち、もう変身したくありません'
+    kana: まほうしょうじょおーばーえいじ:わたしたちもうへんしんしたくありません
+  creator:
+  - id: 03b773c0-55ef-4f51-8360-ceaa929379e6
+    name: 砂守岳央
+    type: author
+  - id: 33956e89-8f3e-40d1-b4e1-a182bb300a8b
+    name: 日向あずり
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026034299-00
+  - domain: isbn
+    id: '9784865291179'
+  publish:
+    issued: 2015-02
+    page: 333
+    publisher: ポニーキャニオン
+    "volume": 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 620
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- "id": "3681688e-6b67-4c3f-b436-eb0e8ae8dd26"
+  "title":
+    "name": "魔法少女オーバーエイジ : 二番煎じなんてレベルじゃないっ"
+    "kana": "まほうしょうじょおーばーえいじ : にばんせんじなんてれべるじゃないっ"
+  "creator":
+  - id: 03b773c0-55ef-4f51-8360-ceaa929379e6
+    name: 砂守岳央
+    type: author
+  - id: 33956e89-8f3e-40d1-b4e1-a182bb300a8b
+    name: 日向あずり
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027244153-00"
+  - "domain": "isbn"
+    "id": "9784865292053"
+  "publish":
+    "issued": "2016-05"
+    "page": 251
+    "publisher": "ぽにきゃんBOOKS"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 650
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+
+- id: eda9c3c8-7434-481f-a788-37eb6aecf901
+  title:
+    name: 魔法少女育成計画
+    kana: まほうしょうじょいくせいけいかく
+  creator:
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I023656890-00
+  - domain: isbn
+    id: '9784796680394'
+  publish:
+    issued: 2012-06
+    page: 284
+    publisher: 宝島社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 657
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- "id": "fa0b6bc0-8dac-481b-bbea-2a8db716a3c1"
+  "title":
+    "name": "魔法少女育成計画 restart 前"
+    "kana": "まほうしょうじょいくせいけいかく りすたーと 前"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024031755-00"
+  - "domain": "isbn"
+    "id": "9784800201829"
+  "publish":
+    "issued": "2012-11"
+    "page": 269
+    "publisher": "このライトノベルがすごい!文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 657
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "034f523d-f9ee-4991-baa9-b4c851a379e6"
+  "title":
+    "name": "魔法少女育成計画 restart 後"
+    "kana": "まほうしょうじょいくせいけいかく りすたーと 後"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024103714-00"
+  - "domain": "isbn"
+    "id": "9784800205254"
+  "publish":
+    "issued": "2012-12"
+    "page": 268
+    "publisher": "このライトノベルがすごい!文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 657
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "2222a4a0-49c1-49a0-9605-34a9d98b5ab6"
+  "title":
+    "name": "魔法少女育成計画 episodes"
+    "kana": "まほうしょうじょいくせいけいかく えぴそーず"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024360270-00"
+  - "domain": "isbn"
+    "id": "9784800209344"
+  "publish":
+    "issued": "2013-04"
+    "page": 284
+    "publisher": "このライトノベルがすごい!文庫"
+    volume: 4
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 630
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "09aec4db-5857-452d-b745-4509d5ebc889"
+  "title":
+    "name": "魔法少女育成計画 limited 前"
+    "kana": "まほうしょうじょいくせいけいかく りみてっど 前"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024956343-00"
+  - "domain": "isbn"
+    "id": "9784800218490"
+  "publish":
+    "issued": "2013-11"
+    "page": 269
+    "publisher": "このライトノベルがすごい!文庫"
+    "volume": 5
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 657
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "d95a1bd5-7669-4a28-bb9b-91dd4599b154"
+  "title":
+    "name": "魔法少女育成計画 limited 後"
+    "kana": "まほうしょうじょいくせいけいかく りみてっど 後"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025035724-00"
+  - "domain": "isbn"
+    "id": "9784800218520"
+  "publish":
+    "issued": "2013-12"
+    "page": 268
+    "publisher": "このライトノベルがすごい!文庫"
+    "volume": 6
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 657
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "3c227c0d-a818-4370-95bf-d994e52a9eaf"
+  "title":
+    "name": "魔法少女育成計画 JOKERS"
+    "kana": "まほうしょうじょいくせいけいかく じょーかーず"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025608281-00"
+  - "domain": "isbn"
+    "id": "9784800230706"
+  "publish":
+    "issued": "2014-08"
+    "page": 468
+    "publisher": "このライトノベルがすごい!文庫"
+    volume: 7
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 740
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "bdd308f1-0d53-4a6f-8173-c93725e0138b"
+  "title":
+    "name": "魔法少女育成計画 ACES"
+    "kana": "まほうしょうじょいくせいけいかく えいせず"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I026703348-00"
+  - "domain": "isbn"
+    "id": "9784800245861"
+  "publish":
+    "issued": "2015-09"
+    "page": 310
+    "publisher": "このライトノベルがすごい!文庫"
+    volume: 8
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 680
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "59383bf8-df9e-4ba6-a9d5-63d7b18786c9"
+  "title":
+    "name": "魔法少女育成計画 episodesΦ"
+    "kana": "まほうしょうじょいくせいけいかく えぴそーずふぁい"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027212693-00"
+  - "domain": "isbn"
+    "id": "9784800254436"
+  "publish":
+    "issued": "2016-04"
+    "page": 284
+    "publisher": "このライトノベルがすごい!文庫"
+    volume: 9
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "8e0fa4c4-cc6a-417c-a965-11eb07b427c0"
+  "title":
+    "name": "魔法少女育成計画 16人の日常"
+    "kana": "まほうしょうじょいくせいけいかく じゅうろくにんのにちじょう"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027630590-00"
+  - "domain": "isbn"
+    "id": "9784800263698"
+  "publish":
+    "issued": "2016-10"
+    "page": 286
+    "publisher": "このライトノベルがすごい!文庫"
+    volume: 10
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "40d5d24f-b755-4380-a43c-9be36f6797a6"
+  "title":
+    "name": "魔法少女育成計画 QUEENS"
+    "kana": "まほうしょうじょいくせいけいかく くいーんず"
+  "creator":
+  - id: 566d39de-67e7-4091-acd3-fda807fcfab3
+    name: 遠藤浅蜊
+    type: author
+  - id: 56623031-c849-44e1-a08e-46682a5cced8
+    name: マルイノ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I027756862-00"
+  - "domain": "isbn"
+    "id": "9784800262172"
+  "publish":
+    "issued": "2016-12"
+    "page": 316
+    "publisher": "このライトノベルがすごい!文庫"
+    volume: 11
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 640
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+
+- id: caaf9a42-4a87-403c-9760-ede188c80b8e
+  title:
+    name: マラケシュ心中
+    kana: まらけしゅしんじゅう
+  creator:
+  - "id": "f2d1cd04-b7e1-47bf-8c68-6a313ed46fc3"
+    "name": "中山可穂"
+    "type": "author"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000007728211-00
+  - domain: isbn
+    id: '4062750910'
+  publish:
+    issued: 2005-05
+    page: 394
+    publisher: 講談社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 619
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: a84978a7-defb-4a16-9d9b-ab8441a79ec4
+  title:
+    name: マンゴスチンの恋人
+    kana: まんごすちんのこいびと
+  creator:
+  - id: 07e3a598-77c9-49c4-b267-7e0280b6dbb8
+    name: 遠野りりこ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I025696500-00
+  - domain: isbn
+    id: '9784094060805'
+  publish:
+    issued: 2014-09
+    page: 301
+    publisher: 小学館
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 610
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 10e30ba9-5b23-4e3c-a461-39a6fdaa6af0
+  title:
+    name: 卍
+    kana: まんじ
+  creator:
+  - id: 069b8c5e-8982-40b6-97d0-69ba23e09c0e
+    name: 谷崎潤一郎
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I023069978-00
+  - domain: isbn
+    id: '9784101005089'
+  publish:
+    issued: 2010-05
+    page: 261
+    publisher: 新潮社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 438
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 1f2824d0-cd58-4728-a4fb-a253e1e454af
+  title:
+    name: みすてぃっく・あい
+    kana: みすてぃっくあい
+  creator:
+  - id: 74f639e9-294c-40f7-ab3e-cb26525d845d
+    name: 一柳凪
+    type: author
+  - id: a60d793d-9d6c-4d15-859a-56ce548c17b6
+    name: 狐印
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000009103392-00
+  - domain: isbn
+    id: '9784094510270'
+  publish:
+    issued: 2007-09
+    page: 233
+    publisher: 小学館
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 571
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: ba65c121-a20a-47d2-8616-93806405c077
+  title:
+    name: 'めいたん : メイドvs名探偵'
+    kana: めいたん:めいどvsめいたんてい
+  creator:
+  - id: 86b87afa-3258-4f7e-b904-7c217f0da412
+    name: 樺薫
+    type: author
+  - id: 8713a549-f2dd-485c-84f8-f99d7c5f9c63
+    name: 赤賀博隆
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000008961414-00
+  - domain: isbn
+    id: '9784094510232'
+  publish:
+    issued: 2007-08
+    page: 260
+    publisher: 小学館
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 571
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 1b2cbef5-a6bd-4719-a918-0e74019d68cc
+  title:
+    name: 毛布おばけと金曜日の階段
+    kana: もうふおばけときんようびのかいだん
+  creator:
+  - id: b8c8b36d-4569-4fb7-864a-e63625befcd4
+    name: 橋本紡
+    type: author
+  - id: 61a77ceb-bb8e-47bb-be37-f5fdf315dfcd
+    name: ヤスダスズヒト
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000003989759-00
+  - domain: isbn
+    id: '4840222517'
+  publish:
+    issued: 2002-12
+    page: 287
+    publisher: メディアワークス
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 550
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: ed242f56-50c6-489c-8f60-bce9da84ee9b
+  title:
+    name: 屋根裏の二処女
+    kana: やねうらのにしょじょ
+  creator:
+  - id: 25eb52b5-6216-487a-ab92-d7e52397c083
+    name: 吉屋信子
+    type: author
+  - id: 55c764fb-bdc9-4371-8d76-c2ebf7af926b
+    name: 嶽本野ばら
+    type: commentator
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000004110988-00
+  - domain: isbn
+    id: 433604483X
+  publish:
+    issued: 2003-03
+    page: 347
+    publisher: 国書刊行会
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 1900
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 4a60ae9a-0469-41ee-bdd7-07e09f7791ee
+  title:
+    name: ヤングガン・カルナバル
+    kana: やんぐがんかるなばる
+  creator:
+  - id: 510557b1-2700-43f9-a115-69d4aecae3fe
+    name: 深見真
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000011164447-00
+  - domain: isbn
+    id: '9784198933500'
+  publish:
+    issued: 2011-04
+    page: 283
+    publisher: 徳間書店
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 619
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: f7283fa5-3545-434c-85b8-4523ff38a8e5
+  title:
+    name: '百合グラドル優衣 : 禁断ガールズラブ'
+    kana: ゆりぐらどるゆい:きんだんがーるずらぶ
+  creator:
+  - "id": "2537334f-5d95-43cb-8de7-9ad345ffb411"
+    "name": "あらおし悠"
+    "type": "author"
+  - "id": "421ad820-42a6-4276-8b1e-0f9c2a76a8dc"
+    "name": "瀬奈茅冬*"
+    "type": "illust"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I024967627-00
+  - domain: isbn
+    id: '9784799205013'
+  publish:
+    issued: 2013-11
+    page: 255
+    publisher: キルタイムコミュニケーション
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 630
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: bfc82be8-f319-4973-be63-4548f29596f8
+  title:
+    name: 百合咲き学園お姉さま、いただきますっ!
+    kana: ゆりさきがくえんおねえさまいただきますっ
+  creator:
+  - "id": "8428487e-efb7-4def-b909-1a382b738c1d"
+    "name": "鳳翔伶"
+    "type": "author"
+  - "id": "77f18485-2fff-4901-98cb-1571a9939d2e"
+    "name": "華瑠羅翔"
+    "type": "illust"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000009354612-00
+  - domain: isbn
+    id: '9784878923456'
+  publish:
+    issued: 2008-01
+    page: 236
+    publisher: 青心社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 600
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 80808753-fa96-4167-889b-21a0596ae373
+  title:
+    name: ゆるゆりノベルアンソロジー
+    kana: ゆるゆりのべるあんそろじー
+  creator:
+  - "id": "88f7fbea-238d-486d-b075-9d5947142d36"
+    "name": "森田季節"
+    "type": "author"
+  - "id": "43ea3753-3299-4ba2-adf2-20c5a92ff45d"
+    "name": "瑞智士記"
+    "type": "author"
+  - id: 780a27e3-a6d1-46af-ace7-67d5339170de
+    name: 菅沼誠也
+    type: author
+  - id: 22b875cd-f01f-4d3c-b3b9-7a3d797d8c60
+    name: 水上暮菜
+    type: illust
+  - id: bc904db3-885d-4514-b15f-898e1449d8f1
+    name: うめきち
+    type: illust
+  - id: 03edc31f-f51a-4f5e-8de2-cb39e664af83
+    name: 伊月クロ
+    type: illust
+  - id: d1837b41-861a-4b9e-8751-21c6aa7e660a
+    name: なもり
+    type: original
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000011278741-00
+  - domain: isbn
+    id: '9784758042574'
+  publish:
+    issued: 2011-10
+    page: 125
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 848
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 93c3515c-4e66-4be5-b34c-d77c752f57c5
+  title:
+    name: 夜姫と亡国の六姫士
+    kana: よるひめとぼうこくのろくきし
+  creator:
+  - id: e59c18ee-2a5d-4e33-8c4b-a5ef38e8813d
+    name: 舞阪洸
+    type: author
+  - id: c2c01653-1fc5-4eec-93e8-a55083728fdc
+    name: こ～ちゃ
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I024690656-00
+  - domain: isbn
+    id: '9784047290129'
+  publish:
+    issued: 2013-08
+    page: 314
+    publisher: エンターブレイン
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 600
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- "id": "99f4141e-0f51-4b51-b819-29c932392a0c"
+  "title":
+    "name": "夜姫と亡国の六姫士 2"
+    "kana": "よるひめとぼうこくのろくきし 2"
+  "creator":
+  - id: e59c18ee-2a5d-4e33-8c4b-a5ef38e8813d
+    name: 舞阪洸
+    type: author
+  - id: c2c01653-1fc5-4eec-93e8-a55083728fdc
+    name: こ～ちゃ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I024935195-00"
+  - "domain": "isbn"
+    "id": "9784047292154"
+  "publish":
+    "issued": "2013-11"
+    "page": 315
+    "publisher": "ファミ通文庫"
+    "volume": 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "26e6f0dc-18fc-42cf-8661-55b0c8eb7d19"
+  "title":
+    "name": "夜姫と亡国の六姫士 3"
+    "kana": "よるひめとぼうこくのろくきし 3"
+  "creator":
+  - id: e59c18ee-2a5d-4e33-8c4b-a5ef38e8813d
+    name: 舞阪洸
+    type: author
+  - id: c2c01653-1fc5-4eec-93e8-a55083728fdc
+    name: こ～ちゃ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025344454-00"
+  - "domain": "isbn"
+    "id": "9784047295247"
+  "publish":
+    "issued": "2014-04"
+    "page": 278
+    "publisher": "ファミ通文庫"
+    "volume": 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 600
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "f4a6f9f2-105a-4c39-9123-857c904265c3"
+  "title":
+    "name": "夜姫と亡国の六姫士 4"
+    "kana": "よるひめとぼうこくのろくきし 4"
+  "creator":
+  - id: e59c18ee-2a5d-4e33-8c4b-a5ef38e8813d
+    name: 舞阪洸
+    type: author
+  - id: c2c01653-1fc5-4eec-93e8-a55083728fdc
+    name: こ～ちゃ
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025513361-00"
+  - "domain": "isbn"
+    "id": "9784047297296"
+  "publish":
+    "issued": "2014-07"
+    "page": 275
+    "publisher": "ファミ通文庫"
+    "volume": 4
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 620
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+
+- id: 5efebbfa-d7b6-45a8-91a7-a419eb2c8a09
+  title:
+    name: 'りてらりっ : 深風高校文芸部'
+    kana: りてらりっ:みかぜこうこうぶんげいぶ
+  creator:
+  - id: 4443af80-861a-49ba-8711-1680efd70ba9
+    name: 鯨晴久
+    type: author
+  - id: 4dbe3090-ed6a-4261-b026-f1e977c17893
+    name: 剣康之
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010950321-00
+  - domain: isbn
+    id: '9784758041300'
+  publish:
+    issued: 2010-03
+    page: 253
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 590
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: f45e5005-cafd-43a6-b383-9fe438b1ada0
+  title:
+    name: '緑衣の牙 : 長編推理小説'
+    kana: りょくいのきば:ちょうへんすいりしょうせつ
+  creator:
+  - id: c6765ce5-4c30-4ce7-b4bb-dcc76439c290
+    name: 竹本健治
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002673320-00
+  - domain: isbn
+    id: '4334725627'
+  publish:
+    issued: 1998-03
+    page: 312
+    publisher: 光文社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 533
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 6579e2c8-a6f4-4387-92f8-6b9f3c0435df
+  title:
+    name: リリイの籠
+    kana: りりいのかご
+  creator:
+  - id: cce4d095-a45b-4be9-846c-335f531888e3
+    name: 豊島ミホ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000009200742-00
+  - domain: isbn
+    id: '9784334925864'
+  publish:
+    issued: 2007-12
+    page: 216
+    publisher: 光文社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 1300
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 711332b7-3fba-4468-8de4-ef4c377b27f2
+  title:
+    name: リンスの冒険大変記
+    kana: りんすのぼうけんたいへんき
+  creator:
+  - "id": "8428487e-efb7-4def-b909-1a382b738c1d"
+    "name": "鳳翔伶"
+    "type": "author"
+  - id: 413fc6d5-6659-4dda-9542-0a3c59923e87
+    name: 海野螢
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000008502194-00
+  - domain: isbn
+    id: 487892330X
+  publish:
+    issued: 2006-11
+    page: 238
+    publisher: 青心社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 600
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 701303fa-7c1b-403f-8d6c-aff42d41843f
+  title:
+    name: ルビーフルーツ
+    kana: るびーふるーつ
+  creator:
+  - id: f24bdad6-9794-46ea-9d44-643162bc7b7f
+    name: 斎藤綾子
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000002522105-00
+  - domain: isbn
+    id: '4101495114'
+  publish:
+    issued: 1996-11
+    page: 199
+    publisher: 新潮社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 360
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: f50c32fc-b6c7-45cf-8521-99812fb06d64
+  title:
+    name: レズビアン・ライフ
+    kana: れずびあん・らいふ
+  creator:
+  - id: 8f673a2e-5095-411e-a20c-4416e4380b6f
+    name: 早見秋
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I024390772-00
+  - domain: isbn
+    id: '4876972540'
+  publish:
+    issued: 1999-06
+    page: 156
+    publisher: 海越出版社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 1200
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- id: 60c97a72-47f3-4999-bcbf-63f301e4ce36
+  title:
+    name: ロケットガール 女子高生、リフトオフ!
+    kana: ろけっとがーる じょしこうせいりふとおふ
+  creator:
+  - id: a9cf3c27-42ae-4aa1-af9b-188a03e9cb93
+    name: 野尻抱介
+    type: author
+  - id: 367989cf-0e1f-409c-820c-56baad62ff8d
+    name: 山内則康
+    type: illust
+  - id: 2170c2be-2c64-4977-aaba-37f41769f101
+    name: むっちりむうにい
+    type: illust
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I024959537-00
+  - domain: isbn
+    id: '9784150311360'
+  publish:
+    issued: 2013-11
+    page: 344
+    publisher: 早川書房
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 700
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+- "id": "aa485bd7-79f0-490c-bac3-40f048c0693b"
+  "title":
+    "name": "ロケットガール 天使は結果オーライ"
+    "kana": "ろけっとがーる てんしはけっかおーらい"
+  "creator":
+  - id: a9cf3c27-42ae-4aa1-af9b-188a03e9cb93
+    name: 野尻抱介
+    type: author
+  - id: 2170c2be-2c64-4977-aaba-37f41769f101
+    name: むっちりむうにい
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025170776-00"
+  - "domain": "isbn"
+    "id": "9784150311476"
+  "publish":
+    "issued": "2014-02"
+    "page": 316
+    "publisher": "ハヤカワ文庫 JA"
+    volume: 2
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 700
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "caed4eab-e8c3-41d9-b706-49123da2dd3f"
+  "title":
+    "name": "ロケットガール 私と月につきあって"
+    "kana": "ろけっとがーる わたしとつきにつきあって"
+  "creator":
+  - id: a9cf3c27-42ae-4aa1-af9b-188a03e9cb93
+    name: 野尻抱介
+    type: author
+  - id: 2170c2be-2c64-4977-aaba-37f41769f101
+    name: むっちりむうにい
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025369362-00"
+  - "domain": "isbn"
+    "id": "9784150311551"
+  "publish":
+    "issued": "2014-04"
+    "page": 293
+    "publisher": "ハヤカワ文庫 JA"
+    volume: 3
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 680
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+- "id": "46a24e4c-8f89-4d32-93c9-f0b8cbb70c1c"
+  "title":
+    "name": "ロケットガール 魔法使いとランデヴー"
+    "kana": "ろけっとがーる まほうつかいとらんでゔー"
+  "creator":
+  - id: a9cf3c27-42ae-4aa1-af9b-188a03e9cb93
+    name: 野尻抱介
+    type: author
+  - id: 2170c2be-2c64-4977-aaba-37f41769f101
+    name: むっちりむうにい
+    type: illust
+  "identifier":
+  - "domain": "iss.ndl.go.jp"
+    "id": "R100000002-I025418013-00"
+  - "domain": "isbn"
+    "id": "9784150311575"
+  "publish":
+    "issued": "2014-05"
+    "page": 261
+    "publisher": "ハヤカワ文庫 JA"
+    volume: 4
+  "price":
+  - "country": "jp"
+    "last_visit": "2017-05-28"
+    "n": 660
+    "source": "iss.ndl.go.jp"
+  "last_update": "2017-05-28"
+
+- id: b19d9100-4df0-4696-bc75-9832eb3e061e
+  title:
+    name: わすれなぐさ
+    kana: わすれなぐさ
+  creator:
+  - "id": "25eb52b5-6216-487a-ab92-d7e52397c083"
+    "name": "吉屋信子"
+    "type": "author"
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010778109-00
+  - domain: isbn
+    id: '9784309410074'
+  publish:
+    issued: 2010-03
+    page: 221
+    publisher: 河出書房新社
+  price:
+  - country: jp
+    last_visit: '2017-05-28'
+    n: 750
+    source: iss.ndl.go.jp
+  last_update: '2017-05-28'
+
+- id: 1b878181-531d-487b-9469-bdd7b04135bf
+  title:
+    name: ツインケイク
+    kana: ついんけいく
+  creator:
+  - id: af467bf5-1cb6-45ae-b39a-4cc4f7e83e8b
+    name: 青井はな
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731168-00
+  - domain: isbn
+    id: '9784758071413'
+  publish:
+    issued: 2011-07
+    page: 129
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 3be9cd4a-e164-44ac-814b-54a18e60ac6b
+  title:
+    name: プリンセス♥プリンセス
+    kana: ぷりんせす♥ぷりんせす
+  creator:
+  - id: 55371439-9a12-4112-a4b7-7e73b1f48171
+    name: 青木光恵
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731190-00
+  - domain: isbn
+    id: '9784758071086'
+  publish:
+    issued: 2010-09
+    page: 138
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 93e5fc68-5988-461f-aff1-010d519d5258
+  title:
+    name: ナチュリーズ
+    kana: なちゅりーず
+  creator:
+  - id: 877e9386-b5b6-4029-9219-2b94b3cd9c9f
+    name: あおと響
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745212-00
+  - domain: isbn
+    id: '9784758074063'
+  publish:
+    issued: 2015-05
+    page: 147
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: ee996d62-6aaa-423f-a1b5-e74a4448e56b
+  title:
+    name: プリンスプリンス
+    kana: ぷりんすぷりんす
+  creator:
+  - id: 877e9386-b5b6-4029-9219-2b94b3cd9c9f
+    name: あおと響
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027262265-00
+  - domain: isbn
+    id: '9784758074827'
+  publish:
+    issued: 2015-11
+    page: 165
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 680
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 08d28b68-bb93-4f91-b18b-c00bfbcb486c
+  title:
+    name: 初恋構造式
+    kana: はつこいこうぞうしき
+  creator:
+  - id: 6f9d95d8-07e4-4939-a2c4-af932aaf6882
+    name: 天野しゅにんた
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731114-00
+  - domain: isbn
+    id: '9784758071949'
+  publish:
+    issued: 2012-06
+    page: 136
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 052b2c57-0cf8-49b7-9b43-e1978bac3baa
+  title:
+    name: 私の世界を構成する塵のような何か。 1
+    kana: わたしのせかいをこうせいするちりのようななにか。 1
+  creator:
+  - id: 6f9d95d8-07e4-4939-a2c4-af932aaf6882
+    name: 天野しゅにんた
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027966012-00
+  - domain: isbn
+    id: '9784758072076'
+  publish:
+    issued: 2012-09
+    page: 162
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 08cfbb3d-fe76-4a72-9b1e-76189fe0cfed
+  title:
+    name: 私の世界を構成する塵のような何か。 2
+    kana: わたしのせかいをこうせいするちりのようななにか。 2
+  creator:
+  - id: 6f9d95d8-07e4-4939-a2c4-af932aaf6882
+    name: 天野しゅにんた
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027966025-00
+  - domain: isbn
+    id: '9784758072397'
+  publish:
+    issued: 2013-05
+    page: 164
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 12985fe2-5c9e-404e-8199-4a792e579119
+  title:
+    name: 私の世界を構成する塵のような何か。 3
+    kana: わたしのせかいをこうせいするちりのようななにか。 3
+  creator:
+  - id: 6f9d95d8-07e4-4939-a2c4-af932aaf6882
+    name: 天野しゅにんた
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731137-00
+  - domain: isbn
+    id: '9784758072847'
+  publish:
+    issued: 2014-01
+    page: 171
+    publisher: 一迅社
+    volume: 3
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 9a226608-5b3d-4f00-8d5f-151d19f6d923
+  title:
+    name: Philosophia
+    kana: ふぃろそふぃあ
+  creator:
+  - id: 6f9d95d8-07e4-4939-a2c4-af932aaf6882
+    name: 天野しゅにんた
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731143-00
+  - domain: isbn
+    id: '9784758073332'
+  publish:
+    issued: 2014-09
+    page: 189
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 926
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 9148a438-2f55-4719-8197-2762d08ef2ac
+  title:
+    name: あやめ14 1
+    kana: あやめふぉーてぃーん 1
+  creator:
+  - id: 6f9d95d8-07e4-4939-a2c4-af932aaf6882
+    name: 天野しゅにんた
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731158-00
+  - domain: isbn
+    id: '9784758073813'
+  publish:
+    issued: 2015-02
+    page: 148
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 6764431e-1391-4eb8-acf5-d7023c894195
+  title:
+    name: あやめ14 2
+    kana: あやめふぉーてぃーん 2
+  creator:
+  - id: 6f9d95d8-07e4-4939-a2c4-af932aaf6882
+    name: 天野しゅにんた
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027250456-00
+  - domain: isbn
+    id: '9784758074933'
+  publish:
+    issued: 2015-11
+    page: 145
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: a381ef2d-dace-4b24-8df6-15a8af71cb64
+  title:
+    name: Flower*flower
+    kana: ふらわーふらわー
+  creator:
+  - id: 8d68e510-9b75-4017-91d7-a556220a284f
+    name: 石見翔子
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731189-00
+  - domain: isbn
+    id: '9784758070362'
+  publish:
+    issued: 2009-01
+    page: 160
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+
+- id: f55c1afa-0a22-4591-992d-d2b9564d3a9a
+  title:
+    name: 死神アリス 1
+    kana: しにがみありす 1
+  creator:
+  - id: 5d79c391-a413-4026-8afb-ccbab9c5ecf2
+    name: いづみやおとは
+    type: author
+  identifier:
+  - domain: isbn
+    id: '4758070970'
+  publish:
+    issued: "2010-07-17"
+    publisher: 一迅社
+    volume: 1
+  price: []
+  last_update: '2017-06-12'
+
+- id: a016b2e9-995c-4371-b484-1c836d5a7f29
+  title:
+    name: 死神アリス 2
+    kana: しにがみありす 2
+  creator:
+  - id: 5d79c391-a413-4026-8afb-ccbab9c5ecf2
+    name: いづみやおとは
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731112-00
+  - domain: isbn
+    id: '9784758071659'
+  publish:
+    issued: 2011-09
+    page: 123
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 1c50ef80-1475-46b9-86b6-3f7d463d4604
+  title:
+    name: 最低女神
+    kana: さいていめがみ
+  creator:
+  - id: 5a9e0bc9-99e2-4e70-a2ac-80144cbf5ea8
+    name: 井村瑛
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965941-00
+  - domain: isbn
+    id: '9784758071864'
+  publish:
+    issued: 2012-05
+    page: 163
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 0b2311e8-e9d8-4997-95aa-a2bab3f2d027
+  title:
+    name: イノセントノイズ
+    kana: いのせんとのいず
+  creator:
+  - id: 5a9e0bc9-99e2-4e70-a2ac-80144cbf5ea8
+    name: 井村瑛
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731170-00
+  - domain: isbn
+    id: '9784758072984'
+  publish:
+    issued: 2014-05
+    page: 130
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 926
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 95bbc396-05bb-4898-9dc3-ab0be48bef38
+  title:
+    name: Vespa
+    kana: べすぱ
+  creator:
+  - id: e435c075-a320-4fda-aaf8-cb6af95793ba
+    name: 大北紘子
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731231-00
+  - domain: isbn
+    id: '9784758073196'
+  publish:
+    issued: 2014-07
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 926
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 4c90b2ae-876c-4b1a-8446-1e4d51478775
+  title:
+    name: ブラックヤギーと劇薬まどれーぬ
+    kana: ぶらっくやぎーとげきやくまどれーぬ
+  creator:
+  - id: 965b3ad7-a257-426d-a2c5-5c69b55aeb9a
+    name: 大沢やよい
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027966000-00
+  - domain: isbn
+    id: '9784758071925'
+  publish:
+    issued: 2012-06
+    page: 142
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: eab35864-739c-432d-8554-722e66ecbafd
+  title:
+    name: ストレンジベイビーズ
+    kana: すとれんじべいびーず
+  creator:
+  - id: 965b3ad7-a257-426d-a2c5-5c69b55aeb9a
+    name: 大沢やよい
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731215-00
+  - domain: isbn
+    id: '9784758072670'
+  publish:
+    issued: 2013-08
+    page: 156
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: ad4753a2-5c42-43a8-9567-578b24738bd0
+  title:
+    name: 屋上ぴかぴかロマンス
+    kana: おくじょうぴかぴかろまんす
+  creator:
+  - id: 965b3ad7-a257-426d-a2c5-5c69b55aeb9a
+    name: 大沢やよい
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731204-00
+  - domain: isbn
+    id: '9784758072854'
+  publish:
+    issued: 2014-02
+    page: 120
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 25655702-c8de-46b4-98fa-c42f0ec2d6e7
+  title:
+    name: スパイスガールズ
+    kana: すぱいすがーるず
+  creator:
+  - id: 965b3ad7-a257-426d-a2c5-5c69b55aeb9a
+    name: 大沢やよい
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731195-00
+  - domain: isbn
+    id: '9784758073820'
+  publish:
+    issued: 2015-02
+    page: 134
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: cdd2dff2-f0f1-40a6-9bd6-0d39956339b0
+  title:
+    name: 2DK、Gペン、目覚まし時計。 1
+    kana: 2DK、Gぺん、めざましどけい。 1
+  creator:
+  - id: 965b3ad7-a257-426d-a2c5-5c69b55aeb9a
+    name: 大沢やよい
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745040-00
+  - domain: isbn
+    id: '9784758074346'
+  publish:
+    issued: 2015-07
+    page: 169
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 680
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 9a0ef9fd-4850-45a8-924e-e3a1ba4e2015
+  title:
+    name: 2DK、Gペン、目覚まし時計。 2
+    kana: 2DK、Gぺん、めざましどけい。 2
+  creator:
+  - id: 965b3ad7-a257-426d-a2c5-5c69b55aeb9a
+    name: 大沢やよい
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027252755-00
+  - domain: isbn
+    id: '9784758075060'
+  publish:
+    issued: 2016-01
+    page: 88
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 680
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 17b382f6-5a16-49db-8989-0247422d4ecc
+  title:
+    name: かわいいあなた
+    kana: かわいいあなた
+  creator:
+  - id: e07d6282-94b4-4688-908a-670d36c887f4
+    name: 乙ひより
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027492403-00
+  - domain: isbn
+    id: '9784758070171'
+  publish:
+    issued: 2007-08
+    page: 140
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: e80b5512-6a33-4cb6-bba5-55c7ccbab2b6
+  title:
+    name: クローバー
+    kana: くろーばー
+  creator:
+  - id: e07d6282-94b4-4688-908a-670d36c887f4
+    name: 乙ひより
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731134-00
+  - domain: isbn
+    id: '9784758070355'
+  publish:
+    issued: 2008-11
+    page: 80
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 225365c6-31e6-4701-93f9-1aee3cf6b8dd
+  title:
+    name: 'オレンジイエロー : 短編集'
+    kana: おれんじいえろー:たんぺんしゅう
+  creator:
+  - id: e07d6282-94b4-4688-908a-670d36c887f4
+    name: 乙ひより
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027966029-00
+  - domain: isbn
+    id: '9784758070829'
+  publish:
+    issued: 2010-06
+    page: 92
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 28132884-3f4d-49ec-8b00-663867e6a6b4
+  title:
+    name: 水色シネマ
+    kana: みずいろしねま
+  creator:
+  - id: e07d6282-94b4-4688-908a-670d36c887f4
+    name: 乙ひより
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731148-00
+  - domain: isbn
+    id: '9784758070812'
+  publish:
+    issued: 2010-06
+    page: 152
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 1f0d85a3-9434-4788-96d6-9b701ebf9e61
+  title:
+    name: 少女惑星
+    kana: しょうじょわくせい
+  creator:
+  - id: 2106569f-a6a1-4f23-8272-2a85e51ce3f4
+    name: 柏原麻実
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731157-00
+  - domain: isbn
+    id: '9784758072311'
+  publish:
+    issued: 2013-04
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 0e8bafc2-e7eb-42f0-9f99-8acffda4ffa0
+  title:
+    name: 'GIRLS UP-RISING : カズアキ×深見真 百合姫表紙画集'
+    kana: がーるずあっぷらいじんぐ:かずあきふかみまことゆりひめひょうしがしゅう
+  creator:
+  - id: bbb44c5b-9ebb-4de3-976a-34c93ad7d948
+    name: 深見真
+    type: author
+  - id: ece179ea-389b-45fb-b713-6bd435112d5c
+    name: カズアキ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I025153606-00
+  - domain: isbn
+    id: '9784758072939'
+  publish:
+    issued: 2014-02
+    page: 81
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 2000
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 7855dff0-1b5c-4258-8356-52b0aea2a7a1
+  title:
+    name: ×××したいくらい可愛い君が
+    kana: ×××したいくらいかわいいきみが
+  creator:
+  - id: 1f1c094e-09b5-470b-aa65-3dfc9345b7a6
+    name: 春日沙生
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745238-00
+  - domain: isbn
+    id: '9784758074117'
+  publish:
+    issued: 2015-05
+    page: 144
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 7e7adcbf-22a8-45ad-84bc-c5cebdb831d2
+  title:
+    name: 住めど地獄のインフェルノ
+    kana: すめどじごくのいんふぇるの
+  creator:
+  - id: 1f1c094e-09b5-470b-aa65-3dfc9345b7a6
+    name: 春日沙生
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027262126-00
+  - domain: isbn
+    id: '9784758075015'
+  publish:
+    issued: 2015-12
+    page: 165
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 680
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 49d3d355-8638-42ad-9a61-e6ae6b57edaa
+  title:
+    name: 純水アドレッセンス
+    kana: じゅんすいあどれっせんす
+  creator:
+  - id: 3c06dc2e-a31d-4f2a-9064-cab12ab4e968
+    name: かずまこを
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027492593-00
+  - domain: isbn
+    id: '9784758070416'
+  publish:
+    issued: 2009-02
+    page: 148
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 8c3e0bdb-7977-4f10-bbc8-0eba46d0cb3f
+  title:
+    name: さよならフォークロア
+    kana: さよならふぉーくろあ
+  creator:
+  - id: 3c06dc2e-a31d-4f2a-9064-cab12ab4e968
+    name: かずまこを
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965906-00
+  - domain: isbn
+    id: '9784758071246'
+  publish:
+    issued: 2010-12
+    page: 132
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 87ce82c5-30ef-480c-861b-0554b058ff45
+  title:
+    name: 名前はまだない
+    kana: なまえはまだない
+  creator:
+  - id: 3c06dc2e-a31d-4f2a-9064-cab12ab4e968
+    name: かずまこを
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965900-00
+  - domain: isbn
+    id: '9784758072373'
+  publish:
+    issued: 2013-05
+    page: 140
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: a5394fb5-c02e-417d-8b00-d185f39eda2d
+  title:
+    name: 明日の君に花束を
+    kana: あすのきみにはなたばを
+  creator:
+  - id: df4af347-0a7f-4297-ad90-1fc7793539c1
+    name: 片倉アコ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731218-00
+  - domain: isbn
+    id: '9784758073455'
+  publish:
+    issued: 2014-10
+    page: 142
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 04aa9a7f-4949-4337-9dcd-63bdf35f9e52
+  title:
+    name: ラストワルツ
+    kana: らすとわるつ
+  creator:
+  - id: df4af347-0a7f-4297-ad90-1fc7793539c1
+    name: 片倉アコ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027262127-00
+  - domain: isbn
+    id: '9784758075077'
+  publish:
+    issued: 2016-01
+    page: 161
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 680
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: d23937ae-5e71-4808-a6df-3392420830be
+  title:
+    name: 初恋テクトニクス
+    kana: はつこいてくとにくす
+  creator:
+  - id: 0a2751fd-118b-49e2-aec2-a85e69e2dec5
+    name: かもたま
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965998-00
+  - domain: isbn
+    id: '9784758071574'
+  publish:
+    issued: 2011-08
+    page: 114
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 95c46dcf-5620-4fd8-95e3-e38f6b933073
+  title:
+    name: サイダーと泣き虫。
+    kana: さいだーとなきむし。
+  creator:
+  - id: 656a84eb-b304-4a29-836f-e6920b0facf9
+    name: 缶乃
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731230-00
+  - domain: isbn
+    id: '9784758073974'
+  publish:
+    issued: 2015-04
+    page: 144
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 84e7a610-7eb5-4495-90cb-b2f5f4b5b6fd
+  title:
+    name: マーメイドライン
+    kana: まーめいどらいん
+  creator:
+  - id: 8e075650-daa1-4ec8-985e-685ac9e178b9
+    name: 金田一蓮十郎
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027492413-00
+  - domain: isbn
+    id: '9784758070256'
+  publish:
+    issued: 2008-03
+    page: 145
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+
+- id: 2af41ce3-e1ed-42c5-a210-fc211cad7e82
+  title:
+    name: 犬神さんと猫山さん 1
+    kana: いぬがみさんとねこやまさん 1
+  creator:
+  - id: c74fd4ad-bcc0-457b-8384-2be68e0807b8
+    name: くずしろ
+    type: author
+  identifier:
+  - domain: isbn
+    id: '4758072248'
+  publish:
+    issued: "2013-01-18"
+    publisher: 一迅社
+    volume: 1
+  price: []
+  last_update: '2017-06-12'
+
+- id: 742b625e-81e8-4434-b59f-2bf6189fecbe
+  title:
+    name: 犬神さんと猫山さん 2
+    kana: いぬがみさんとねこやまさん 2
+  creator:
+  - id: c74fd4ad-bcc0-457b-8384-2be68e0807b8
+    name: くずしろ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731239-00
+  - domain: isbn
+    id: '9784758072793'
+  publish:
+    issued: 2013-12
+    page: 140
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 819
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 5c992deb-c242-4f77-8aa8-5768064c9465
+  title:
+    name: 犬神さんと猫山さん 3
+    kana: いぬがみさんとねこやまさん 3
+  creator:
+  - id: c74fd4ad-bcc0-457b-8384-2be68e0807b8
+    name: くずしろ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731245-00
+  - domain: isbn
+    id: '9784758072991'
+  publish:
+    issued: 2014-05
+    page: 120
+    publisher: 一迅社
+    volume: 3
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 819
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 0b6599d1-6dbf-462a-92b7-279851b577f7
+  title:
+    name: 犬神さんと猫山さん 4
+    kana: いぬがみさんとねこやまさん 4
+  creator:
+  - id: c74fd4ad-bcc0-457b-8384-2be68e0807b8
+    name: くずしろ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731250-00
+  - domain: isbn
+    id: '9784758073981'
+  publish:
+    issued: 2015-04
+    page: 136
+    publisher: 一迅社
+    volume: 4
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 819
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: d40ac8b6-2154-409c-8e83-08ba3541a825
+  title:
+    name: 愛羅武勇より愛してる
+    kana: あいらぶゆうよりあいしてる
+  creator:
+  - id: 001f960b-07e5-4f92-8400-5de8830cae37
+    name: くみちょう
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745280-00
+  - domain: isbn
+    id: '9784758074070'
+  publish:
+    issued: 2015-05
+    page: 144
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 40aa8057-b24c-4bf8-8e52-f3556a8f337c
+  title:
+    name: リンケージ
+    kana: りんけーじ
+  creator:
+  - id: c6a2c466-d6a0-474d-a030-54a131a18888
+    name: 倉田嘘
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965948-00
+  - domain: isbn
+    id: '9784758070522'
+  publish:
+    issued: 2009-07
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: dcd58212-67dd-44af-91f8-a3fbe8a868b6
+  title:
+    name: それでもやっぱり恋をする。
+    kana: それでもやっぱりこいをする。
+  creator:
+  - id: c6a2c466-d6a0-474d-a030-54a131a18888
+    name: 倉田嘘
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733733-00
+  - domain: isbn
+    id: '9784758071277'
+  publish:
+    issued: 2011-01
+    page: 144
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: f3be5ce6-28ec-4054-88b3-07547cf40aa1
+  title:
+    name: 百合男子 1
+    kana: ゆりだんし 1
+  creator:
+  - id: c6a2c466-d6a0-474d-a030-54a131a18888
+    name: 倉田嘘
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731310-00
+  - domain: isbn
+    id: '9784758071895'
+  publish:
+    issued: 2011-08
+    publisher: 一迅社
+    volume: 1
+  price: []
+  last_update: '2017-06-12'
+- id: 03f94dcf-cc64-4f17-a8c9-878157274224
+  title:
+    name: 百合男子 2
+    kana: ゆりだんし 2
+  creator:
+  - id: c6a2c466-d6a0-474d-a030-54a131a18888
+    name: 倉田嘘
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731310-00
+  - domain: isbn
+    id: '4758071888'
+  - domain: isbn
+    id: '9784758071895'
+  publish:
+    issued: 2012-07
+    page: 183
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 1400
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 5b2da60c-c109-49b6-86ff-87d31ee1095f
+  title:
+    name: 百合男子 3
+    kana: ゆりだんし 3
+  creator:
+  - id: c6a2c466-d6a0-474d-a030-54a131a18888
+    name: 倉田嘘
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731315-00
+  - domain: isbn
+    id: '9784758072267'
+  publish:
+    issued: 2013-02
+    page: 163
+    publisher: 一迅社
+    volume: 3
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: a8bc0482-2bee-4d91-9583-8ae1e2d38b79
+  title:
+    name: 百合男子 4
+    kana: ゆりだんし 4
+  creator:
+  - id: c6a2c466-d6a0-474d-a030-54a131a18888
+    name: 倉田嘘
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731320-00
+  - domain: isbn
+    id: '9784758072663'
+  publish:
+    issued: 2013-08
+    page: 165
+    publisher: 一迅社
+    volume: 4
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 1143
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 1d6c9f2e-57b0-4db2-adad-cf7362115104
+  title:
+    name: 百合男子 5
+    kana: ゆりだんし 5
+  creator:
+  - id: c6a2c466-d6a0-474d-a030-54a131a18888
+    name: 倉田嘘
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731329-00
+  - domain: isbn
+    id: '9784758073165'
+  publish:
+    issued: 2014-07
+    page: 197
+    publisher: 一迅社
+    volume: 5
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: fe56dfa6-a87f-45fd-bc17-e624b56b6b58
+  title:
+    name: 俺の嫁なんていねぇ!
+    kana: おれのよめなんていねぇ!
+  creator:
+  - id: c6a2c466-d6a0-474d-a030-54a131a18888
+    name: 倉田嘘
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027262129-00
+  - domain: isbn
+    id: '9784758074766'
+  publish:
+    issued: 2015-11
+    page: 164
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 680
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 781dd849-8193-45a9-99f9-a2d14af1d0c9
+  title:
+    name: 水色エーテル
+    kana: みずいろえーてる
+  creator:
+  - id: 837eae78-94a9-4d29-a6cb-faa8e2eb6a35
+    name: 黒霧操
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731264-00
+  - domain: isbn
+    id: '9784758071550'
+  publish:
+    issued: 2011-08
+    page: 110
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: ca92e7f3-a497-4a5b-8a7e-d1436c48df24
+  title:
+    name: 茜色コンフィチュール
+    kana: あかねいろこんふぃちゅーる
+  creator:
+  - id: 837eae78-94a9-4d29-a6cb-faa8e2eb6a35
+    name: 黒霧操
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731274-00
+  - domain: isbn
+    id: '9784758072120'
+  publish:
+    issued: 2012-10
+    page: 134
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 785f97a2-55c4-42c9-ab10-780a5d14da80
+  title:
+    name: マテリアルキャンディ
+    kana: まてりあるきゃんでぃ
+  creator:
+  - id: 837eae78-94a9-4d29-a6cb-faa8e2eb6a35
+    name: 黒霧操
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731259-00
+  - domain: isbn
+    id: '9784758072472'
+  publish:
+    issued: 2013-06
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 93f3b52d-5f86-4912-96db-3c23a8eb4f42
+  title:
+    name: インフェルノガール
+    kana: いんふぇるのがーる
+  creator:
+  - id: 837eae78-94a9-4d29-a6cb-faa8e2eb6a35
+    name: 黒霧操
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026731243-00
+  - domain: isbn
+    id: '9784758072953'
+  publish:
+    issued: 2014-03
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 2572f307-70b6-4a1d-b8f8-c238d442d858
+  title:
+    name: レンアイマンガ
+    kana: れんあいまんが
+  creator:
+  - id: 39d5afdc-d48c-4f06-8cc3-f9af3dc1dad8
+    name: コダマナオコ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733763-00
+  - domain: isbn
+    id: '9784758073738'
+  publish:
+    issued: 2014-12
+    page: 167
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 926
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: ed6070f1-5df5-4718-bb07-6418020f6bff
+  title:
+    name: '捏造トラップ : NTR'
+    kana: ねつぞうとらっぷ:NTR
+  creator:
+  - id: 39d5afdc-d48c-4f06-8cc3-f9af3dc1dad8
+    name: コダマナオコ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745042-00
+  - domain: isbn
+    id: '9784758074339'
+  publish:
+    issued: 2015-07
+    page: 164
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 680
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: a6cf64e8-49d7-44df-a0e8-893b3cd43a4f
+  title:
+    name: 春夏秋冬
+    kana: はるなつあきふゆ
+  creator:
+  - id: bb49b10b-0379-4423-9d39-a0f86cc5c620
+    name: 蔵王大志
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027494958-00
+  - domain: isbn
+    id: '9784758070119'
+  publish:
+    issued: 2007-05
+    page: 174
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 4801e0a0-d395-4e95-830a-c8c13fe6e67a
+  title:
+    name: 恋愛遺伝子XX (ダブルエックス) 1
+    kana: れんあいいでんしだぶるえっくす 1
+  creator:
+  - id: bb49b10b-0379-4423-9d39-a0f86cc5c620
+    name: 蔵王大志
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733789-00
+  - domain: isbn
+    id: '9784758071437'
+  publish:
+    issued: 2011-07
+    page: 158
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 1800
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 506b1bf4-3a76-42c5-9f46-c04ae37a8f47
+  title:
+    name: 恋愛遺伝子XX (ダブルエックス) 2
+    kana: れんあいいでんしだぶるえっくす 2
+  creator:
+  - id: bb49b10b-0379-4423-9d39-a0f86cc5c620
+    name: 蔵王大志
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733810-00
+  - domain: isbn
+    id: '9784758072892'
+  publish:
+    issued: 2014-02
+    page: 168
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: ec3edecc-de66-4bdb-a037-61315b506198
+  title:
+    name: パイをあげましょ、あなたにパイをね
+    kana: ぱいおあげましょ、あなたにぱいをね
+  creator:
+  - id: 91b8abe9-9aed-449b-b71d-adf99cc3cd4f
+    name: さかもと麻乃
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965963-00
+  - domain: isbn
+    id: '9784758071765'
+  publish:
+    issued: 2012-02
+    page: 145
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 2298d6ff-27fb-4704-a235-e01ece659364
+  title:
+    name: 沼、暗闇、夜の森
+    kana: ぬま、くらやみ、よるのもり
+  creator:
+  - id: 91b8abe9-9aed-449b-b71d-adf99cc3cd4f
+    name: さかもと麻乃
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965915-00
+  - domain: isbn
+    id: '9784758072250'
+  publish:
+    issued: 2013-02
+    page: 147
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 5fa948f6-fe9c-4db1-aa56-fd702740748d
+  title:
+    name: Citrus 1
+    kana: しとらす 1
+  creator:
+  - id: 6fdaf4d8-4e27-4f47-823b-0b244b030899
+    name: サブロウタ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733838-00
+  - domain: isbn
+    id: '9784758072649'
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745033-00
+  - domain: isbn
+    id: '9784758074520'
+  publish:
+    issued: 2013-08
+    page: 108
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 6b2c9440-679e-4d9e-8cff-1ee41aa4bed4
+  title:
+    name: Citrus 2
+    kana: しとらす 2
+  creator:
+  - id: 6fdaf4d8-4e27-4f47-823b-0b244b030899
+    name: サブロウタ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733846-00
+  - domain: isbn
+    id: '9784758072977'
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745035-00
+  - domain: isbn
+    id: '9784758074537'
+  publish:
+    issued: 2014-04
+    page: 164
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 6c4c31b7-8e3b-4dd3-904a-b80c83051efb
+  title:
+    name: Citrus 3
+    kana: しとらす 3
+  creator:
+  - id: 6fdaf4d8-4e27-4f47-823b-0b244b030899
+    name: サブロウタ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733849-00
+  - domain: isbn
+    id: '9784758073721'
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745036-00
+  - domain: isbn
+    id: '9784758074544'
+  publish:
+    issued: 2014-12
+    page: 158
+    publisher: 一迅社
+    volume: 3
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 9f8e6eea-1ae9-4a99-8db7-764b13f418e1
+  title:
+    name: Citrus 4
+    kana: しとらす 4
+  creator:
+  - id: 6fdaf4d8-4e27-4f47-823b-0b244b030899
+    name: サブロウタ
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745037-00
+  - domain: isbn
+    id: '9784758074483'
+  publish:
+    issued: 2015-08
+    page: 164
+    publisher: 一迅社
+    volume: 4
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 680
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 9eb8a7d9-a673-494c-b071-5d5255cb2b62
+  title:
+    name: 初恋姉妹 1
+    kana: はつこいしまい 1
+  creator:
+  - id: 750184b4-8f95-47ee-84e7-08beb97af307
+    name: 東雲水生
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965940-00
+  - domain: isbn
+    id: '4758070024'
+  publish:
+    issued: 2006-04
+    page: 130
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: ca14ff09-da7e-4a23-a3dd-c847309484a0
+  title:
+    name: 初恋姉妹 2
+    kana: はつこいしまい 2
+  creator:
+  - id: 750184b4-8f95-47ee-84e7-08beb97af307
+    name: 東雲水生
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965955-00
+  - domain: isbn
+    id: '9784758070133'
+  publish:
+    issued: 2007-05
+    page: 140
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 8059f4fb-b2c8-4c3b-b4e5-7cdf3bdc9a9f
+  title:
+    name: 初恋姉妹 3
+    kana: はつこいしまい 3
+  creator:
+  - id: 750184b4-8f95-47ee-84e7-08beb97af307
+    name: 東雲水生
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965967-00
+  - domain: isbn
+    id: '9784758070263'
+  publish:
+    issued: 2008-05
+    page: 146
+    publisher: 一迅社
+    volume: 3
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: c42e2458-0f12-4e62-bcc0-d8aa872beb44
+  title:
+    name: '百合心中 : 猫目堂ココロ譚'
+    kana: ゆりしんじゅう:ねこめどうこころたん
+  creator:
+  - id: 750184b4-8f95-47ee-84e7-08beb97af307
+    name: 東雲水生
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027492440-00
+  - domain: isbn
+    id: '9784758070560'
+  publish:
+    issued: 2009-08
+    page: 142
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: a9cbe666-cfed-44b9-ac33-3e04e787a7e0
+  title:
+    name: '少女薄命 : 猫目堂ココロ譚'
+    kana: しょうじょはくめい:ねこめどうこころたん
+  creator:
+  - id: 750184b4-8f95-47ee-84e7-08beb97af307
+    name: 東雲水生
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027965969-00
+  - domain: isbn
+    id: '9784758070836'
+  publish:
+    issued: 2010-06
+    page: 142
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 04ef3257-dae7-4a66-ac00-e7187b100cf7
+  title:
+    name: '恋愛彼岸 : 猫目堂ココロ譚'
+    kana: れんあいひがん:ねこめどうこころたん
+  creator:
+  - id: 750184b4-8f95-47ee-84e7-08beb97af307
+    name: 東雲水生
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733858-00
+  - domain: isbn
+    id: '9784758071406'
+  publish:
+    issued: 2011-05
+    page: 140
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 7b9f37bb-f8d4-4bae-8384-24b3e084131e
+  title:
+    name: 絶対少女アストライア
+    kana: ぜったいしょうじょあすとらいあ
+  creator:
+  - id: 750184b4-8f95-47ee-84e7-08beb97af307
+    name: 東雲水生
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733854-00
+  - domain: isbn
+    id: '9784758071192'
+  publish:
+    issued: 2010-11
+    page: 152
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: e3e839bc-7b86-4913-b376-abf0f55fbfba
+  title:
+    name: 倒錯少女症候群
+    kana: とうさくしょうじょしょうこうぐん
+  creator:
+  - id: 1ff430a4-1525-4ace-b7c2-d88ff63204a3
+    name: Shimazaki
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745296-00
+  - domain: isbn
+    id: '9784758074100'
+  publish:
+    issued: 2015-05
+    page: 160
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: aa3d444c-0261-421f-8d7f-15bf5ca0e513
+  title:
+    name: ガールズ・シンドローム
+    kana: がーるず・しんどろーむ
+  creator:
+  - id: 92691250-d02e-49f4-bd41-880fb7c63c73
+    name: 慎結
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026734273-00
+  - domain: isbn
+    id: '9784758073202'
+  publish:
+    issued: 2014-07
+    page: 145
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 926
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 6fa97232-9268-4075-83a6-54d79db23213
+  title:
+    name: すこやかパラダイムシフト
+    kana: すこやかぱらだいむしふと
+  creator:
+  - id: f1717b7a-cb12-429c-be85-76cd5b46dbb9
+    name: すこやか
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733869-00
+  - domain: isbn
+    id: '9784758071178'
+  publish:
+    issued: 2010-11
+    page: 140
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: c46d2f6f-dc6a-4881-ad23-7733fe5a1712
+  title:
+    name: よめとり!
+    kana: よめとり!
+  creator:
+  - id: f1717b7a-cb12-429c-be85-76cd5b46dbb9
+    name: すこやか
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026745301-00
+  - domain: isbn
+    id: '9784758074247'
+  publish:
+    issued: 2015-06
+    page: 138
+    publisher: 一迅社
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 852
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 8cf1bfb6-c6c8-449d-898f-97f35e0d8deb
+  title:
+    name: オトメキカングレーテル
+    kana: おとめきかんぐれーてる
+  creator:
+  - id: ba77a4bd-fe26-4197-b374-788214109f73
+    name: すどおかおる
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733767-00
+  - domain: isbn
+    id: '9784758070379'
+  publish:
+    issued: 2009-01
+    page: 138
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: f7e4eab7-94da-4f9c-906f-9c0bddaa72b0
+  title:
+    name: 月と世界とエトワール 1
+    kana: つきとせかいとえとわーる 1
+  creator:
+  - id: 9f415c7f-0c25-4dc0-b601-a032fb50d35e
+    name: 高上優里子
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733785-00
+  - domain: isbn
+    id: '9784758072564'
+  publish:
+    issued: 2013-07
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 68fc5a6a-a42f-4088-a69d-4461516abb74
+  title:
+    name: 月と世界とエトワール 2
+    kana: つきとせかいとえとわーる 2
+  creator:
+  - id: 9f415c7f-0c25-4dc0-b601-a032fb50d35e
+    name: 高上優里子
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733801-00
+  - domain: isbn
+    id: '9784758072878'
+  publish:
+    issued: 2014-02
+    page: 139
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: c61d635a-87eb-47f5-a86e-40a521270087
+  title:
+    name: 月と世界とエトワール 3
+    kana: つきとせかいとえとわーる 3
+  creator:
+  - id: 9f415c7f-0c25-4dc0-b601-a032fb50d35e
+    name: 高上優里子
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733814-00
+  - domain: isbn
+    id: '9784758073356'
+  publish:
+    issued: 2014-09
+    page: 121
+    publisher: 一迅社
+    volume: 3
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 926
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: bc48f5cb-88f9-4325-ab2e-fa74b9508778
+  title:
+    name: 月と世界とエトワール 4
+    kana: つきとせかいとえとわーる 4
+  creator:
+  - id: 9f415c7f-0c25-4dc0-b601-a032fb50d35e
+    name: 高上優里子
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733829-00
+  - domain: isbn
+    id: '9784758073967'
+  publish:
+    issued: 2015-04
+    page: 145
+    publisher: 一迅社
+    volume: 4
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 926
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 3c8dff11-3a96-43a9-bd8a-973f0ba8839c
+  title:
+    name: カシオペア・ドルチェ 1
+    kana: かしおぺあ・どるちぇ 1
+  creator:
+  - id: ca000650-2af1-4d43-b30b-3579210dacca
+    name: 高木信孝
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733843-00
+  - domain: isbn
+    id: '9784758070386'
+  publish:
+    issued: 2009-01
+    page: 154
+    publisher: 一迅社
+    volume: 1
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: 8597f51c-d8ec-4907-9f02-a15811896b14
+  title:
+    name: カシオペア・ドルチェ 2
+    kana: かしおぺあ・どるちぇ 2
+  creator:
+  - id: ca000650-2af1-4d43-b30b-3579210dacca
+    name: 高木信孝
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733848-00
+  - domain: isbn
+    id: '9784758070690'
+  publish:
+    issued: 2010-02
+    page: 158
+    publisher: 一迅社
+    volume: 2
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
+- id: d98e9a2e-cfe0-400b-ad61-ba6dc34ed1a3
+  title:
+    name: カシオペア・ドルチェ 3
+    kana: かしおぺあ・どるちぇ 3
+  creator:
+  - id: ca000650-2af1-4d43-b30b-3579210dacca
+    name: 高木信孝
+    type: author
+  identifier:
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026733851-00
+  - domain: isbn
+    id: '9784758071581'
+  publish:
+    issued: 2011-08
+    page: 144
+    publisher: 一迅社
+    volume: 3
+  price:
+  - country: jp
+    last_visit: '2017-05-22'
+    n: 857
+    source: iss.ndl.go.jp
+  last_update: '2017-05-22'
