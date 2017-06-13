@@ -6,7 +6,7 @@ schema:
       type: string
       required: true
       regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
-    title: 
+    title:
       type: dict
       schema:
         name:
@@ -30,7 +30,7 @@ schema:
           type:
             type: string
             required: true
-            regex: (author|illust|translator)
+            regex: (author|illust|translator|original|commentator)
     identifier:
       type: list
       schema:

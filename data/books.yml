@@ -3,36 +3,17 @@
     name: 安達としまむら
     kana: あだちとしまむら
   creator:
-    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
-      name: 入間人間
-      type: author
-    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
-      name: のん
-      type: illust
+  - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+    name: 入間人間
+    type: author
+  - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+    name: のん
+    type: illust
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I024279376-00
-    - domain: isbn
-      id: "9784048914215"
-  publish:
-    volume: 1
-    publisher: 電撃文庫
-    issued: "2013-03"
-    page: 242
-  price:
-    - n: 530
-      country: jp
-      source: iss.ndl.go.jp
-      last_visit: "2017-04-21"
-  links:
-    - title: オススメ作品/小説 - 百合作品まとめ Wiki*
-      url: http://wikiwiki.jp/lilylibrary/?%A5%AA%A5%B9%A5%B9%A5%E1%BA%EE%C9%CA%2F%BE%AE%C0%E2
-      type: abstract
-      last_visit: "2017-04-21"
-    - title: ニヤニヤが止まらない！超おすすめ’’百合’’ラノベ7選 - 300books
-      url: http://300books.net/post-1204/
-      type: abstract
-      last_visit: "2017-04-21"
+  - domain: iss.ndl.go.jp
+    id: R100000002-I024279376-00
+  - domain: isbn
+    id: "9784048914215"
   last_update: "2017-04-21"
 
 - id: fed6b913-ba60-4ef1-a4cf-9934073ff680
@@ -40,36 +21,17 @@
     name: 安達としまむら 2
     kana: あだちとしまむら 2
   creator:
-    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
-      name: 入間人間
-      type: author
-    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
-      name: のん
-      type: illust
+  - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+    name: 入間人間
+    type: author
+  - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+    name: のん
+    type: illust
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I024787576-00
-    - domain: isbn
-      id: "9784048919609"
-  publish:
-    volume: 2
-    publisher: 電撃文庫
-    issued: "2013-09"
-    page: 239
-  price:
-    - n: 550
-      country: jp
-      source: iss.ndl.go.jp
-      last_visit: "2017-04-21"
-  toc:
-    - しまむらジムへ行く
-    - アダチズQ
-    - ストレンジ☆アダチ
-    - 安達思考中クリスマス進行中
-    - しまむら思考中クリスマス進行中
-    - ホワイト・アルバム
-    - 満点のふともも
-    - 真剣なおっぱい
+  - domain: iss.ndl.go.jp
+    id: R100000002-I024787576-00
+  - domain: isbn
+    id: "9784048919609"
   last_update: "2017-04-21"
 
 - id: a91b8011-0177-404b-85b4-9f3b28e34a9b
@@ -77,27 +39,17 @@
     name: 安達としまむら 3
     kana: あだちとしまむら 3
   creator:
-    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
-      name: 入間人間
-      type: author
-    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
-      name: のん
-      type: illust
+  - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+    name: 入間人間
+    type: author
+  - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+    name: のん
+    type: illust
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I025608108-00
-    - domain: isbn
-      id: "9784048667777"
-  publish:
-    volume: 2
-    publisher: 電撃文庫
-    issued: "2014-08"
-    page: 227
-  price:
-    - n: 550
-      country: jp
-      source: iss.ndl.go.jp
-      last_visit: "2017-04-21"
+  - domain: iss.ndl.go.jp
+    id: R100000002-I025608108-00
+  - domain: isbn
+    id: "9784048667777"
   last_update: "2017-04-21"
 
 - id: 67a53f6a-1b83-4077-9312-6a1c1da261f4
@@ -105,27 +57,17 @@
     name: 安達としまむら 4
     kana: あだちとしまむら 4
   creator:
-    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
-      name: 入間人間
-      type: author
-    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
-      name: のん
-      type: illust
+  - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+    name: 入間人間
+    type: author
+  - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+    name: のん
+    type: illust
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I026334008-00
-    - domain: isbn
-      id: "9784048651158"
-  publish:
-    issued: 2015-05
-    page: 241
-    publisher: 電撃文庫
-    volume: 4
-  price:
-    - n: 550
-      country: jp
-      last_visit: "2017-04-22"
-      source: iss.ndl.go.jp
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026334008-00
+  - domain: isbn
+    id: "9784048651158"
   last_update: "2017-04-22"
 
 - id: 5c978fdf-8753-4f51-98e0-797150a928ba
@@ -133,55 +75,35 @@
     name: 安達としまむら 5
     kana: あだちとしまむら 5
   creator:
-    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
-      name: 入間人間
-      type: author
-    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
-      name: のん
-      type: illust
+  - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+    name: 入間人間
+    type: author
+  - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+    name: のん
+    type: illust
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I026816866-00
-    - domain: isbn
-      id: "9784048655057"
+  - domain: iss.ndl.go.jp
+    id: R100000002-I026816866-00
+  - domain: isbn
+    id: "9784048655057"
   last_update: "2017-04-22"
-  price:
-    - n: 550
-      country: jp
-      last_visit: "2017-04-22"
-      source: iss.ndl.go.jp
-  publish:
-    issued: "2015-11"
-    page: 233
-    publisher: 電撃文庫
-    volume: 5
 
 - id: b1685ea2-0a29-45aa-b836-5f0d4691d29e
   title:
     name: 安達としまむら 6
     kana: あだちとしまむら 6
   creator:
-    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
-      name: 入間人間
-      type: author
-    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
-      name: のん
-      type: illust
+  - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+    name: 入間人間
+    type: author
+  - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+    name: のん
+    type: illust
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I027251221-00
-    - domain: isbn
-      id: "9784048659468"
-  price:
-    - country: jp
-      last_visit: "2017-04-22"
-      n: 550
-      source: iss.ndl.go.jp
-  publish:
-    issued: "2016-05"
-    page: 223
-    publisher: 電撃文庫
-    volume: 6
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027251221-00
+  - domain: isbn
+    id: "9784048659468"
   last_update: "2017-04-22"
 
 - id: 25338ab8-5a4f-4009-bb39-34006d939b3a
@@ -189,27 +111,17 @@
     name: 安達としまむら 7
     kana: あだちとしまむら 7
   creator:
-    - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
-      name: 入間人間
-      type: author
-    - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
-      name: のん
-      type: illust
+  - id: eceb3563-23ab-4f84-93a5-4ae86ebb8cd4
+    name: 入間人間
+    type: author
+  - id: 6527f3db-2e36-47aa-8d43-a9d570d144b0
+    name: のん
+    type: illust
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I027674571-00
-    - domain: isbn
-      id: "9784048925174"
-  price:
-    - country: jp
-      last_visit: "2017-04-22"
-      n: 550
-      source: iss.ndl.go.jp
-  publish:
-    issued: "2016-11"
-    page: 206
-    publisher: 電撃文庫
-    volume: 7
+  - domain: iss.ndl.go.jp
+    id: R100000002-I027674571-00
+  - domain: isbn
+    id: "9784048925174"
   last_update: "2017-04-22"
 
 - id: 83fafce4-874a-4806-8094-ebbec7953907
@@ -217,32 +129,14 @@
     name: "乙女は花に恋をする : 私立カトレア学園"
     kana: "おとめははなにこいをする : しりつかとれあがくえん"
   creator:
-    - id: 85159a57-6cef-40e2-b977-3e7428de56a0
-      name: 沢城利穂
-      type: author
+  - id: 85159a57-6cef-40e2-b977-3e7428de56a0
+    name: 沢城利穂
+    type: author
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I000010616235-00
-    - domain: isbn
-      id: "9784758040723"
-  price:
-    - country: jp
-      last_visit: "2017-04-22"
-      n: 590
-      source: iss.ndl.go.jp
-  publish:
-    issued: "2009-05"
-    page: 270
-    publisher: 一迅社文庫アイリス
-  links:
-    - title: オススメ作品/小説 - 百合作品まとめ Wiki*
-      url: http://wikiwiki.jp/lilylibrary/?%A5%AA%A5%B9%A5%B9%A5%E1%BA%EE%C9%CA%2F%BE%AE%C0%E2
-      type: abstract
-      last_visit: "2017-04-21"
-    - title: ニヤニヤが止まらない！超おすすめ’’百合’’ラノベ7選 - 300books
-      url: http://300books.net/post-1204/
-      type: abstract
-      last_visit: "2017-04-21"
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000010616235-00
+  - domain: isbn
+    id: "9784758040723"
   last_update: "2017-04-22"
 
 - id: b5d221e5-7c22-449c-a3db-c1d7bab2a233
@@ -250,32 +144,20 @@
     name: "バニラ : a sweet partner"
     kana: "ばにら : あすいーとぱーとなー"
   creator:
-    - id: cbd0a76b-90e2-4089-8e16-9e8efd4a77bb
-      name: アサウラ
-      type: author
+  - id: cbd0a76b-90e2-4089-8e16-9e8efd4a77bb
+    name: アサウラ
+    type: author
+  - id: 9422a3b5-dce5-4b83-abfc-878bc0244628
+    name: 高山瑞季
+    type: illust
+  - id: f8fbf12e-5418-41aa-b47f-c5da18448b9b
+    name: 曽我部修司
+    type: illust
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I000008527222-00
-    - domain: isbn
-      id: "9784086303545"
-  price:
-    - country: jp
-      last_visit: "2017-04-22"
-      n: 667
-      source: iss.ndl.go.jp
-  publish:
-    issued: "2007-04"
-    page: 351
-    publisher: 集英社スーパーダッシュ文庫
-  links:
-    - title: オススメ作品/小説 - 百合作品まとめ Wiki*
-      url: http://wikiwiki.jp/lilylibrary/?%A5%AA%A5%B9%A5%B9%A5%E1%BA%EE%C9%CA%2F%BE%AE%C0%E2
-      type: abstract
-      last_visit: "2017-04-21"
-    - title: ニヤニヤが止まらない！超おすすめ’’百合’’ラノベ7選 - 300books
-      url: http://300books.net/post-1204/
-      type: abstract
-      last_visit: "2017-04-21"
+  - domain: iss.ndl.go.jp
+    id: R100000002-I000008527222-00
+  - domain: isbn
+    id: "9784086303545"
   last_update: "2017-04-22"
 
 - id: b2c89544-a5a6-4354-828c-394a15be3587
@@ -283,32 +165,14 @@
     name: "人形遣い = Puppet Master"
     kana: "にんぎょうづかい = ぱぺっとますたー"
   creator:
-    - id: 63c18584-ba17-4529-86e3-595257d14b54
-      name: 賽目和七
-      type: author
+  - id: 63c18584-ba17-4529-86e3-595257d14b54
+    name: 賽目和七
+    type: author
   identifier:
-    - domain: iss.ndl.go.jp
-      id: R100000002-I024649065-00
-    - domain: isbn
-      id: "9784094514292"
-  price:
-    - country: jp
-      last_visit: "2017-04-22"
-      n: 590
-      source: iss.ndl.go.jp
-  publish:
-    issued: "2013-07"
-    page: 293
-    publisher: ガガガ文庫
-  links:
-    - title: オススメ作品/小説 - 百合作品まとめ Wiki*
-      url: http://wikiwiki.jp/lilylibrary/?%A5%AA%A5%B9%A5%B9%A5%E1%BA%EE%C9%CA%2F%BE%AE%C0%E2
-      type: abstract
-      last_visit: "2017-04-21"
-    - title: ニヤニヤが止まらない！超おすすめ’’百合’’ラノベ7選 - 300books
-      url: http://300books.net/post-1204/
-      type: abstract
-      last_visit: "2017-04-21"
+  - domain: iss.ndl.go.jp
+    id: R100000002-I024649065-00
+  - domain: isbn
+    id: "9784094514292"
   last_update: "2017-04-22"
 
 - id: 15fdf8b4-e6b9-4437-b9cc-f63975c478ee
@@ -324,15 +188,6 @@
     id: R100000002-I024850438-00
   - domain: isbn
     id: "9784591136225"
-  publish:
-    issued: "2013-10"
-    page: 327
-    publisher: ポプラ文庫
-  price:
-  - country: jp
-    last_visit: "2017-04-27"
-    n: 640
-    source: iss.ndl.go.jp
   last_update: "2017-04-27"
 
 - id: a82a3458-850e-4e7b-9a7d-44d55b3cb8f3
@@ -351,15 +206,6 @@
     id: R100000002-I000010390324-00
   - domain: isbn
     id: "9784094511451"
-  publish:
-    issued: "2009-07"
-    page: 203
-    publisher: ガガガ文庫
-  price:
-  - country: jp
-    last_visit: "2017-04-27"
-    n: 571
-    source: iss.ndl.go.jp
   last_update: "2017-04-27"
 
 - id: 364d517a-fd70-462e-abd8-6df7032c0333
@@ -367,8 +213,8 @@
     name: "君が僕を 2 : 私のどこが好き?"
     kana: "きみがぼくを 2 : わたしのどこがすき?"
   creator:
-  - id: 9f0ff51f-90c8-47e3-ab5b-facdda02bd1d
-    name: 中里十
+  - "id": "9f0ff51f-90c8-47e3-ab5b-facdda02bd1d"
+    "name": "中里十"
     "type": "author"
   - "id": "de886c65-9a3c-4ba4-8e64-e263a4d2bdb2"
     "name": "山田あこ"
@@ -378,16 +224,6 @@
     id: R100000002-I000010619773-00
   - domain: isbn
     id: "9784094511703"
-  publish:
-    issued: 2009-11
-    page: 226
-    publisher: ガガガ文庫
-    volume: 2
-  price:
-  - country: jp
-    last_visit: "2017-04-27"
-    n: 571
-    source: iss.ndl.go.jp
   last_update: "2017-04-27"
 
 - "id": "b64afd61-5b5f-4f8e-b8c0-454a501a7dbb"
@@ -406,16 +242,6 @@
     "id": "R100000002-I000010816280-00"
   - "domain": "isbn"
     "id": "9784094511956"
-  "publish":
-    "issued": "2010-03"
-    "page": 203
-    "publisher": "ガガガ文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-27"
 
 - "id": "ea8ad41b-ad59-4a84-b535-48b25af297c8"
@@ -434,16 +260,6 @@
     "id": "R100000002-I000010961213-00"
   - "domain": "isbn"
     "id": "9784094512212"
-  "publish":
-    "issued": "2010-08"
-    "page": 245
-    "publisher": "ガガガ文庫"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-27"
 
 - "id": "a507967b-ee84-49c1-999d-674a64b714fe"
@@ -462,15 +278,6 @@
     "id": "R100000002-I000009719338-00"
   - "domain": "isbn"
     "id": "9784094510973"
-  "publish":
-    "issued": "2008-10"
-    "page": 286
-    "publisher": "ガガガ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-27"
 
 - "id": "38b72f7b-240d-403a-8470-56fce8943649"
@@ -489,15 +296,6 @@
     "id": "R100000002-I000010065951-00"
   - "domain": "isbn"
     "id": "9784094511277"
-  "publish":
-    "issued": "2009-03"
-    "page": 422
-    "publisher": "ガガガ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 667
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-27"
 
 - "id": "315535ce-7a19-4561-9af0-2f6b53550e05"
@@ -514,15 +312,6 @@
   "identifier":
   - "domain": "amazon.co.jp"
     "id": "B00B12GK5A"
-  "publish":
-    "issued": "2013-01-14"
-    "page": 134
-    "publisher": "西在家香織派"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 700
-    "source": "amazon.co.jp"
   "last_update": "2017-04-27"
 
 - "id": "964ef0c6-2678-4b5c-8848-9ad19c944078"
@@ -539,15 +328,6 @@
   "identifier":
   - "domain": "amazon.co.jp"
     "id": "B01KM832MW"
-  "publish":
-    "issued": "2016-08-17"
-    "page": 156
-    "publisher": "西在家香織派"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 785
-    "source": "amazon.co.jp"
   "last_update": "2017-04-27"
 
 - "id": "90bbc100-8c2c-4b75-9d51-5dcb226aee59"
@@ -564,15 +344,6 @@
   "identifier":
   - "domain": "amazon.co.jp"
     "id": "B00B5JPY7Y"
-  "publish":
-    "issued": "2013-01-23"
-    "page": 14
-    "publisher": "西在家香織派"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 99
-    "source": "amazon.co.jp"
   "last_update": "2017-04-27"
 
 - "id": "476fb041-5814-483a-a114-4a7a67dc2642"
@@ -588,15 +359,6 @@
     "id": "R100000002-I025941652-00"
   - "domain": "isbn"
     "id": "9784061389786"
-  "publish":
-    "issued": "2014-12"
-    "page": 313
-    "publisher": "星海社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 840
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-27"
 
 - "id": "442e1e3c-ad4b-4f5f-bfea-163ea62dd167"
@@ -615,15 +377,6 @@
     "id": "R100000002-I027976173-00"
   - "domain": "isbn"
     "id": "9784048927574"
-  "publish":
-    "issued": "2017-02"
-    "page": 299
-    "publisher": "メディアワークス文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 610
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-27"
 
 - "id": "c1f72e87-c1ed-45e0-a9a4-857e818a2bd5"
@@ -642,15 +395,6 @@
     "id": "R100000002-I028038986-00"
   - "domain": "isbn"
     "id": "9784799209615"
-  "publish":
-    "issued": "2017-04"
-    "page": 254
-    "publisher": "二次元ドリーム文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-27"
-    "n": 668
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-27"
 
 - "id": "9858c143-f9d0-4582-978b-fdb0d251cca0"
@@ -666,25 +410,6 @@
     "id": "R100000002-I000009468122-00"
   - "domain": "isbn"
     "id": "9784150309336"
-  "publish":
-    "issued": "2008-08"
-    "page": 297
-    "publisher": "ハヤカワ文庫"
-  "toc":
-  - "姫百合たちの放課後"
-  - "姫百合日記"
-  - "放課後の生活指導"
-  - "花と指"
-  - "2001年宇宙の足袋"
-  - "お面の告白"
-  - "一九九一年の生体実験"
-  - "お姉様は飛行機恐怖症"
-  - "ひとりあそびの青春 "
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 700
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "394c38c5-0ad2-4bdb-aef6-08df53a861c0"
@@ -700,15 +425,6 @@
     "id": "R100000002-I000011181029-00"
   - "domain": "isbn"
     "id": "9784198933692"
-  "publish":
-    "issued": "2011-05"
-    "page": 375
-    "publisher": "徳間文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 648
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "9f9651d0-0b95-40ad-90f1-4ee886abb0b0"
@@ -724,15 +440,6 @@
     "id": "R100000002-I000007549350-00"
   - "domain": "isbn"
     "id": "4150307725"
-  "publish":
-    "issued": "2004-11"
-    "page": 349
-    "publisher": "ハヤカワ文庫 : JA"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 700
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "c05b3660-3a04-44dc-9831-6cb472d3f3fa"
@@ -751,15 +458,6 @@
     "id": "R100000002-I000010997706-00"
   - "domain": "isbn"
     "id": "9784086305679"
-  "publish":
-    "issued": "2010-09"
-    "page": 341
-    "publisher": "集英社スーパーダッシュ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 552
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "06ce5daf-de38-40d7-a501-1bc13002fd61"
@@ -778,16 +476,6 @@
     "id": "R100000002-I000011094337-00"
   - "domain": "isbn"
     "id": "9784086305891"
-  "publish":
-    "issued": "2011-01"
-    "page": 309
-    "publisher": "集英社スーパーダッシュ文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "106dd95e-3c3f-4866-b3b4-f6aaf4114821"
@@ -806,16 +494,6 @@
     "id": "R100000002-I000011219338-00"
   - "domain": "isbn"
     "id": "9784086306164"
-  "publish":
-    "issued": "2011-06"
-    "page": 341
-    "publisher": "集英社スーパーダッシュ文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 648
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "95c7fcf1-faec-45c2-8135-ac5bbd7f0df2"
@@ -834,16 +512,6 @@
     "id": "R100000002-I000011304503-00"
   - "domain": "isbn"
     "id": "9784086306447"
-  "publish":
-    "issued": "2011-10"
-    "page": 309
-    "publisher": "集英社スーパーダッシュ文庫"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "eb1f76c9-5e8e-4315-bffb-a7f23c5170b3"
@@ -862,16 +530,6 @@
     "id": "R100000002-I023392991-00"
   - "domain": "isbn"
     "id": "9784086306676"
-  "publish":
-    "issued": "2012-02"
-    "page": 309
-    "publisher": "集英社スーパーダッシュ文庫"
-    "volume": 5
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "a0ce5552-6180-45a0-bc96-5cae933863f2"
@@ -890,16 +548,6 @@
     "id": "R100000002-I023680010-00"
   - "domain": "isbn"
     "id": "9784086306812"
-  "publish":
-    "issued": "2012-06"
-    "page": 309
-    "publisher": "集英社スーパーダッシュ文庫"
-    "volume": 6
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "c8b23918-e4ce-4770-a0bc-f90ba5c66848"
@@ -918,16 +566,6 @@
     "id": "R100000002-I024234511-00"
   - "domain": "isbn"
     "id": "9784086307260"
-  "publish":
-    "issued": "2013-02"
-    "page": 341
-    "publisher": "集英社スーパーダッシュ文庫"
-    "volume": 7
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 648
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "f9fbd9e9-ef1f-44ce-a0d0-3d52fbf48335"
@@ -946,16 +584,6 @@
     "id": "R100000002-I024529523-00"
   - "domain": "isbn"
     "id": "9784086307413"
-  "publish":
-    "issued": "2013-06"
-    "page": 355
-    "publisher": "集英社スーパーダッシュ文庫"
-    "volume": 8
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 670
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "64770729-68c5-4b8e-9db8-4017966d9259"
@@ -971,15 +599,6 @@
     "id": "R100000002-I000010084836-00"
   - "domain": "isbn"
     "id": "9784167722036"
-  "publish":
-    "issued": "2009-04"
-    "page": 286
-    "publisher": "文春文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 505
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "31ae49db-1666-4f1a-8dfd-304be2012ce3"
@@ -998,15 +617,6 @@
     "id": "R100000002-I026838249-00"
   - "domain": "isbn"
     "id": "9784799208182"
-  "publish":
-    "issued": "2015-11"
-    "page": 255
-    "publisher": "二次元ドリーム文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 668
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "f8a6f68c-0207-4f59-9230-a6ea5a02515f"
@@ -1025,15 +635,6 @@
     "id": "R100000002-I025423049-00"
   - "domain": "isbn"
     "id": "9784799205815"
-  "publish":
-    "issued": "2014-05"
-    "page": 254
-    "publisher": "二次元ドリーム文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 668
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "7950848d-e11d-4076-92f9-b5018fe84d31"
@@ -1052,15 +653,6 @@
     "id": "R100000002-I026310834-00"
   - "domain": "isbn"
     "id": "9784799207260"
-  "publish":
-    "issued": "2015-05"
-    "page": 255
-    "publisher": "二次元ドリーム文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 668
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "b993e494-d538-4dcf-99c1-8ca4370a29de"
@@ -1079,15 +671,6 @@
     "id": "R100000002-I026706853-00"
   - "domain": "isbn"
     "id": "9784799207765"
-  "publish":
-    "issued": "2015-09"
-    "page": 255
-    "publisher": "二次元ドリーム文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 668
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "b9c933b0-9ccd-487d-984f-e855bab830ca"
@@ -1106,15 +689,6 @@
     "id": "R100000002-I000010364664-00"
   - "domain": "isbn"
     "id": "9784048679046"
-  "publish":
-    "issued": "2009-07"
-    "page": 323
-    "publisher": "電撃文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 610
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "03bbe948-e372-4f4d-9023-fe8baf55e4df"
@@ -1130,15 +704,6 @@
     "id": "R100000002-I000011123393-00"
   - "domain": "isbn"
     "id": "9784087466690"
-  "publish":
-    "issued": "2011-02"
-    "page": 215
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 457
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "ad9d31d0-d439-4368-b219-2fdc69612360"
@@ -1157,14 +722,6 @@
     "id": "R100000002-I000010544404-00"
   - "domain": "isbn"
     "id": "9784878923692"
-  "publish":
-    "issued": "2009-05"
-    "page": 223
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "24164c54-7eed-473f-bd77-b7781918db50"
@@ -1180,15 +737,6 @@
     "id": "R100000002-I000008398642-00"
   - "domain": "isbn"
     "id": "4797337818"
-  "publish":
-    "issued": "2006-12"
-    "page": 381
-    "publisher": "ジーエー文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "01c1b3cd-4269-4c49-99db-d464d08c5634"
@@ -1204,15 +752,6 @@
     "id": "R100000002-I027620428-00"
   - "domain": "isbn"
     "id": "9784150312497"
-  "publish":
-    "issued": "2016-10"
-    "page": 270
-    "publisher": "ハヤカワ文庫 JA"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "94fd557c-9e24-4cc6-892c-e78fa067353f"
@@ -1231,16 +770,6 @@
     "id": "R100000002-I000007341211-00"
   - "domain": "isbn"
     "id": "4488254039"
-  "publish":
-    "issued": "2004-04"
-    "page": 434
-    "publisher": "創元推理文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 940
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "98354338-923e-4290-98b0-b8192483adcf"
@@ -1259,16 +788,6 @@
     "id": "R100000002-I000007341213-00"
   - "domain": "isbn"
     "id": "4488254047"
-  "publish":
-    "issued": "2004-04"
-    "page": 420
-    "publisher": "創元推理文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 940
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "a291850d-7c70-4bd0-9fbd-87c3e141bae9"
@@ -1284,10 +803,6 @@
     "id": "R100000002-I000010641342-00"
   - "domain": "isbn"
     "id": "9784408107769"
-  "publish":
-    "issued": "1938-04-01"
-    "publisher": "実業之日本社"
-    "page": 330
   "last_update": "2017-04-28"
 
 - "id": "02a07f53-8f72-4796-b05c-66f496c75f22"
@@ -1303,15 +818,6 @@
     "id": "R100000002-I000004262927-00"
   - "domain": "isbn"
     "id": "408747626X"
-  "publish":
-    "issued": "2003-10"
-    "page": 237
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "f8de1d1a-0a17-4e7b-a23f-1a5bd918bc6d"
@@ -1330,15 +836,6 @@
     "id": "R100000002-I000010551270-00"
   - "domain": "isbn"
     "id": "9784829665152"
-  "publish":
-    "issued": "2009-09"
-    "page": 209
-    "publisher": "ティアラ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 495
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "d771e14f-0158-479a-8333-fa16af3b4f54"
@@ -1354,15 +851,6 @@
     "id": "R100000002-I000007568401-00"
   - "domain": "isbn"
     "id": "475772084X"
-  "publish":
-    "issued": "2004-12"
-    "page": 254
-    "publisher": "ファミ通文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "886a366d-cd28-42cd-8de8-15654f3868f0"
@@ -1381,16 +869,6 @@
     "id": "R100000002-I000010013602-00"
   - "domain": "isbn"
     "id": "9784829133729"
-  "publish":
-    "issued": "2009-01"
-    "page": 286
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "ff26c1b3-3446-4aa6-958f-bed0e1902ae9"
@@ -1409,16 +887,6 @@
     "id": "R100000002-I000010120601-00"
   - "domain": "isbn"
     "id": "9784829133972"
-  "publish":
-    "issued": "2009-04"
-    "page": 316
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "f60a27aa-6853-4129-9d81-2064e9cddc55"
@@ -1437,16 +905,6 @@
     "id": "R100000002-I000010605403-00"
   - "domain": "isbn"
     "id": "9784829134474"
-  "publish":
-    "issued": "2009-10"
-    "page": 302
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "c712fead-baf4-403a-a918-f3defd45e795"
@@ -1465,16 +923,6 @@
     "id": "R100000002-I000010773904-00"
   - "domain": "isbn"
     "id": "9784829134948"
-  "publish":
-    "issued": "2010-02"
-    "page": 297
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "866b49e2-a7f6-47c2-8e97-e3ecb801109f"
@@ -1493,16 +941,6 @@
     "id": "R100000002-I000010918372-00"
   - "domain": "isbn"
     "id": "9784829135334"
-  "publish":
-    "issued": "2010-06"
-    "page": 297
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 5
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "ee05bd6e-82d2-455f-81fa-c6cd9cffb17b"
@@ -1521,16 +959,6 @@
     "id": "R100000002-I000011023469-00"
   - "domain": "isbn"
     "id": "9784829135761"
-  "publish":
-    "issued": "2010-10"
-    "page": 296
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 6
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "1aea24d5-003a-4aa4-82ec-22f5d1526703"
@@ -1549,16 +977,6 @@
     "id": "R100000002-I000011140482-00"
   - "domain": "isbn"
     "id": "9784829136140"
-  "publish":
-    "issued": "2011-02"
-    "page": 293
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 7
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "38c5b181-4652-4084-82ee-f4e2f32d876d"
@@ -1577,16 +995,6 @@
     "id": "R100000002-I023383250-00"
   - "domain": "isbn"
     "id": "9784829137321"
-  "publish":
-    "issued": "2012-02"
-    "page": 326
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 8
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "a98322f3-b380-4293-a529-eca985c2bf93"
@@ -1605,15 +1013,6 @@
     "id": "R100000002-I026563660-00"
   - "domain": "isbn"
     "id": "9784040706115"
-  "publish":
-    "issued": "2015-07"
-    "page": 318
-    "publisher": "富士見ファンタジア文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "184382ab-9aa1-4e85-8629-7cc4a6062649"
@@ -1632,16 +1031,6 @@
     "id": "R100000002-I027011437-00"
   - "domain": "isbn"
     "id": "9784040706122"
-  "publish":
-    "issued": "2016-01"
-    "page": 313
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "7b82b989-fc53-4345-9350-f0ada536bfb6"
@@ -1660,15 +1049,6 @@
     "id": "R100000002-I000009135070-00"
   - "domain": "isbn"
     "id": "9784829164006"
-  "publish":
-    "issued": "2007-10"
-    "page": 250
-    "publisher": "富士見ミステリー文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 560
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "f50da188-6566-4a1b-8f95-28dfd1c3e822"
@@ -1684,15 +1064,6 @@
     "id": "R100000002-I000002877692-00"
   - "domain": "isbn"
     "id": "4041500591"
-  "publish":
-    "issued": "2000-03"
-    "page": 348
-    "publisher": "角川文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "2d036126-86cb-4844-975b-94b2e8ce2469"
@@ -1711,16 +1082,6 @@
     "id": "R100000002-I000010014438-00"
   - "domain": "isbn"
     "id": "9784758040204"
-  "publish":
-    "issued": "2008-08"
-    "page": 254
-    "publisher": "一迅社文庫アイリス"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 562
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "e2f6a00b-ea96-42fc-bad9-f9d49942569b"
@@ -1739,16 +1100,6 @@
     "id": "R100000002-I000010616165-00"
   - "domain": "isbn"
     "id": "9784758040501"
-  "publish":
-    "issued": "2009-01"
-    "page": 270
-    "publisher": "一迅社文庫アイリス"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "1c7b3a02-f947-42a3-bce7-b568176118dd"
@@ -1767,16 +1118,6 @@
     "id": "R100000002-I000002680293-00"
   - "domain": "isbn"
     "id": "408614459X"
-  "publish":
-    "issued": "1998-05"
-    "page": 252
-    "publisher": "コバルト文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 457
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "f104cd0a-ef15-40d2-b706-b6c192f5e339"
@@ -1795,16 +1136,6 @@
     "id": "R100000002-I000002758083-00"
   - "domain": "isbn"
     "id": "4086145545"
-  "publish":
-    "issued": "1999-02"
-    "page": 215
-    "publisher": "コバルト文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "405cf2fd-c1f3-4391-993e-c301db58c9ce"
@@ -1823,16 +1154,6 @@
     "id": "R100000002-I000002781951-00"
   - "domain": "isbn"
     "id": "408614591X"
-  "publish":
-    "issued": "1999-05"
-    "page": 281
-    "publisher": "コバルト文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 514
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "8bc74031-5369-4258-b126-94edb4c798d3"
@@ -1851,16 +1172,6 @@
     "id": "R100000002-I000002846180-00"
   - "domain": "isbn"
     "id": "4086146614"
-  "publish":
-    "issued": "1999-12"
-    "page": 252
-    "publisher": "コバルト文庫"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "d921b5bc-246e-411c-9ae6-2e9051937fdb"
@@ -1879,16 +1190,6 @@
     "id": "R100000002-I000002868837-00"
   - "domain": "isbn"
     "id": "4086146959"
-  "publish":
-    "issued": "2000-03"
-    "page": 247
-    "publisher": "コバルト文庫"
-    "volume": 5
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "25ae1d95-fede-46b3-9220-fd2e7eb5dfcc"
@@ -1907,16 +1208,6 @@
     "id": "R100000002-I000002880993-00"
   - "domain": "isbn"
     "id": "4086147157"
-  "publish":
-    "issued": "2000-05"
-    "page": 248
-    "publisher": "コバルト文庫"
-    "volume": 6
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "7768c48f-0667-46c4-9c04-f4995d158968"
@@ -1935,16 +1226,6 @@
     "id": "R100000002-I000002960214-00"
   - "domain": "isbn"
     "id": "408614817X"
-  "publish":
-    "issued": "2001-02"
-    "page": 217
-    "publisher": "コバルト文庫"
-    "volume": 7
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "d6089a8e-6f36-4ebc-9c98-0a1e53420283"
@@ -1963,16 +1244,6 @@
     "id": "R100000002-I000002978682-00"
   - "domain": "isbn"
     "id": "4086148412"
-  "publish":
-    "issued": "2001-04"
-    "page": 219
-    "publisher": "コバルト文庫"
-    "volume": 8
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "2a359893-3783-468e-88dd-73e2d8fa2c48"
@@ -1991,16 +1262,6 @@
     "id": "R100000002-I000003010007-00"
   - "domain": "isbn"
     "id": "4086148951"
-  "publish":
-    "issued": "2001-08"
-    "page": 245
-    "publisher": "コバルト文庫"
-    "volume": 9
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "31dc8750-da5d-4af7-a9dd-174810805eb0"
@@ -2019,16 +1280,6 @@
     "id": "R100000002-I000003071415-00"
   - "domain": "isbn"
     "id": "4086000784"
-  "publish":
-    "issued": "2002-04"
-    "page": 216
-    "publisher": "コバルト文庫"
-    "volume": 10
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "d4dca9fc-aa4f-4424-894e-62bb6a007992"
@@ -2047,16 +1298,6 @@
     "id": "R100000002-I000003653150-00"
   - "domain": "isbn"
     "id": "4086001365"
-  "publish":
-    "issued": "2002-07"
-    "page": 212
-    "publisher": "コバルト文庫"
-    "volume": 11
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "0899ce8b-3a7f-4998-b86a-fc681d4d7e1d"
@@ -2075,16 +1316,6 @@
     "id": "R100000002-I000003998798-00"
   - "domain": "isbn"
     "id": "4086002108"
-  "publish":
-    "issued": "2003-01"
-    "page": 211
-    "publisher": "コバルト文庫"
-    "volume": 12
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "1ddd5567-b8c0-4433-9acc-ba71408dd303"
@@ -2103,16 +1334,6 @@
     "id": "R100000002-I000004079270-00"
   - "domain": "isbn"
     "id": "4086002434"
-  "publish":
-    "issued": "2003-04"
-    "page": 219
-    "publisher": "コバルト文庫"
-    "volume": 13
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "babf0dc6-113e-4c02-9f19-ef551a0fba8e"
@@ -2131,16 +1352,6 @@
     "id": "R100000002-I000004175725-00"
   - "domain": "isbn"
     "id": "4086002841"
-  "publish":
-    "issued": "2003-07"
-    "page": 233
-    "publisher": "コバルト文庫"
-    "volume": 14
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "47f31e92-1310-4c1b-9aaa-2ec211d06db9"
@@ -2159,16 +1370,6 @@
     "id": "R100000002-I000004270317-00"
   - "domain": "isbn"
     "id": "4086003376"
-  "publish":
-    "issued": "2003-11"
-    "page": 213
-    "publisher": "コバルト文庫"
-    "volume": 15
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "eccd1b94-fd60-43a0-bf82-b71bcf397289"
@@ -2187,16 +1388,6 @@
     "id": "R100000002-I000004326590-00"
   - "domain": "isbn"
     "id": "4086003600"
-  "publish":
-    "issued": "2004-01"
-    "page": 199
-    "publisher": "コバルト文庫"
-    "volume": 16
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "0b7e2089-ed9e-48b3-b296-36b5ca33076f"
@@ -2215,16 +1406,6 @@
     "id": "R100000002-I000007320989-00"
   - "domain": "isbn"
     "id": "4086003996"
-  "publish":
-    "issued": "2004-04"
-    "page": 205
-    "publisher": "コバルト文庫"
-    "volume": 17
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "b4fe5de6-28f4-4434-949e-202d00e90ac5"
@@ -2243,16 +1424,6 @@
     "id": "R100000002-I000007509724-00"
   - "domain": "isbn"
     "id": "4086004844"
-  "publish":
-    "issued": "2004-10"
-    "page": 195
-    "publisher": "コバルト文庫"
-    "volume": 18
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "cfa02eb5-0d89-4a80-b8ed-40294c7f5c87"
@@ -2271,16 +1442,6 @@
     "id": "R100000002-I000007614983-00"
   - "domain": "isbn"
     "id": "4086005271"
-  "publish":
-    "issued": "2005-01"
-    "page": 206
-    "publisher": "コバルト文庫"
-    "volume": 19
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "a2eaa3dd-9ede-4167-a4d7-1044e32fda89"
@@ -2299,16 +1460,6 @@
     "id": "R100000002-I000007690278-00"
   - "domain": "isbn"
     "id": "4086005689"
-  "publish":
-    "issued": "2005-04"
-    "page": 215
-    "publisher": "コバルト文庫"
-    "volume": 20
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "0db475af-945b-41e4-808a-ae68fce24aed"
@@ -2327,16 +1478,6 @@
     "id": "R100000002-I000007816174-00"
   - "domain": "isbn"
     "id": "408600609X"
-  "publish":
-    "issued": "2005-07"
-    "page": 199
-    "publisher": "コバルト文庫"
-    "volume": 21
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "3e9c8a53-5842-4efa-af4e-99551c1f3e37"
@@ -2355,16 +1496,6 @@
     "id": "R100000002-I000008043214-00"
   - "domain": "isbn"
     "id": "4086007045"
-  "publish":
-    "issued": "2006-01"
-    "page": 217
-    "publisher": "コバルト文庫"
-    "volume": 22
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "1bc856e1-2b8e-4750-bb87-88d52bc8aa3e"
@@ -2383,16 +1514,6 @@
     "id": "R100000002-I000008146680-00"
   - "domain": "isbn"
     "id": "4086007436"
-  "publish":
-    "issued": "2006-04"
-    "page": 198
-    "publisher": "コバルト文庫"
-    "volume": 23
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "c16a57c8-c481-45dd-9051-7090404b4f5a"
@@ -2411,16 +1532,6 @@
     "id": "R100000002-I000008233353-00"
   - "domain": "isbn"
     "id": "4086007843"
-  "publish":
-    "issued": "2006-07"
-    "page": 201
-    "publisher": "コバルト文庫"
-    "volume": 24
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "34dce47f-5177-4e11-9f6e-3eb56dd89947"
@@ -2439,16 +1550,6 @@
     "id": "R100000002-I000008314202-00"
   - "domain": "isbn"
     "id": "4086008238"
-  "publish":
-    "issued": "2006-10"
-    "page": 196
-    "publisher": "コバルト文庫"
-    "volume": 25
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "895f2a96-e085-4946-9311-95ae49cf91ef"
@@ -2467,16 +1568,6 @@
     "id": "R100000002-I000008412492-00"
   - "domain": "isbn"
     "id": "4086008599"
-  "publish":
-    "issued": "2007-01"
-    "page": 199
-    "publisher": "コバルト文庫"
-    "volume": 26
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "dd85e448-1111-45b4-997f-aa44beb63218"
@@ -2495,16 +1586,6 @@
     "id": "R100000002-I000008501673-00"
   - "domain": "isbn"
     "id": "9784086008952"
-  "publish":
-    "issued": "2007-04"
-    "page": 201
-    "publisher": "コバルト文庫"
-    "volume": 27
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "4af6f6a5-b221-4325-a3ab-901e8203ee85"
@@ -2523,16 +1604,6 @@
     "id": "R100000002-I000008595702-00"
   - "domain": "isbn"
     "id": "9784086010344"
-  "publish":
-    "issued": "2007-07"
-    "page": 254
-    "publisher": "コバルト文庫"
-    "volume": 28
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "104d6a11-7a0f-4a6c-b58c-7477071240cd"
@@ -2551,16 +1622,6 @@
     "id": "R100000002-I000009118993-00"
   - "domain": "isbn"
     "id": "9784086010757"
-  "publish":
-    "issued": "2007-10"
-    "page": 199
-    "publisher": "コバルト文庫"
-    "volume": 29
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "943f06c8-a262-4b4b-97ba-cd4aff5d928a"
@@ -2579,16 +1640,6 @@
     "id": "R100000002-I000009231702-00"
   - "domain": "isbn"
     "id": "9784086011105"
-  "publish":
-    "issued": "2008-01"
-    "page": 194
-    "publisher": "コバルト文庫"
-    "volume": 30
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "12060c35-1c81-43e1-a957-b73bdc620443"
@@ -2607,16 +1658,6 @@
     "id": "R100000002-I000009321607-00"
   - "domain": "isbn"
     "id": "9784086011440"
-  "publish":
-    "issued": "2008-04"
-    "page": 203
-    "publisher": "コバルト文庫"
-    "volume": 31
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "3f3318bf-0219-4947-84e8-8057049cd8d7"
@@ -2635,16 +1676,6 @@
     "id": "R100000002-I000009632989-00"
   - "domain": "isbn"
     "id": "9784086012140"
-  "publish":
-    "issued": "2008-10"
-    "page": 194
-    "publisher": "コバルト文庫"
-    "volume": 32
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "ec268179-f819-4cd1-b65a-6ac56a250e11"
@@ -2663,16 +1694,6 @@
     "id": "R100000002-I000009990013-00"
   - "domain": "isbn"
     "id": "9784086012447"
-  "publish":
-    "issued": "2009-01"
-    "page": 209
-    "publisher": "コバルト文庫"
-    "volume": 33
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 457
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "517b8548-ed3b-4c7c-821e-935e69cbcc5e"
@@ -2691,16 +1712,6 @@
     "id": "R100000002-I000010334589-00"
   - "domain": "isbn"
     "id": "9784086013055"
-  "publish":
-    "issued": "2009-07"
-    "page": 222
-    "publisher": "コバルト文庫"
-    "volume": 34
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 457
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "137df801-eff8-483e-8ef4-7e310e5b3559"
@@ -2719,16 +1730,6 @@
     "id": "R100000002-I000010664103-00"
   - "domain": "isbn"
     "id": "9784086013635"
-  "publish":
-    "issued": "2010-01"
-    "page": 202
-    "publisher": "コバルト文庫"
-    "volume": 35
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "634a97fe-7a81-4474-b7e4-aeaf341ef1f0"
@@ -2747,16 +1748,6 @@
     "id": "R100000002-I000011083401-00"
   - "domain": "isbn"
     "id": "9784086014816"
-  "publish":
-    "issued": "2011-01"
-    "page": 200
-    "publisher": "コバルト文庫"
-    "volume": 36
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "af8a658e-5421-4f3c-b3c1-64bae22986ab"
@@ -2775,16 +1766,6 @@
     "id": "R100000002-I023557920-00"
   - "domain": "isbn"
     "id": "9784086016315"
-  "publish":
-    "issued": "2012-05"
-    "page": 203
-    "publisher": "コバルト文庫"
-    "volume": 37
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-28"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-28"
 
 - "id": "ed771d45-45cb-4109-9149-50d019b1a90b"
@@ -2803,16 +1784,6 @@
     "id": "R100000002-I023893462-00"
   - "domain": "isbn"
     "id": "9784048868945"
-  "publish":
-    "issued": "2012-09"
-    "page": 307
-    "publisher": "電撃文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "5d535747-170c-49a7-9fcb-3bdaab314ec7"
@@ -2831,16 +1802,6 @@
     "id": "R100000002-I024149894-00"
   - "domain": "isbn"
     "id": "9784048912686"
-  "publish":
-    "issued": "2013-01"
-    "page": 285
-    "publisher": "電撃文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 630
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "05aed80d-f7de-4e95-b390-c4fa65479b64"
@@ -2859,16 +1820,6 @@
     "id": "R100000002-I024460874-00"
   - "domain": "isbn"
     "id": "9784048916783"
-  "publish":
-    "issued": "2013-06"
-    "page": 333
-    "publisher": "電撃文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 650
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "6af9e3da-96b7-4b78-91b1-c8554536edf6"
@@ -2887,15 +1838,6 @@
     "id": "R100000002-I002679664-00"
   - "domain": "isbn"
     "id": "9784048860826"
-  "publish":
-    "issued": "2011-11"
-    "page": 307
-    "publisher": "電撃文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "12cc085b-a1eb-4af4-bc2a-bf2d3d8ae8a3"
@@ -2914,15 +1856,6 @@
     "id": "R100000002-I026279639-00"
   - "domain": "isbn"
     "id": "9784048650519"
-  "publish":
-    "issued": "2015-04"
-    "page": 287
-    "publisher": "電撃文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "1208b546-1638-4a84-9b93-9d9e6010be2b"
@@ -2941,15 +1874,6 @@
     "id": "R100000002-I026061289-00"
   - "domain": "isbn"
     "id": "9784048692472"
-  "publish":
-    "issued": "2015-02"
-    "page": 317
-    "publisher": "電撃文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "4a19d927-22f4-45f7-a81a-29dbfcfeebc5"
@@ -2968,16 +1892,6 @@
     "id": "R100000002-I026279630-00"
   - "domain": "isbn"
     "id": "9784048650526"
-  "publish":
-    "issued": "2015-04"
-    "page": 355
-    "publisher": "電撃文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 650
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "6bfa8064-b029-431c-a91c-b763ee874c30"
@@ -2996,16 +1910,6 @@
     "id": "R100000002-I026609533-00"
   - "domain": "isbn"
     "id": "9784048653053"
-  "publish":
-    "issued": "2015-08"
-    "page": 317
-    "publisher": "電撃文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 650
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "d7bf8888-f625-4134-8767-fa05e705f9d2"
@@ -3024,14 +1928,6 @@
     "id": "R100000002-I000002868630-00"
   - "domain": "isbn"
     "id": "4878921714"
-  "publish":
-    "issued": "1999-06"
-    "page": 246
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "39b23f19-4afa-4265-b1ec-3d5fa213b1e7"
@@ -3050,15 +1946,6 @@
     "id": "R100000002-I000011108687-00"
   - "domain": "isbn"
     "id": "9784048702393"
-  "publish":
-    "issued": "2011-02"
-    "page": 297
-    "publisher": "電撃文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 550
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "731f6793-195c-441a-9289-8e486eac789e"
@@ -3077,16 +1964,6 @@
     "id": "R100000002-I000011204794-00"
   - "domain": "isbn"
     "id": "9784048705554"
-  "publish":
-    "issued": "2011-06"
-    "page": 321
-    "publisher": "電撃文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 610
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "281a23bc-e799-4459-bc8e-3013ac365c38"
@@ -3105,16 +1982,6 @@
     "id": "R100000002-I000011286975-00"
   - "domain": "isbn"
     "id": "9784048709651"
-  "publish":
-    "issued": "2011-10"
-    "page": 301
-    "publisher": "電撃文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 630
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "b6d4ce67-bb0e-47c8-b55e-2eda2dd6962a"
@@ -3133,15 +2000,6 @@
     "id": "R100000002-I000010215284-00"
   - "domain": "isbn"
     "id": "9784829665022"
-  "publish":
-    "issued": "2009-06"
-    "page": 237
-    "publisher": "ティアラ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 514
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "c35e9474-8a58-45d5-9dcf-6aea64de49a6"
@@ -3160,15 +2018,6 @@
     "id": "R100000002-I000002996146-00"
   - "domain": "isbn"
     "id": "4044238022"
-  "publish":
-    "issued": "2001-06"
-    "page": 232
-    "publisher": "角川文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 514
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "3feba627-577b-4b2b-a2c2-b2da0583b124"
@@ -3184,15 +2033,6 @@
     "id": "R100000002-I000003017374-00"
   - "domain": "isbn"
     "id": "4847034090"
-  "publish":
-    "issued": "2001-09"
-    "page": 232
-    "publisher": "Carrot novels"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 850
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "d85ffd02-858d-4008-bd1f-42f0c3b7669b"
@@ -3208,15 +2048,6 @@
     "id": "R100000002-I000003027496-00"
   - "domain": "isbn"
     "id": "4087473600"
-  "publish":
-    "issued": "2001-09"
-    "page": 199
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "5f0f4b8a-a043-4249-b2df-51d51b4ed2eb"
@@ -3232,15 +2063,6 @@
     "id": "R100000002-I023975024-00"
   - "domain": "isbn"
     "id": "9784758436892"
-  "publish":
-    "issued": "2012-10"
-    "page": 339
-    "publisher": "ハルキ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 762
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "2b633d9f-f94c-4205-8ddb-02c01574fbe0"
@@ -3259,15 +2081,6 @@
     "id": "R100000002-I000010616250-00"
   - "domain": "isbn"
     "id": "9784758040570"
-  "publish":
-    "issued": "2009-03"
-    "page": 270
-    "publisher": "一迅社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "ee97075e-066b-442f-b0e6-5450c1aa3444"
@@ -3286,15 +2099,6 @@
     "id": "R100000002-I000011182027-00"
   - "domain": "isbn"
     "id": "9784048705301"
-  "publish":
-    "issued": "2011-05"
-    "page": 299
-    "publisher": "電撃文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "ddf6b5fc-d7f9-4eb4-a5f3-0f04dfa90390"
@@ -3313,15 +2117,6 @@
     "id": "R100000002-I000011001498-00"
   - "domain": "isbn"
     "id": "9784758041515"
-  "publish":
-    "issued": "2010-05"
-    "page": 254
-    "publisher": "一迅社文庫アイリス"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 562
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "e09f9e91-965b-48cc-b7b1-6b5578f84d79"
@@ -3340,16 +2135,6 @@
     "id": "R100000002-I000008245378-00"
   - "domain": "isbn"
     "id": "4044708053"
-  "publish":
-    "issued": "2006-07"
-    "page": 325
-    "publisher": "角川文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "d00a30b6-e703-412a-9ce8-0bd7db1c580c"
@@ -3368,16 +2153,6 @@
     "id": "R100000002-I000008357237-00"
   - "domain": "isbn"
     "id": "4044708061"
-  "publish":
-    "issued": "2006-11"
-    "page": 255
-    "publisher": "角川文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 533
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "21c99a09-beb6-454d-adf6-aa3bf4182ab6"
@@ -3396,15 +2171,6 @@
     "id": "R100000002-I024171550-00"
   - "domain": "isbn"
     "id": "9784758072274"
-  "publish":
-    "issued": "2013-02"
-    "page": 211
-    "publisher": "Yuri-Hime Novel"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1500
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "aade7d10-6055-405d-b4b1-663ef952b14f"
@@ -3423,15 +2189,6 @@
     "id": "R100000002-I000007771735-00"
   - "domain": "isbn"
     "id": "4086006065"
-  "publish":
-    "issued": "2005-06"
-    "page": 235
-    "publisher": "コバルト文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 495
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "1930f6e6-7761-4b2f-8570-f5fc1928ea9b"
@@ -3450,15 +2207,6 @@
     "id": "R100000002-I000007904835-00"
   - "domain": "isbn"
     "id": "4086006456"
-  "publish":
-    "issued": "2005-09"
-    "page": 209
-    "publisher": "コバルト文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "6153b1da-f8e0-4941-8526-2bdc7d08bebd"
@@ -3477,15 +2225,6 @@
     "id": "R100000002-I000008017075-00"
   - "domain": "isbn"
     "id": "4086007002"
-  "publish":
-    "issued": "2005-12"
-    "page": 221
-    "publisher": "コバルト文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 457
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "3a5c3e38-6455-407d-a23a-3b6aba45e162"
@@ -3504,15 +2243,6 @@
     "id": "R100000002-I000008146567-00"
   - "domain": "isbn"
     "id": "4086007541"
-  "publish":
-    "issued": "2006-04"
-    "page": 221
-    "publisher": "コバルト文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 457
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "c0308cf9-3518-4c08-a126-d6842e935fa1"
@@ -3531,15 +2261,6 @@
     "id": "R100000002-I000008381982-00"
   - "domain": "isbn"
     "id": "4086008572"
-  "publish":
-    "issued": "2006-12"
-    "page": 244
-    "publisher": "コバルト文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 495
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "e6acf183-7517-47a7-a32d-a0f4d4ada09c"
@@ -3558,15 +2279,6 @@
     "id": "R100000002-I000009410317-00"
   - "domain": "isbn"
     "id": "9784167722029"
-  "publish":
-    "issued": "2008-07"
-    "page": 127
-    "publisher": "文春文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 724
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "248fe29a-8001-4078-81c9-218536a0e823"
@@ -3585,14 +2297,6 @@
     "id": "R100000002-I000009317401-00"
   - "domain": "isbn"
     "id": "9784048738255"
-  "publish":
-    "issued": "2008-03"
-    "page": 273
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1400
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "5ca7b15c-a210-4937-9e8d-5927250743c9"
@@ -3611,15 +2315,6 @@
     "id": "R100000002-I000009815819-00"
   - "domain": "isbn"
     "id": "9784840124812"
-  "publish":
-    "issued": "2008-11"
-    "page": 294
-    "publisher": "MF文庫J"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "81c540f3-c3eb-4596-bc3e-e1ac389a8275"
@@ -3638,16 +2333,6 @@
     "id": "R100000002-I000010063225-00"
   - "domain": "isbn"
     "id": "9784840127196"
-  "publish":
-    "issued": "2009-03"
-    "page": 293
-    "publisher": "MF文庫J"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "0ce7836a-189c-47d8-a93f-21c40625bdf1"
@@ -3666,16 +2351,6 @@
     "id": "R100000002-I000010411079-00"
   - "domain": "isbn"
     "id": "9784840128438"
-  "publish":
-    "issued": "2009-07"
-    "page": 259
-    "publisher": "MF文庫J"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "ed1505ff-a42c-4288-85b2-4fc1e844c63f"
@@ -3691,15 +2366,6 @@
     "id": "R100000002-I000010350410-00"
   - "domain": "isbn"
     "id": "9784796671705"
-  "publish":
-    "issued": "2009-07"
-    "page": 294
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "3876ea46-fe5a-4f1a-8233-dad556a7394d"
@@ -3715,15 +2381,6 @@
     "id": "R100000002-I000010350411-00"
   - "domain": "isbn"
     "id": "9784796671729"
-  "publish":
-    "issued": "2009-07"
-    "page": 295
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "5a51a0cd-48a7-46ce-b319-2172e7007c18"
@@ -3742,15 +2399,6 @@
     "id": "R100000002-I000011267145-00"
   - "domain": "isbn"
     "id": "9784560071762"
-  "publish":
-    "issued": "2011-09"
-    "page": 295
-    "publisher": "白水Uブックス"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1400
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "c3575408-8167-4dba-aad5-11664995194f"
@@ -3766,15 +2414,6 @@
     "id": "R100000002-I000002751251-00"
   - "domain": "isbn"
     "id": "4582762743"
-  "publish":
-    "issued": "1998-12"
-    "page": 384
-    "publisher": "平凡社ライブラリー"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1200
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "4d1a8437-122c-4b9b-88af-4c11c932fcc2"
@@ -3790,14 +2429,6 @@
     "id": "R100000002-I000002989206-00"
   - "domain": "isbn"
     "id": "4872572173"
-  "publish":
-    "issued": "2000-07"
-    "page": 302
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1300
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "2f79d1a5-3b69-42f2-90c4-3bf230f4c150"
@@ -3816,15 +2447,6 @@
     "id": "R100000002-I000009430002-00"
   - "domain": "isbn"
     "id": "9784894257306"
-  "publish":
-    "issued": "2008-07"
-    "page": 314
-    "publisher": "HJ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 638
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "6a1de562-71ef-4141-b2ca-54e63257b0ea"
@@ -3843,16 +2465,6 @@
     "id": "R100000002-I000009758742-00"
   - "domain": "isbn"
     "id": "9784894257696"
-  "publish":
-    "issued": "2008-10"
-    "page": 256
-    "publisher": "HJ文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 638
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "13b59ba2-cf51-42f1-87ef-612829803d4d"
@@ -3871,16 +2483,6 @@
     "id": "R100000002-I000010003803-00"
   - "domain": "isbn"
     "id": "9784894258204"
-  "publish":
-    "issued": "2009-02"
-    "page": 267
-    "publisher": "HJ文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 638
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "a75947e4-081a-4737-8b84-7618031298ba"
@@ -3896,14 +2498,6 @@
     "id": "R100000002-I000009260112-00"
   - "domain": "isbn"
     "id": "9784776516217"
-  "publish":
-    "issued": "2008-02"
-    "page": 119
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 780
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "cdd13cad-6e9d-4460-8e3d-28855d02f5df"
@@ -3922,15 +2516,6 @@
     "id": "R100000002-I000008378460-00"
   - "domain": "isbn"
     "id": "4289007988"
-  "publish":
-    "issued": "2006-06"
-    "page": 180
-    "publisher": "Jam plus novels"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 950
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "82cfba6b-1e4b-4b7f-8c75-186be9fea384"
@@ -3946,15 +2531,6 @@
     "id": "R100000002-I000003647870-00"
   - "domain": "isbn"
     "id": "4062734346"
-  "publish":
-    "issued": "2002-05"
-    "page": 365
-    "publisher": "講談社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "8a0eb901-88bd-477f-9523-adbbca299a39"
@@ -3970,15 +2546,6 @@
     "id": "R100000002-I000002504310-00"
   - "domain": "isbn"
     "id": "4087484793"
-  "publish":
-    "issued": "1996-05"
-    "page": 255
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 520
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "4eb7768a-c73e-4301-91c2-c114df73eeb5"
@@ -3997,15 +2564,6 @@
     "id": "R100000002-I000001299661-00"
   - "domain": "isbn"
     "id": "4750514241"
-  "publish":
-    "issued": "1970"
-    "page": 386
-    "publisher": "創元推理文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1800
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "00e35867-8da8-4a08-8d81-9cf01b92e499"
@@ -4024,15 +2582,6 @@
     "id": "R100000002-I000002224996-00"
   - "domain": "isbn"
     "id": "4594010105"
-  "publish":
-    "issued": "1992-09"
-    "page": 517
-    "publisher": "扶桑社ミステリー"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 680
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "787b0701-eee5-44ca-9013-51a380b79eec"
@@ -4048,15 +2597,6 @@
     "id": "R100000002-I000010616173-00"
   - "domain": "isbn"
     "id": "9784758040457"
-  "publish":
-    "issued": "2009-01"
-    "page": 318
-    "publisher": "一迅社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 638
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "2ba40af2-d241-445b-a869-07b9a778c3cb"
@@ -4075,15 +2615,6 @@
     "id": "R100000002-I000010976273-00"
   - "domain": "isbn"
     "id": "9784062837552"
-  "publish":
-    "issued": "2010-09"
-    "page": 285
-    "publisher": "講談社box"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1400
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "1ceda23a-d7b8-4a97-9d9f-ff81be04ee9e"
@@ -4102,16 +2633,6 @@
     "id": "R100000002-I000008312278-00"
   - "domain": "isbn"
     "id": "4829118628"
-  "publish":
-    "issued": "2006-09"
-    "page": 380
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "191d23b7-fffe-46db-8f8d-a9ee01961006"
@@ -4130,16 +2651,6 @@
     "id": "R100000002-I000008441353-00"
   - "domain": "isbn"
     "id": "9784829118955"
-  "publish":
-    "issued": "2007-01"
-    "page": 347
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "176058d2-abde-4661-a533-d7c07a7757e2"
@@ -4158,16 +2669,6 @@
     "id": "R100000002-I000008574884-00"
   - "domain": "isbn"
     "id": "9784829119303"
-  "publish":
-    "issued": "2007-05"
-    "page": 348
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "849fa79f-a178-4293-b1b3-41922e042929"
@@ -4186,16 +2687,6 @@
     "id": "R100000002-I000009192844-00"
   - "domain": "isbn"
     "id": "9784829119785"
-  "publish":
-    "issued": "2007-11"
-    "page": 373
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 660
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "77331ac8-d84d-4ad9-bb62-1c0841c27829"
@@ -4214,15 +2705,6 @@
     "id": "R100000002-I000002508860-00"
   - "domain": "isbn"
     "id": "4086090414"
-  "publish":
-    "issued": "1996-05"
-    "page": 239
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1400
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "01d4cd0c-d09c-48b0-9200-25aea021653e"
@@ -4241,15 +2723,6 @@
     "id": "R100000002-I000002528299-00"
   - "domain": "isbn"
     "id": "4086090449"
-  "publish":
-    "issued": "1996-07"
-    "page": 239
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1400
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "2ef8cbc6-f581-4e39-b773-ba798b3ef9fc"
@@ -4265,14 +2738,6 @@
     "id": "R100000002-I000008096908-00"
   - "domain": "isbn"
     "id": "4309017487"
-  "publish":
-    "issued": "2006-02"
-    "page": 219
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 1600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "23104206-ed3f-42ae-ad7f-dc94d3d04195"
@@ -4288,16 +2753,6 @@
     "id": "R100000002-I000008152641-00"
   - "domain": "isbn"
     "id": "4062749459"
-  "publish":
-    "issued": "2006-04"
-    "page": 395
-    "publisher": "講談社文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "b1d9718f-3693-4777-8a90-d721e0c8a158"
@@ -4313,16 +2768,6 @@
     "id": "R100000002-I000008152541-00"
   - "domain": "isbn"
     "id": "4062753618"
-  "publish":
-    "issued": "2006-04"
-    "page": 374
-    "publisher": "講談社文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "81f6ef09-e198-4872-bf35-f0969017fa6d"
@@ -4341,16 +2786,6 @@
     "id": "R100000002-I000008017076-00"
   - "domain": "isbn"
     "id": "4757725108"
-  "publish":
-    "issued": "2005-12"
-    "page": 283
-    "publisher": "ファミ通文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "651eb8df-1f5d-4ae8-bcc2-8627be9fdcad"
@@ -4369,16 +2804,6 @@
     "id": "R100000002-I000008202460-00"
   - "domain": "isbn"
     "id": "4757727445"
-  "publish":
-    "issued": "2006-06"
-    "page": 316
-    "publisher": "ファミ通文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "371065be-1aa8-4845-b776-85ccdcc40113"
@@ -4397,16 +2822,6 @@
     "id": "R100000002-I000008348473-00"
   - "domain": "isbn"
     "id": "4757730012"
-  "publish":
-    "issued": "2006-11"
-    "page": 310
-    "publisher": "ファミ通文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "231a50e7-38c1-4db7-8722-f0a4dc4b74a6"
@@ -4425,16 +2840,6 @@
     "id": "R100000002-I000008512606-00"
   - "domain": "isbn"
     "id": "9784757734210"
-  "publish":
-    "issued": "2007-04"
-    "page": 343
-    "publisher": "ファミ通文庫"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "1437898a-0534-462c-91ca-542669c081b7"
@@ -4453,16 +2858,6 @@
     "id": "R100000002-I000009153455-00"
   - "domain": "isbn"
     "id": "9784757737952"
-  "publish":
-    "issued": "2007-11"
-    "page": 407
-    "publisher": "ファミ通文庫"
-    "volume": 5
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 660
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "fff87ea3-cb2e-4641-85ae-a51aa3e8b6cc"
@@ -4481,16 +2876,6 @@
     "id": "R100000002-I000009949159-00"
   - "domain": "isbn"
     "id": "9784757740761"
-  "publish":
-    "issued": "2008-04"
-    "page": 286
-    "publisher": "ファミ通文庫"
-    "volume": 6
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "02ca7052-44ea-4873-8592-57cf57804f8b"
@@ -4509,16 +2894,6 @@
     "id": "R100000002-I000009428529-00"
   - "domain": "isbn"
     "id": "9784757743359"
-  "publish":
-    "issued": "2008-08"
-    "page": 317
-    "publisher": "ファミ通文庫"
-    "volume": 7
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "89228b68-7065-4247-a149-a777210f6a5c"
@@ -4537,16 +2912,6 @@
     "id": "R100000002-I000010087398-00"
   - "domain": "isbn"
     "id": "9784757747678"
-  "publish":
-    "issued": "2009-04"
-    "page": 343
-    "publisher": "ファミ通文庫"
-    "volume": 8
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "ebf6d73f-b3f6-4262-a738-e1793c0ba9b0"
@@ -4565,16 +2930,6 @@
     "id": "R100000002-I000010437929-00"
   - "domain": "isbn"
     "id": "9784757749863"
-  "publish":
-    "issued": "2009-08"
-    "page": 316
-    "publisher": "ファミ通文庫"
-    "volume": 9
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "2d34876a-12ff-46e0-afe8-8bd755d3414e"
@@ -4593,16 +2948,6 @@
     "id": "R100000002-I000010850422-00"
   - "domain": "isbn"
     "id": "9784047264861"
-  "publish":
-    "issued": "2010-05"
-    "page": 318
-    "publisher": "ファミ通文庫"
-    "volume": 10
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-29"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-29"
 
 - "id": "53e31d5f-0d0b-47ff-8826-ee90fe6bbab6"
@@ -4618,15 +2963,6 @@
     "id": "R100000002-I000010696808-00"
   - "domain": "isbn"
     "id": "9784167780012"
-  "publish":
-    "issued": "2010-02"
-    "page": 414
-    "publisher": "文春文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 629
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "9d409c74-740f-43e2-a19f-48df257a6648"
@@ -4642,15 +2978,6 @@
     "id": "R100000002-I000011111663-00"
   - "domain": "isbn"
     "id": "9784167780036"
-  "publish":
-    "issued": "2011-02"
-    "page": 415
-    "publisher": "文春文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 629
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "93936a91-6527-4236-866c-edbad2b9bdd0"
@@ -4666,14 +2993,6 @@
     "id": "R100000002-I000010469948-00"
   - "domain": "isbn"
     "id": "9784167780043"
-  "publish":
-    "issued": "2009-07"
-    "page": 349
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 1476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "053d2e4e-a033-4d51-ab64-32a0b0816d42"
@@ -4689,14 +3008,6 @@
     "id": "R100000002-I026595623-00"
   - "domain": "isbn"
     "id": "9784163903002"
-  "publish":
-    "issued": "2015-07"
-    "page": 347
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 1500
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "d3d31f92-c438-4022-9ba2-62217b6769fa"
@@ -4712,15 +3023,6 @@
     "id": "R100000002-I027981317-00"
   - "domain": "isbn"
     "id": "9784150312640"
-  "publish":
-    "issued": "2017-02"
-    "page": 317
-    "publisher": "ハヤカワ文庫 JA"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 780
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "004a2d2d-9405-4145-9575-12d54f00230c"
@@ -4736,15 +3038,6 @@
     "id": "R100000002-I000002305130-00"
   - "domain": "isbn"
     "id": "4828832793"
-  "publish":
-    "issued": "1993-12"
-    "page": 207
-    "publisher": "福武文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 520
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "b989fa53-f540-4853-8ea5-2a6c28f3c89f"
@@ -4763,15 +3056,6 @@
     "id": "R100000002-I000002675481-00"
   - "domain": "isbn"
     "id": "4150112258"
-  "publish":
-    "issued": "1998-03"
-    "page": 507
-    "publisher": "ハヤカワ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 840
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "9d0899c9-6865-44ea-862b-9df247e42274"
@@ -4790,15 +3074,6 @@
     "id": "R100000002-I000002375194-00"
   - "domain": "isbn"
     "id": "4087602583"
-  "publish":
-    "issued": "1994-11"
-    "page": 511
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 760
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "5daa7ff7-8cca-4a1c-b409-054fdb72928e"
@@ -4817,15 +3092,6 @@
     "id": "R100000002-I000002470958-00"
   - "domain": "isbn"
     "id": "4087602796"
-  "publish":
-    "issued": "1995-12"
-    "page": 344
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "895fb125-7136-4d9e-84ca-f43e577c2e45"
@@ -4844,10 +3110,6 @@
     "id": "R100000001-I004174481-00"
   - "domain": "isbn"
     "id": "4087603504"
-  "publish":
-    "issued": "1998"
-    "page": 429
-    "publisher": "集英社文庫"
   "last_update": "2017-04-30"
 
 - "id": "35c10daa-e583-4cb9-996c-d1cfd0914866"
@@ -4866,15 +3128,6 @@
     "id": "R100000002-I000003035651-00"
   - "domain": "isbn"
     "id": "4087604020"
-  "publish":
-    "issued": "2001-10"
-    "page": 492
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 838
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "8a2b0ce5-433d-44d0-a88c-3e5ce7eee854"
@@ -4893,15 +3146,6 @@
     "id": "R100000002-I000009241995-00"
   - "domain": "isbn"
     "id": "9784087605488"
-  "publish":
-    "issued": "2008-01"
-    "page": 599
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "bf852cdc-8187-414c-97ed-8c03bd256d55"
@@ -4912,21 +3156,11 @@
   - "id": "c7ac130b-d354-4955-b588-b59b9462f1a5"
     "name": "桜庭一樹"
     "type": "author"
-
   "identifier":
   - "domain": "iss.ndl.go.jp"
     "id": "R100000002-I000010057023-00"
   - "domain": "isbn"
     "id": "9784044281045"
-  "publish":
-    "issued": "2009-02"
-    "page": 201
-    "publisher": "角川文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "7eab4625-a0dc-43a1-a6fe-00851a2b9c5d"
@@ -4945,15 +3179,6 @@
     "id": "R100000002-I000009277424-00"
   - "domain": "isbn"
     "id": "9784086304061"
-  "publish":
-    "issued": "2008-02"
-    "page": 285
-    "publisher": "集英社スーパーダッシュ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "c047c2be-983d-4b8d-96c8-9fd836101f6a"
@@ -4972,15 +3197,6 @@
     "id": "R100000002-I000009345789-00"
   - "domain": "isbn"
     "id": "9784086304207"
-  "publish":
-    "issued": "2008-04"
-    "page": 251
-    "publisher": "集英社スーパーダッシュ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "d8c7f191-9c8b-49bc-b41a-ca429623fb09"
@@ -4996,15 +3212,6 @@
     "id": "R100000002-I000009762453-00"
   - "domain": "isbn"
     "id": "9784167732035"
-  "publish":
-    "issued": "2008-11"
-    "page": 478
-    "publisher": "文春文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 686
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "1fd93c32-c016-4141-929f-1adbf06f6d58"
@@ -5020,15 +3227,6 @@
     "id": "R100000002-I000008146938-00"
   - "domain": "isbn"
     "id": "4797499915"
-  "publish":
-    "issued": "2006-04"
-    "page": 205
-    "publisher": "新風舎文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 700
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "4bc10628-770d-4ca0-bfdf-37f7d91f7617"
@@ -5050,21 +3248,6 @@
     "id": "R100000002-I024642046-00"
   - "domain": "isbn"
     "id": "9784061389519"
-  "publish":
-    "issued": "2013-07"
-    "page": 248
-    "publisher": "星海社文庫"
-  "toc":
-  - しずるさんと唐傘小僧
-  - しずるさんと宇宙怪物
-  - しずるさんと幽霊犬
-  - しずるさんと吊られた男
-  - はりねずみチクタのぼうけん
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 676
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "5941957e-67fa-4655-a879-0bf6b9579d93"
@@ -5086,15 +3269,6 @@
     "id": "R100000002-I024799712-00"
   - "domain": "isbn"
     "id": "9784061389540"
-  "publish":
-    "issued": "2013-09"
-    "page": 243
-    "publisher": "星海社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 680
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "0205f610-3195-40e8-b5b8-0bf086b9529c"
@@ -5116,15 +3290,6 @@
     "id": "R100000002-I024953220-00"
   - "domain": "isbn"
     "id": "9784061389595"
-  "publish":
-    "issued": "2013-11"
-    "page": 231
-    "publisher": "星海社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 680
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "9bad1ee3-8ff1-4bda-8c64-f44df6be6c21"
@@ -5146,15 +3311,6 @@
     "id": "R100000002-I025369329-00"
   - "domain": "isbn"
     "id": "9784061389670"
-  "publish":
-    "issued": "2014-04"
-    "page": 259
-    "publisher": "星海社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 690
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "dd2b6b1d-3c27-4695-8d12-76caadb2d5f4"
@@ -5170,15 +3326,6 @@
     "id": "R100000002-I000004388461-00"
   - "domain": "isbn"
     "id": "4094080236"
-  "publish":
-    "issued": "2004-04"
-    "page": 315
-    "publisher": "小学館文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "ca7547cd-5bd2-4cf0-b16b-c958b4eb7a0e"
@@ -5194,15 +3341,6 @@
     "id": "R100000002-I000008276348-00"
   - "domain": "isbn"
     "id": "4331612422"
-  "publish":
-    "issued": "2006-09"
-    "page": 307
-    "publisher": "廣済堂文庫. 特選時代小説"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "7ecd31c2-c67c-468b-8ad8-e07018773166"
@@ -5218,15 +3356,6 @@
     "id": "R100000002-I000009201282-00"
   - "domain": "isbn"
     "id": "9784331613139"
-  "publish":
-    "issued": "2008-01"
-    "page": 316
-    "publisher": "廣済堂文庫. 特選時代小説"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "d9783855-eebf-475d-9d70-1350817ada25"
@@ -5242,15 +3371,6 @@
     "id": "R100000002-I025772242-00"
   - "domain": "isbn"
     "id": "9784101800073"
-  "publish":
-    "issued": "2014-10"
-    "page": 382
-    "publisher": "新潮文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 670
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "e238fb03-870c-4de3-b442-9bd7da3d58b4"
@@ -5269,16 +3389,6 @@
     "id": "R100000002-I000008129334-00"
   - "domain": "isbn"
     "id": "4840233543"
-  "publish":
-    "issued": "2006-03"
-    "page": 323
-    "publisher": "電撃文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 630
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "8c25aab5-8abd-4bc6-8aaa-8212e7b6056f"
@@ -5297,16 +3407,6 @@
     "id": "R100000002-I000008262661-00"
   - "domain": "isbn"
     "id": "4840235260"
-  "publish":
-    "issued": "2006-08"
-    "page": 355
-    "publisher": "電撃文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 630
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "e40b6225-8650-41c9-bd1b-82d7dd85722f"
@@ -5325,16 +3425,6 @@
     "id": "R100000002-I000008388940-00"
   - "domain": "isbn"
     "id": "4840236461"
-  "publish":
-    "issued": "2006-12"
-    "page": 323
-    "publisher": "電撃文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 630
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "7e860897-3a94-4c31-9063-f2444a75033a"
@@ -5350,15 +3440,6 @@
     "id": "R100000002-I024690671-00"
   - "domain": "isbn"
     "id": "9784198937348"
-  "publish":
-    "issued": "2013-08"
-    "page": 477
-    "publisher": "徳間文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 686
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "be8d8dda-fb72-472d-8da0-643a44f44989"
@@ -5377,15 +3458,6 @@
     "id": "R100000002-I000009241407-00"
   - "domain": "isbn"
     "id": "9784086304023"
-  "publish":
-    "issued": "2008-01"
-    "page": 244
-    "publisher": "集英社スーパーダッシュ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 552
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "6bc91f20-e689-4105-9f9e-d48e135d2e4b"
@@ -5404,15 +3476,6 @@
     "id": "R100000002-I000010869470-00"
   - "domain": "isbn"
     "id": "9784094512045"
-  "publish":
-    "issued": "2010-05"
-    "page": 263
-    "publisher": "ガガガ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "8cb6adc5-e738-4668-baf8-3c988917090b"
@@ -5431,16 +3494,6 @@
     "id": "R100000002-I000011013911-00"
   - "domain": "isbn"
     "id": "9784094512342"
-  "publish":
-    "issued": "2010-10"
-    "page": 263
-    "publisher": "ガガガ文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "8fda8640-5587-47ef-bf4b-81878efa1b10"
@@ -5459,16 +3512,6 @@
     "id": "R100000002-I000011188551-00"
   - "domain": "isbn"
     "id": "9784094512717"
-  "publish":
-    "issued": "2011-05"
-    "page": 229
-    "publisher": "ガガガ文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "ebe539ef-9d5b-4c88-935a-1c4dba4533b2"
@@ -5484,14 +3527,6 @@
     "id": "R100000002-I000011233120-00"
   - "domain": "isbn"
     "id": "9784198632137"
-  "publish":
-    "issued": "2011-07"
-    "page": 253
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 1600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "3c9e545d-3206-4abc-91c1-bc6c7db3cb22"
@@ -5507,20 +3542,6 @@
     "id": "R100000002-I000009265319-00"
   - "domain": "isbn"
     "id": "9784840119009"
-  "publish":
-    "issued": "2007-08"
-    "page": 262
-    "publisher": "MF文庫J"
-    "volume": 12
-  "toc":
-  - 白の国(アルビオン)からの編入生
-  - 水精霊騎士隊、突撃せよ
-  - サイトの一日使用権
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "5587b003-28a9-4b40-870c-54e07ec7b9b4"
@@ -5542,15 +3563,6 @@
     "id": "R100000002-I000008330505-00"
   - "domain": "isbn"
     "id": "404424605X"
-  "publish":
-    "issued": "2006-10"
-    "page": 237
-    "publisher": "角川文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "d8dee0dc-4419-46fb-9e7f-e1e474d42bbb"
@@ -5572,16 +3584,6 @@
     "id": "R100000002-I000008469901-00"
   - "domain": "isbn"
     "id": "9784044246068"
-  "publish":
-    "issued": "2007-03"
-    "page": 206
-    "publisher": "角川文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "d45c9285-c029-4b46-8f1c-52ab09752d6c"
@@ -5603,16 +3605,6 @@
     "id": "R100000002-I000009406427-00"
   - "domain": "isbn"
     "id": "9784044246075"
-  "publish":
-    "issued": "2008-07"
-    "page": 218
-    "publisher": "角川文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 571
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "ad4928bb-34ab-4ad4-b464-5527b71b70fd"
@@ -5631,15 +3623,6 @@
     "id": "R100000002-I000010001677-00"
   - "domain": "isbn"
     "id": "9784198508166"
-  "publish":
-    "issued": "2009-01"
-    "page": 257
-    "publisher": "Tokuma novels edge"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "48b0b6e8-6375-418e-a10d-5365cdce5e57"
@@ -5658,16 +3641,6 @@
     "id": "R100000002-I025314698-00"
   - "domain": "isbn"
     "id": "9784046313751"
-  "publish":
-    "issued": "2014-03"
-    "page": 229
-    "publisher": "角川つばさ文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "cf90d6b7-4d5a-497d-96a4-5d7a673dce67"
@@ -5686,16 +3659,6 @@
     "id": "R100000002-I025486670-00"
   - "domain": "isbn"
     "id": "9784046314154"
-  "publish":
-    "issued": "2014-06"
-    "page": 222
-    "publisher": "角川つばさ文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "9e9a45bd-67e7-4bfe-9d7a-68f91c83f33e"
@@ -5714,16 +3677,6 @@
     "id": "R100000002-I025813312-00"
   - "domain": "isbn"
     "id": "9784046314475"
-  "publish":
-    "issued": "2014-10"
-    "page": 214
-    "publisher": "角川つばさ文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "cbe540d5-f3ca-4f0d-bc33-86b5678cc193"
@@ -5742,15 +3695,6 @@
     "id": "R100000002-I000007359804-00"
   - "domain": "isbn"
     "id": "4840110875"
-  "publish":
-    "issued": "2004-05"
-    "page": 279
-    "publisher": "MF文庫J"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "683b5bed-568d-4bb4-8d4f-634efc3da09a"
@@ -5766,14 +3710,6 @@
     "id": "R100000002-I000002607724-00"
   - "domain": "isbn"
     "id": "4309011462"
-  "publish":
-    "issued": "1997-05"
-    "page": 119
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 1200
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "7d3ccbdd-0445-4b16-8cf7-dd6ef1827c75"
@@ -5792,15 +3728,6 @@
     "id": "R100000002-I000007306621-00"
   - "domain": "isbn"
     "id": "4757717083"
-  "publish":
-    "issued": "2004-03"
-    "page": 276
-    "publisher": "ファミ通文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "0bc85ed1-38a1-4b76-8480-96ce4247ca82"
@@ -5816,15 +3743,6 @@
     "id": "R100000002-I000010903304-00"
   - "domain": "isbn"
     "id": "9784087465884"
-  "publish":
-    "issued": "2010-06"
-    "page": 350
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 552
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "ee1de5d6-f7eb-4dde-8e1a-dd5d3e1bb360"
@@ -5843,15 +3761,6 @@
     "id": "R100000004-I000733989-00"
   - "domain": "isbn"
     "id": "4150107394"
-  "publish":
-    "issued": "1987-10"
-    "page": 379
-    "publisher": "ハヤカワ文庫 SF"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 820
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "9bac857d-ba77-415e-8e2d-e0e57d13761f"
@@ -5867,15 +3776,6 @@
     "id": "R100000002-I023305500-00"
   - "domain": "isbn"
     "id": "9784758043014"
-  "publish":
-    "issued": "2012-02"
-    "page": 286
-    "publisher": "一迅社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "14d6b52f-b62d-49d1-a8c0-594710b48ae4"
@@ -5894,14 +3794,6 @@
     "id": "R100000002-I025897525-00"
   - "domain": "isbn"
     "id": "9784041025499"
-  "publish":
-    "issued": "2014-11"
-    "page": 143
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 1200
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "9c2769a7-7d64-4f40-8e08-48f7f7aeedfe"
@@ -5917,15 +3809,6 @@
     "id": "R100000002-I000002562744-00"
   - "domain": "isbn"
     "id": "4101036187"
-  "publish":
-    "issued": "1997-03"
-    "page": 215
-    "publisher": "新潮文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 520
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "b91e2e1f-5952-4983-90fd-27de1ce3b16c"
@@ -5944,15 +3827,6 @@
     "id": "R100000002-I000008210671-00"
   - "domain": "isbn"
     "id": "484023454X"
-  "publish":
-    "issued": "2006-06"
-    "page": 259
-    "publisher": "電撃文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 550
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "ebdfe624-8f44-4196-83a0-d81278a31267"
@@ -5971,15 +3845,6 @@
     "id": "R100000002-I000010979622-00"
   - "domain": "isbn"
     "id": "9784758041423"
-  "publish":
-    "issued": "2010-04"
-    "page": 286
-    "publisher": "一迅社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "897bf413-353a-4fb6-a6c4-8aa1005c3f79"
@@ -5995,15 +3860,6 @@
     "id": "R100000002-I000011258640-00"
   - "domain": "isbn"
     "id": "9784150310455"
-  "publish":
-    "issued": "2011-08"
-    "page": 397
-    "publisher": "ハヤカワ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 760
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "f5055362-e9d1-4ec4-9357-c774b19f40d8"
@@ -6019,15 +3875,6 @@
     "id": "R100000002-I000003017405-00"
   - "domain": "isbn"
     "id": "4087473538"
-  "publish":
-    "issued": "2001-08"
-    "page": 248
-    "publisher": "集英社文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 476
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "c08ba874-83d3-42f5-b4be-151d7cacf6ad"
@@ -6046,16 +3893,6 @@
     "id": "R100000002-I000007505903-00"
   - "domain": "isbn"
     "id": "4840228396"
-  "publish":
-    "issued": "2004-10"
-    "page": 323
-    "publisher": "電撃文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 610
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "72900e52-68d7-4c69-8c9b-215b62ec5268"
@@ -6074,16 +3911,6 @@
     "id": "R100000002-I000007540157-00"
   - "domain": "isbn"
     "id": "4840228477"
-  "publish":
-    "issued": "2004-11"
-    "page": 317
-    "publisher": "電撃文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 610
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "3beb0cc7-a2df-4e85-b440-a1fb40f46a36"
@@ -6102,15 +3929,6 @@
     "id": "R100000002-I000003989841-00"
   - "domain": "isbn"
     "id": "4044267022"
-  "publish":
-    "issued": "2002-12"
-    "page": 301
-    "publisher": "角川文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 514
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "ddb2f9a6-5ca9-4749-a5b2-855cdafcf521"
@@ -6129,15 +3947,6 @@
     "id": "R100000002-I000002643977-00"
   - "domain": "isbn"
     "id": "4257768266"
-  "publish":
-    "issued": "1997-11"
-    "page": 263
-    "publisher": "ソノラマ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 490
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "566b5d3c-c27e-4764-9892-04e23563a979"
@@ -6156,15 +3965,6 @@
     "id": "R100000002-I000008512604-00"
   - "domain": "isbn"
     "id": "9784757734234"
-  "publish":
-    "issued": "2007-04"
-    "page": 347
-    "publisher": "ファミ通文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "78f526e1-449b-41e9-ab22-d69728e86ca8"
@@ -6183,16 +3983,6 @@
     "id": "R100000002-I000009342358-00"
   - "domain": "isbn"
     "id": "9784757741751"
-  "publish":
-    "issued": "2008-05"
-    "page": 318
-    "publisher": "ファミ通文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "178f3de9-934d-4192-a6be-bc6229b1e9ec"
@@ -6208,15 +3998,6 @@
     "id": "R100000002-I023153822-00"
   - "domain": "isbn"
     "id": "9784569677538"
-  "publish":
-    "issued": "2011-12"
-    "page": 357
-    "publisher": "PHP文芸文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 686
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "96cdc71c-eb71-4c4a-8e6f-6cffddae8233"
@@ -6235,15 +4016,6 @@
     "id": "R100000002-I025387498-00"
   - "domain": "isbn"
     "id": "9784086307826"
-  "publish":
-    "issued": "2014-04"
-    "page": 269
-    "publisher": "集英社スーパーダッシュ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "e0ad4fd4-ba7e-4299-8496-6f2ba8e7724a"
@@ -6262,15 +4034,6 @@
     "id": "R100000002-I000010598296-00"
   - "domain": "isbn"
     "id": "9784894259461"
-  "publish":
-    "issued": "2009-10"
-    "page": 230
-    "publisher": "HJ文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 619
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "1044b7f8-0cbc-4c5c-b051-4fefef6a25f2"
@@ -6289,16 +4052,6 @@
     "id": "R100000002-I027027881-00"
   - "domain": "isbn"
     "id": "9784048656726"
-  "publish":
-    "issued": "2016-01"
-    "page": 389
-    "publisher": "メディアワークス文庫"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 670
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "fc5c4a6b-e928-4edc-bfae-c55ccd8eb77b"
@@ -6317,16 +4070,6 @@
     "id": "R100000002-I027027879-00"
   - "domain": "isbn"
     "id": "9784048656702"
-  "publish":
-    "issued": "2016-01"
-    "page": 325
-    "publisher": "メディアワークス文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 650
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "d46a49f1-2cea-4874-a70b-d5400fd2b81b"
@@ -6345,16 +4088,6 @@
     "id": "R100000002-I027098166-00"
   - "domain": "isbn"
     "id": "9784048656696"
-  "publish":
-    "issued": "2016-02"
-    "page": 337
-    "publisher": "メディアワークス文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 670
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "e381ba40-229b-4b07-acb1-63be5d044911"
@@ -6373,16 +4106,6 @@
     "id": "R100000002-I027098157-00"
   - "domain": "isbn"
     "id": "9784048656719"
-  "publish":
-    "issued": "2016-02"
-    "page": 264
-    "publisher": "メディアワークス文庫"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 630
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "55b043cb-b948-48aa-9094-5c90a6886a81"
@@ -6401,16 +4124,6 @@
     "id": "R100000002-I027161356-00"
   - "domain": "isbn"
     "id": "9784048656672"
-  "publish":
-    "issued": "2016-03"
-    "page": 310
-    "publisher": "メディアワークス文庫"
-    "volume": 5
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 650
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "91b2bee4-16b2-447d-8dc8-693eb4aaafd3"
@@ -6429,16 +4142,6 @@
     "id": "R100000002-I027161357-00"
   - "domain": "isbn"
     "id": "9784048656689"
-  "publish":
-    "issued": "2016-03"
-    "page": 342
-    "publisher": "メディアワークス文庫"
-    "volume": 6
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 690
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "74ab2451-d0fb-43fd-b041-0e8378ba89ec"
@@ -6457,15 +4160,6 @@
     "id": "R100000002-I000008294865-00"
   - "domain": "isbn"
     "id": "4840235600"
-  "publish":
-    "issued": "2006-09"
-    "page": 357
-    "publisher": "電撃文庫"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-04-30"
-    "n": 610
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-04-30"
 
 - "id": "7e321079-72bc-4fd2-b0b6-654257173ec1"
@@ -6481,14 +4175,6 @@
     "id": "R100000002-I025877988-00"
   - "domain": "isbn"
     "id": "9784253100557"
-  "publish":
-    "issued": "2014-11"
-    "page": 135
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 830
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "979aac42-6396-4b6b-9a44-d82ffd244e60"
@@ -6504,14 +4190,6 @@
     "id": "R100000002-I025583835-00"
   - "domain": "isbn"
     "id": "9784592710714"
-  "publish":
-    "issued": "2014-08"
-    "page": 134
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 838
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "5894ec9a-aaa5-4bf7-bab7-add4e5175a12"
@@ -6527,15 +4205,6 @@
     "id": "R100000002-I024072268-00"
   - "domain": "isbn"
     "id": "9784592710479"
-  "publish":
-    "issued": "2012-12"
-    "page": 138
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 838
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "09210227-7728-4e64-b377-185d9990bd71"
@@ -6551,15 +4220,6 @@
     "id": "R100000002-I027775119-00"
   - "domain": "isbn"
     "id": "9784592711117"
-  "publish":
-    "issued": "2016-12"
-    "page": 136
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 838
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "cef4a0e4-665a-4f6a-8b0b-449121a6cff9"
@@ -6575,15 +4235,6 @@
     "id": "R100000002-I026818081-00"
   - "domain": "isbn"
     "id": "9784758074681"
-  "publish":
-    "issued": "2015-09"
-    "page": 146
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 852
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "1581d706-cec3-4138-887d-18b03be1120e"
@@ -6597,10 +4248,6 @@
   "identifier":
   - "domain": "isbn"
     "id": "9784758072434"
-  "publish":
-    "issued": "2013-05"
-    "publisher": "一迅社"
-  "price": []
   "last_update": "2017-05-13"
 
 - "id": "b9f76066-8676-4333-911a-a7a5e8299cce"
@@ -6614,10 +4261,6 @@
   "identifier":
   - "domain": "isbn"
     "id": "9784344832565"
-  "publish":
-    "issued": "2014-11-24"
-    "publisher": "バーズコミックス"
-    "volume": 1
   "last_update": "2017-05-13"
 
 - "id": "6173d274-cb1c-4791-8b57-52c65cc8124a"
@@ -6633,16 +4276,6 @@
     "id": "R100000002-I026609867-00"
   - "domain": "isbn"
     "id": "9784344834804"
-  "publish":
-    "issued": "2015-07-24"
-    "page": 175
-    "publisher": "バーズコミックス"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 630
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "a2403fc7-ae7d-4ccb-9325-f2d887ca18b4"
@@ -6658,16 +4291,6 @@
     "id": "R100000002-I027313315-00"
   - "domain": "isbn"
     "id": "9784344837119"
-  "publish":
-    "issued": "2016-05-24"
-    "page": 189
-    "publisher": "バーズコミックス"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 630
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "845b61d0-df29-4c72-967b-2e8c9f97482c"
@@ -6683,15 +4306,6 @@
     "id": "R100000002-I026152453-00"
   - "domain": "isbn"
     "id": "9784403671654"
-  "publish":
-    "issued": "2015-03"
-    "page": 158
-    "publisher": "hirari、comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 850
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "caac9920-2963-43f6-8b0d-e155a3882cec"
@@ -6707,15 +4321,6 @@
     "id": "R100000002-I026734245-00"
   - "domain": "isbn"
     "id": "9784758070249"
-  "publish":
-    "issued": "2008-01"
-    "page": 147
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "53d2b803-22c4-4f43-a9db-85e296a500f1"
@@ -6731,15 +4336,6 @@
     "id": "R100000002-I000011201859-00"
   - "domain": "isbn"
     "id": "9784403621123"
-  "publish":
-    "issued": "2011-06"
-    "page": 174
-    "publisher": "Spade comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 590
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "c70bb446-687b-42f8-a0fb-4d740a543db3"
@@ -6755,15 +4351,6 @@
     "id": "R100000002-I026734264-00"
   - "domain": "isbn"
     "id": "9784758072199"
-  "publish":
-    "issued": "2012-12"
-    "page": 144
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "efa5b742-5ecf-4eff-946f-8a1b88a378f8"
@@ -6779,11 +4366,6 @@
     "id": "R100000002-I026734277-00"
   - "domain": "isbn"
     "id": "9784758070348"
-  "publish":
-    "issued": "2008-10"
-    "publisher": "IDコミックス. Yuri-hime comics"
-    "volume": 1
-  "price": []
   "last_update": "2017-05-13"
 
 - "id": "1f8c16d5-47f4-4a74-b393-454e81267fbc"
@@ -6799,16 +4381,6 @@
     "id": "R100000002-I026734277-00"
   - "domain": "isbn"
     "id": "9784758070591"
-  "publish":
-    "issued": "2009-09"
-    "page": 121
-    "publisher": "IDコミックス. Yuri-hime comics"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "f335cf7f-a2e3-4297-802f-324055372dda"
@@ -6824,15 +4396,6 @@
     "id": "R100000002-I026734269-00"
   - "domain": "isbn"
     "id": "9784758070607"
-  "publish":
-    "issued": "2009-09"
-    "page": 140
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "34a28172-3c4f-4211-8609-b7600abae530"
@@ -6848,15 +4411,6 @@
     "id": "R100000002-I025601242-00"
   - "domain": "isbn"
     "id": "9784832268227"
-  "publish":
-    "issued": "2010-02"
-    "page": 219
-    "publisher": "Manga time comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 667
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "f7a0de0b-0b2b-4cb6-901b-f6f6a0b5d070"
@@ -6872,15 +4426,6 @@
     "id": "R100000002-I000011246008-00"
   - "domain": "isbn"
     "id": "9784592710349"
-  "publish":
-    "issued": "2011-08"
-    "page": 179
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 743
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "40f53ec3-c013-45b6-b039-c98b8af10319"
@@ -6896,15 +4441,6 @@
     "id": "R100000002-I024432838-00"
   - "domain": "isbn"
     "id": "9784592710554"
-  "publish":
-    "issued": "2013-06"
-    "page": 176
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 743
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "8203fc10-64e9-45ef-98d5-9c853b96f1ec"
@@ -6920,14 +4456,6 @@
     "id": "R100000002-I025964883-00"
   - "domain": "isbn"
     "id": "9784592710776"
-  "publish":
-    "issued": "2014-12"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 743
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "1c68372d-ac38-4bbc-9161-9fcc9ebe61a6"
@@ -6943,15 +4471,6 @@
     "id": "R100000002-I026733881-00"
   - "domain": "isbn"
     "id": "9784758073899"
-  "publish":
-    "issued": "2015-03"
-    "page": 146
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 852
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "dc49e780-7dfa-4e6f-958c-b1fdca2020a9"
@@ -6967,14 +4486,6 @@
     "id": "R100000002-I000010850919-00"
   - "domain": "isbn"
     "id": "9784592710233"
-  "publish":
-    "issued": "2010-04"
-    "page": 210
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 800
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "5ea6e451-71f6-4e0c-816d-13269b0a5056"
@@ -6990,14 +4501,6 @@
     "id": "R100000002-I023162413-00"
   - "domain": "isbn"
     "id": "9784592710356"
-  "publish":
-    "issued": "2011-12"
-    "page": 204
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 800
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "791e9913-d451-4c9c-9713-c69f72cb12fd"
@@ -7013,15 +4516,6 @@
     "id": "R100000002-I027965925-00"
   - "domain": "isbn"
     "id": "9784758070911"
-  "publish":
-    "issued": "2010-07"
-    "page": 163
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "806fd379-a485-4f66-9366-9716eb831871"
@@ -7037,15 +4531,6 @@
     "id": "R100000002-I026733886-00"
   - "domain": "isbn"
     "id": "9784758073059"
-  "publish":
-    "issued": "2014-06"
-    "page": 162
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 852
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "9b93f459-c9dd-4e2e-8623-1e8149a79041"
@@ -7061,15 +4546,6 @@
     "id": "R100000002-I027250454-00"
   - "domain": "isbn"
     "id": "9784758074971"
-  "publish":
-    "issued": "2015-11"
-    "page": 143
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 852
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "02493330-7bea-41a4-b7f5-0b6ca3b5b110"
@@ -7085,15 +4561,6 @@
     "id": "R100000002-I027966043-00"
   - "domain": "isbn"
     "id": "9784758071529"
-  "publish":
-    "issued": "2011-07"
-    "page": 151
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "bb7fbd8d-7be9-4b73-8e1a-492feec32693"
@@ -7109,14 +4576,6 @@
     "id": "R100000002-I028038121-00"
   - "domain": "isbn"
     "id": "9784592711155"
-  "publish":
-    "issued": "2017-04"
-    "page": 168
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 740
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "6270d126-c513-473a-b7ed-bb642e7beacf"
@@ -7132,15 +4591,6 @@
     "id": "R100000002-I027966052-00"
   - "domain": "isbn"
     "id": "9784758071987"
-  "publish":
-    "issued": "2012-07"
-    "page": 142
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "590e2a74-ca27-4c92-afc2-97c7378b93fb"
@@ -7156,14 +4606,6 @@
     "id": "R100000002-I026734215-00"
   - "domain": "isbn"
     "id": "9784758072786"
-  "publish":
-    "issued": "2013-11"
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "784510b1-2775-462a-8a39-f746973f3195"
@@ -7179,16 +4621,6 @@
     "id": "R100000002-I026411955-00"
   - "domain": "isbn"
     "id": "9784063807745"
-  "publish":
-    "issued": "2015-06"
-    "page": 161
-    "publisher": "KCx"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 581
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "05578e0e-1042-466d-99d4-aa4477ea5345"
@@ -7204,16 +4636,6 @@
     "id": "R100000002-I027002971-00"
   - "domain": "isbn"
     "id": "9784063808278"
-  "publish":
-    "issued": "2016-01"
-    "page": 160
-    "publisher": "KCx"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 581
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "be1aa4bd-49d9-4d24-a2b3-aa12fc9a1301"
@@ -7229,15 +4651,6 @@
     "id": "R100000002-I026734227-00"
   - "domain": "isbn"
     "id": "9784758073066"
-  "publish":
-    "issued": "2014-06"
-    "page": 148
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 926
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "24e34b94-2e15-4817-a6d9-5d0dcbf2b3a1"
@@ -7253,16 +4666,6 @@
     "id": "R100000002-I027193292-00"
   - "domain": "isbn"
     "id": "9784832246706"
-  "publish":
-    "issued": "2016-03"
-    "page": 118
-    "publisher": "Manga time KR comics. Kirara menu"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 819
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "995e9b34-bdec-48d5-bda4-dca643e4041c"
@@ -7278,16 +4681,6 @@
     "id": "R100000002-I027760180-00"
   - "domain": "isbn"
     "id": "9784832247734"
-  "publish":
-    "issued": "2016-12"
-    "page": 118
-    "publisher": "Manga time KR comics. Kirara menu"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 819
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "93aa1ba4-90d6-43b2-80de-4683c602c682"
@@ -7303,16 +4696,6 @@
     "id": "R100000002-I027984825-00"
   - "domain": "isbn"
     "id": "9784040690261"
-  "publish":
-    "issued": "2017-02"
-    "page": 128
-    "publisher": "MFCキューンシリーズ"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "ecf6ef29-1971-4ae1-b06b-aa6b8cce0992"
@@ -7328,15 +4711,6 @@
     "id": "R100000002-I000007610615-00"
   - "domain": "isbn"
     "id": "4063653080"
-  "publish":
-    "issued": "2005-01"
-    "page": 196
-    "publisher": "講談社コミックスデザート"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 390
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "155163af-ff0b-479b-ad43-dfd0dc206092"
@@ -7352,15 +4726,6 @@
     "id": "R100000002-I000003067332-00"
   - "domain": "isbn"
     "id": "4063411605"
-  "publish":
-    "issued": "2002-03"
-    "page": 187
-    "publisher": "講談社コミックスデザート"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 390
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "77dbcdf1-0875-478c-a44d-ff0ad3d0bace"
@@ -7376,15 +4741,6 @@
     "id": "R100000002-I000004153411-00"
   - "domain": "isbn"
     "id": "4063652254"
-  "publish":
-    "issued": "2003-06"
-    "page": 206
-    "publisher": "講談社コミックスデザート"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 390
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "20182dd3-8cf9-4903-9f49-e0a3a13b35b9"
@@ -7400,15 +4756,6 @@
     "id": "R100000002-I000010249120-00"
   - "domain": "isbn"
     "id": "9784063655568"
-  "publish":
-    "issued": "2009-06"
-    "page": 180
-    "publisher": "講談社コミックスデザート"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 438
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "b7f1fe48-7cc9-497d-b180-6df5320622ea"
@@ -7424,15 +4771,6 @@
     "id": "R100000002-I000004382157-00"
   - "domain": "isbn"
     "id": "4063652602"
-  "publish":
-    "issued": "2004-03"
-    "page": 202
-    "publisher": "講談社コミックスデザート"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 390
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "1e39b2f9-0451-4375-97f5-2c132e047d7e"
@@ -7448,15 +4786,6 @@
     "id": "R100000002-I000008045945-00"
   - "domain": "isbn"
     "id": "4063653684"
-  "publish":
-    "issued": "2006-01"
-    "page": 182
-    "publisher": "講談社コミックスデザート"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 390
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "d6e4f2b8-1f50-48e8-b940-11a8460a21ab"
@@ -7472,15 +4801,6 @@
     "id": "R100000002-I000009159593-00"
   - "domain": "isbn"
     "id": "9784063654790"
-  "publish":
-    "issued": "2007-11"
-    "page": 196
-    "publisher": "講談社コミックスデザート"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 419
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "df0ebc73-627d-4205-a6c0-70830ce4efe9"
@@ -7496,15 +4816,6 @@
     "id": "R100000002-I000003677469-00"
   - "domain": "isbn"
     "id": "4063411842"
-  "publish":
-    "issued": "2002-09"
-    "page": 188
-    "publisher": "講談社コミックスデザート"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-13"
-    "n": 390
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-13"
 
 - "id": "6e431cd6-0eb9-4b76-beea-54b7af923ebb"
@@ -7518,9 +4829,6 @@
   "identifier":
   - "domain": "iss.ndl.go.jp"
     "id": "R100000002-I027438211-00"
-  "publish":
-    "issued": "2014-03"
-    "page": 26
   "last_update": "2017-05-13"
 
 - "id": "8c06ef36-e5d2-4d43-a320-4d6ba6aa5d25"
@@ -7536,16 +4844,6 @@
     "id": "R100000002-I000011250794-00"
   - "domain": "isbn"
     "id": "9784778320058"
-  "publish":
-    "issued": "2006-01"
-    "page": 193
-    "publisher": "F×comics"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "de498692-7717-4cc6-97c0-e083831f458f"
@@ -7561,16 +4859,6 @@
     "id": "R100000002-I000008571504-00"
   - "domain": "isbn"
     "id": "9784778320324"
-  "publish":
-    "issued": "2006-12"
-    "page": 185
-    "publisher": "F×comics"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "3846578b-c1a5-4c84-b0c1-02528293f487"
@@ -7586,16 +4874,6 @@
     "id": "R100000002-I000009898771-00"
   - "domain": "isbn"
     "id": "9784778320539"
-  "publish":
-    "issued": "2008-04"
-    "page": 174
-    "publisher": "F×comics"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "24482f4d-10b5-4540-ba3b-9d67e2499289"
@@ -7611,16 +4889,6 @@
     "id": "R100000002-I000010690015-00"
   - "domain": "isbn"
     "id": "9784778320843"
-  "publish":
-    "issued": "2009-05"
-    "page": 174
-    "publisher": "F×comics"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "1b73dfe5-88d8-4de5-8248-0e1f6be936cb"
@@ -7636,16 +4904,6 @@
     "id": "R100000002-I000010961932-00"
   - "domain": "isbn"
     "id": "9784778321086"
-  "publish":
-    "issued": "2010-03"
-    "page": 172
-    "publisher": "F×comics"
-    "volume": 5
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "c43d65a7-931d-41ad-85b7-0ee13d4593c4"
@@ -7661,16 +4919,6 @@
     "id": "R100000002-I000011306175-00"
   - "domain": "isbn"
     "id": "9784778321413"
-  "publish":
-    "issued": "2011-05"
-    "page": 180
-    "publisher": "F×comics"
-    "volume": 6
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "079fde21-696f-4bc2-8865-bccaf8d343b6"
@@ -7686,15 +4934,6 @@
     "id": "R100000002-I023788293-00"
   - "domain": "isbn"
     "id": "9784778321703"
-  "publish":
-    "issued": "2012-08"
-    "publisher": "F×comics"
-    "volume": 7
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "bde4f569-413e-45e4-87d4-2ed832a56d22"
@@ -7710,16 +4949,6 @@
     "id": "R100000002-I024806591-00"
   - "domain": "isbn"
     "id": "9784778322090"
-  "publish":
-    "issued": "2013-09"
-    "page": 190
-    "publisher": "F×comics"
-    "volume": 8
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 952
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "a766e37e-81a8-4d33-9bb9-518e3268b43b"
@@ -7735,16 +4964,6 @@
     "id": "R100000002-I000004214481-00"
   - "domain": "isbn"
     "id": "4757715226"
-  "publish":
-    "issued": "2003-08"
-    "page": 186
-    "publisher": "Beam comix"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "daa1b8dc-c668-49d0-98ef-90fb33c12eec"
@@ -7760,16 +4979,6 @@
     "id": "R100000002-I000007370347-00"
   - "domain": "isbn"
     "id": "4757718055"
-  "publish":
-    "issued": "2004-06"
-    "page": 198
-    "publisher": "Beam comix"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "6a3b71cc-632c-45e4-a0ba-0d4abcd80e91"
@@ -7785,16 +4994,6 @@
     "id": "R100000002-I000007608783-00"
   - "domain": "isbn"
     "id": "4757720912"
-  "publish":
-    "issued": "2005-01"
-    "page": 198
-    "publisher": "Beam comix"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "b7fcf863-402c-4b73-88dd-bc1d9245b8ca"
@@ -7810,16 +5009,6 @@
     "id": "R100000002-I000007908186-00"
   - "domain": "isbn"
     "id": "4757724020"
-  "publish":
-    "issued": "2005-09"
-    "page": 198
-    "publisher": "Beam comix"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "d43ce6b7-3c1e-41b5-b49d-f35d344729d1"
@@ -7835,16 +5024,6 @@
     "id": "R100000002-I000008227879-00"
   - "domain": "isbn"
     "id": "4757728255"
-  "publish":
-    "issued": "2006-07"
-    "page": 202
-    "publisher": "Beam comix"
-    "volume": 5
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "0acc4717-848c-4b46-8dc6-e6b0d6d84b79"
@@ -7860,16 +5039,6 @@
     "id": "R100000002-I000008474048-00"
   - "domain": "isbn"
     "id": "9784757733527"
-  "publish":
-    "issued": "2007-03"
-    "page": 194
-    "publisher": "Beam comix"
-    "volume": 6
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "a662a5cd-bbce-4c14-be90-7f1d97bc74be"
@@ -7885,16 +5054,6 @@
     "id": "R100000002-I000009222204-00"
   - "domain": "isbn"
     "id": "9784757739284"
-  "publish":
-    "issued": "2008-01"
-    "page": 194
-    "publisher": "Beam comix"
-    "volume": 7
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "cf6447fd-2d17-49c9-9d06-f560d889d1e2"
@@ -7910,16 +5069,6 @@
     "id": "R100000002-I000009785340-00"
   - "domain": "isbn"
     "id": "9784757744998"
-  "publish":
-    "issued": "2008-11"
-    "page": 194
-    "publisher": "Beam comix"
-    "volume": 8
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "7aa510dc-bde2-4cb7-9f63-e520ec81d6b3"
@@ -7935,16 +5084,6 @@
     "id": "R100000002-I000010519045-00"
   - "domain": "isbn"
     "id": "9784757749955"
-  "publish":
-    "issued": "2009-08"
-    "page": 190
-    "publisher": "Beam comix"
-    "volume": 9
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "dba63feb-6175-46c8-af83-01ac21bb8796"
@@ -7960,16 +5099,6 @@
     "id": "R100000002-I000010826070-00"
   - "domain": "isbn"
     "id": "9784047264120"
-  "publish":
-    "issued": "2010-04"
-    "page": 212
-    "publisher": "Beam comix"
-    "volume": 10
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "eb1d4c9e-d6ab-4264-a9b5-caf7d4906c2b"
@@ -7985,16 +5114,6 @@
     "id": "R100000002-I000011088275-00"
   - "domain": "isbn"
     "id": "9784047269408"
-  "publish":
-    "issued": "2011-01"
-    "page": 198
-    "publisher": "Beam comix"
-    "volume": 11
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "3625f4f4-f54e-45c1-b3e7-5ebb6d23d457"
@@ -8010,16 +5129,6 @@
     "id": "R100000002-I000011287082-00"
   - "domain": "isbn"
     "id": "9784047275294"
-  "publish":
-    "issued": "2011-10"
-    "page": 191
-    "publisher": "Beam comix"
-    "volume": 12
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "02b499fc-43d8-46dd-a14c-829a4c5ad0d3"
@@ -8035,15 +5144,6 @@
     "id": "R100000002-I023626566-00"
   - "domain": "isbn"
     "id": "9784047280687"
-  "publish":
-    "issued": "2012-06"
-    "publisher": "BEAM COMIX"
-    "volume": 13
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "9cf9537b-1cda-42cf-bf0d-018024ae0dce"
@@ -8059,16 +5159,6 @@
     "id": "R100000002-I024259404-00"
   - "domain": "isbn"
     "id": "9784047286962"
-  "publish":
-    "issued": "2013-03"
-    "page": 194
-    "publisher": "BEAM COMIX"
-    "volume": 14
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "ce1c16b4-0695-471a-8b68-755b270daafb"
@@ -8084,16 +5174,6 @@
     "id": "R100000002-I024765561-00"
   - "domain": "isbn"
     "id": "9784047291010"
-  "publish":
-    "issued": "2013-09"
-    "page": 200
-    "publisher": "BEAM COMIX"
-    "volume": 15
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "958d6d3d-3c81-4142-8ff5-c9bdc005bcf2"
@@ -8109,16 +5189,6 @@
     "id": "R100000002-I000011112201-00"
   - "domain": "isbn"
     "id": "9784047270169"
-  "publish":
-    "issued": "2011-02"
-    "page": 200
-    "publisher": "Beam comix"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 800
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "23103cdc-aed2-425c-881c-95554e520907"
@@ -8134,16 +5204,6 @@
     "id": "R100000002-I000011133016-00"
   - "domain": "isbn"
     "id": "9784047270749"
-  "publish":
-    "issued": "2011-03"
-    "page": 200
-    "publisher": "Beam comix"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 800
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "323f0fc6-ec7c-49c9-b458-46f0c64ee509"
@@ -8159,16 +5219,6 @@
     "id": "R100000002-I000011185512-00"
   - "domain": "isbn"
     "id": "9784047271562"
-  "publish":
-    "issued": "2011-05"
-    "page": 210
-    "publisher": "Beam comix"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 800
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "d1234cf9-ca66-40b4-ae51-df67d3593c22"
@@ -8184,15 +5234,6 @@
     "id": "R100000002-I000011132996-00"
   - "domain": "isbn"
     "id": "9784778321215"
-  "publish":
-    "issued": "2010-09"
-    "page": 212
-    "publisher": "F×comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 780
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "b8004e46-ad1f-49c8-9c8f-311d5e2fc382"
@@ -8208,15 +5249,6 @@
     "id": "R100000002-I026248545-00"
   - "domain": "isbn"
     "id": "9784047303157"
-  "publish":
-    "issued": "2015-04"
-    "page": 194
-    "publisher": "BEAM COMIX"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 680
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "9fca95f9-02f1-4895-b608-703023fc14b7"
@@ -8232,15 +5264,6 @@
     "id": "R100000002-I026290811-00"
   - "domain": "isbn"
     "id": "9784778322489"
-  "publish":
-    "issued": "2015-04"
-    "page": 155
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-14"
-    "n": 680
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-14"
 
 - "id": "036c9a5b-9b77-4cf7-9ba5-20dd70edfb38"
@@ -8256,15 +5279,6 @@
     "id": "R100000002-I026731164-00"
   - "domain": "isbn"
     "id": "9784758073301"
-  "publish":
-    "issued": "2014-08"
-    "page": 122
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-15"
-    "n": 852
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-15"
 
 - "id": "665ab82b-a0ec-45d5-af69-dc966b4e72dc"
@@ -8280,16 +5294,6 @@
     "id": "R100000002-I026731217-00"
   - "domain": "isbn"
     "id": "9784758072861"
-  "publish":
-    "issued": "2014-02"
-    "page": 147
-    "publisher": "IDコミックス. Yuri-hime comics"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-15"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-15"
 
 - "id": "1649db87-905f-4802-9369-7b50fe7f9b23"
@@ -8305,16 +5309,6 @@
     "id": "R100000002-I026731223-00"
   - "domain": "isbn"
     "id": "9784758073349"
-  "publish":
-    "issued": "2014-09"
-    "page": 138
-    "publisher": "IDコミックス. Yuri-hime comics"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-15"
-    "n": 852
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-15"
 
 - "id": "f5f4c7a2-c507-4eba-a59a-eebc067fc211"
@@ -8330,16 +5324,6 @@
     "id": "R100000002-I027483534-00"
   - "domain": "isbn"
     "id": "9784040686042"
-  "publish":
-    "issued": "2016-07"
-    "page": 123
-    "publisher": "MFCキューンシリーズ"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-15"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-15"
 
 - "id": "6d7eb4d5-0f3d-4e4c-b8d6-7f5e30bd8afa"
@@ -8355,15 +5339,6 @@
     "id": "R100000002-I026731182-00"
   - "domain": "isbn"
     "id": "9784758072557"
-  "publish":
-    "issued": "2013-07"
-    "page": 149
-    "publisher": "IDコミックス. Yuri-hime comics"
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-15"
-    "n": 857
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-15"
 
 - "id": "c856858b-f5e0-4448-a5ef-1adbc3650a5d"
@@ -8379,16 +5354,6 @@
     "id": "R100000002-I026824136-00"
   - "domain": "isbn"
     "id": "9784758074810"
-  "publish":
-    "issued": "2015-10"
-    "page": 163
-    "publisher": "IDコミックス. Yurihime comics"
-    "volume": 1
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-15"
-    "n": 680
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-15"
 
 - id: 195faafd-d6c2-4344-9a5f-4fe2f84debc2
@@ -8404,16 +5369,8 @@
     id: R100000002-I000008536545-00
   - domain: isbn
     id: '9784309408477'
-  publish:
-    issued: 2007-05
-    page: 227
-    publisher: 河出書房新社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 620
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: ef778d76-693c-4b76-b856-604dc11d0b6b
   title:
     name: なりゆき!しゅがあ・くらふと
@@ -8430,16 +5387,8 @@
     id: R100000002-I000009633267-00
   - domain: isbn
     id: '9784059035237'
-  publish:
-    issued: 2008-10
-    page: 284
-    publisher: 学習研究社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 620
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: bd026245-2fb5-4db2-bdf4-6aa110b315f1
   title:
     name: にこは神様に〇〇される?
@@ -8456,16 +5405,8 @@
     id: R100000002-I000009135590-00
   - domain: isbn
     id: '9784094510331'
-  publish:
-    issued: 2007-10
-    page: 214
-    publisher: 小学館
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 571
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: c6705a31-1347-4423-82a7-6a4167316a55
   title:
     name: 猫背の王子
@@ -8479,16 +5420,8 @@
     id: R100000002-I000002940641-00
   - domain: isbn
     id: 408747268X
-  publish:
-    issued: 2000-11
-    page: 222
-    publisher: 集英社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 419
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 2aac9b58-ad7a-43d6-bc43-0e013e81027c
   title:
     name: ノートより安い恋 = The love that is cheaper than a notebook
@@ -8505,16 +5438,8 @@
     id: R100000002-I023461400-00
   - domain: isbn
     id: '9784758071826'
-  publish:
-    issued: 2012-04
-    page: 222
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 1500
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 28977761-1022-4e0e-8d01-ed08a210e1ae
   title:
     name: '白衣性恋愛症候群 : 小説短編集Summary'
@@ -8534,16 +5459,8 @@
     id: R100000002-I023728833-00
   - domain: isbn
     id: '9784894905603'
-  publish:
-    issued: 2012-06
-    page: 234
-    publisher: パラダイム
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 695
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 41fea604-fe6e-435f-87d3-281d7b60da45
   title:
     name: 花伽藍
@@ -8557,16 +5474,8 @@
     id: R100000002-I000010881570-00
   - domain: isbn
     id: '9784043661039'
-  publish:
-    issued: 2010-05
-    page: 248
-    publisher: 角川書店
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 552
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 426d194d-ee8e-4783-8359-281ce8b82cf0
   title:
     name: 花のもとにて
@@ -8580,16 +5489,8 @@
     id: R100000002-I000002860819-00
   - domain: isbn
     id: '4041852137'
-  publish:
-    issued: 2000-01
-    page: 243
-    publisher: 角川書店
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 514
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 47f9ba8c-2ad5-4ec5-ba18-954cdf6b27cc
   title:
     name: 花物語 上
@@ -8603,17 +5504,8 @@
     id: R100000002-I000010686638-00
   - domain: isbn
     id: '9784309409603'
-  publish:
-    issued: 2009-05
-    page: 380
-    publisher: 河出書房新社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 950
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - "id": "f8176444-621f-4d7b-9d2d-b73d9ebec6b3"
   "title":
     "name": "花物語 下"
@@ -8627,17 +5519,8 @@
     "id": 'R100000002-I000010686643-00'
   - "domain": "isbn"
     "id": "9784309409610"
-  "publish":
-    "issued": "2009-05"
-    "page": 381
-    "publisher": "河出文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 950
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - id: 2a1d8c53-292f-4908-a4c2-993cf14940c6
   title:
     name: ハーモニー
@@ -8651,16 +5534,8 @@
     id: R100000002-I025608386-00
   - domain: isbn
     id: '9784150311667'
-  publish:
-    issued: 2014-08
-    page: 398
-    publisher: 早川書房
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 720
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 75071cae-26ed-453a-97d2-765901e72f7b
   title:
     name: 春待ちの姫君たち
@@ -8674,16 +5549,8 @@
     id: R100000002-I025178311-00
   - domain: isbn
     id: '9784488435110'
-  publish:
-    issued: 2014-02
-    page: 247
-    publisher: 東京創元社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 620
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 90e1945f-435a-4c49-8499-a0f1a6df77f5
   title:
     name: 緋色の囁き
@@ -8697,16 +5564,8 @@
     id: R100000002-I000002638922-00
   - domain: isbn
     id: '4061859994'
-  publish:
-    issued: 1997-11
-    page: 471
-    publisher: 講談社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 676
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 30390bfa-1fcf-4166-a83e-af40a5dcb864
   title:
     name: ヒカルセカイ
@@ -8723,16 +5582,8 @@
     id: R100000002-I024653356-00
   - domain: isbn
     id: '9784758072694'
-  publish:
-    issued: 2013-08
-    page: 255
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 1500
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 43279038-c2b7-414d-92e6-a40592a3029e
   title:
     name: パーフェクトフレンド
@@ -8749,16 +5600,8 @@
     id: R100000002-I000011257603-00
   - domain: isbn
     id: '9784048708685'
-  publish:
-    issued: 2011-08
-    page: 269
-    publisher: アスキー・メディアワークス
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 550
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 868da342-bf34-4867-907c-688acd18a5ba
   title:
     name: '春は出会いの季節です : アルテミス・スコードロン'
@@ -8775,16 +5618,8 @@
     id: R100000002-I000007942711-00
   - domain: isbn
     id: '4757724322'
-  publish:
-    issued: 2005-10
-    page: 313
-    publisher: エンターブレイン
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 600
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 2d39d0c3-75d2-4574-8249-7c705e27d8fe
   title:
     name: 半身
@@ -8801,16 +5636,8 @@
     id: R100000002-I000004134329-00
   - domain: isbn
     id: '4488254020'
-  publish:
-    issued: 2003-05
-    page: 494
-    publisher: 東京創元社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 1060
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 29e22933-09af-4532-87a2-d028c6612e5a
   title:
     name: 瞳をあけて
@@ -8827,16 +5654,8 @@
     id: R100000002-I000002398728-00
   - domain: isbn
     id: '4756700926'
-  publish:
-    issued: 1994-08
-    page: 231
-    publisher: 桜桃書房
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 880
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: f4183f69-8de7-4021-91fb-681f44d0668b
   title:
     name: 微熱狼少女
@@ -8850,16 +5669,8 @@
     id: R100000002-I000002398660-00
   - domain: isbn
     id: '4087482820'
-  publish:
-    issued: 1995-02
-    page: 212
-    publisher: 集英社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 400
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 622dfddc-eb5b-4f51-a899-0f7284e444ef
   title:
     name: PiPit!!〜ぴぴっと!!〜
@@ -8876,16 +5687,8 @@
     id: R100000002-I000008586629-00
   - domain: isbn
     id: '9784840118699'
-  publish:
-    issued: 2007-06
-    page: 269
-    publisher: メディアファクトリー
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 580
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - "id": "533892ca-e388-4f00-b0f3-13bf170cdb44"
   "title":
     "name": "PiPit!!〜ぴぴっと!!〜 2"
@@ -8902,16 +5705,6 @@
     "id": R100000002-I000009169727-00
   - "domain": "isbn"
     "id": "9784840120883"
-  "publish":
-    "issued": "2007-11"
-    "page": 269
-    "publisher": "MF文庫J"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 580
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
 
 - id: 7b6e1322-348f-4398-8166-d002bf70caf4
@@ -8930,16 +5723,8 @@
     id: R100000002-I000008344641-00
   - domain: isbn
     id: '4086303248'
-  publish:
-    issued: 2006-10
-    page: 256
-    publisher: 集英社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 552
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 100bbdca-fd74-4485-b775-cba5280759aa
   title:
     name: .(period)
@@ -8956,16 +5741,8 @@
     id: R100000002-I000010014417-00
   - domain: isbn
     id: '9784758040198'
-  publish:
-    issued: 2008-08
-    page: 302
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 619
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 7927436f-95cd-4af3-8f7f-5b1248442680
   title:
     name: フィオナ旅行記
@@ -8979,16 +5756,8 @@
     id: R100000002-I000011025478-00
   - domain: isbn
     id: '9784062837637'
-  publish:
-    issued: 2010-11
-    page: 388
-    publisher: 講談社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 1500
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - "id": "1eaf6916-c648-43ae-9b75-9f91b5b922a0"
   "title":
     "name": "フィオナ旅行記 2"
@@ -9002,16 +5771,6 @@
     "id": "R100000002-I000011053168-00"
   - "domain": "isbn"
     "id": "9784062837644"
-  "publish":
-    "issued": "2010-12"
-    "page": 344
-    "publisher": "講談社box"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 1500
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
 
 - id: 3c7f1c5a-d0d2-4b69-a5cf-5e9561a49cf4
@@ -9030,20 +5789,12 @@
     id: R100000002-I000002456010-00
   - domain: isbn
     id: '4044355010'
-  publish:
-    issued: 1995-11
-    page: 241
-    publisher: 角川書店
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 480
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 3151b5b5-d1d7-47c7-8a3f-426ce393e90e
   title:
-    name: フィリシエラと、わたしと、終わりゆく世界に 1 ゆき、ふりつむ
-    kana: ふぃりしえらと、わたしと、おわりゆくせかいに 1 ゆき、ふりつむ
+    name: フィリシエラと、わたしと、終わりゆく世界に ゆき、ふりつむ
+    kana: ふぃりしえらと、わたしと、おわりゆくせかいに ゆき、ふりつむ
   creator:
   - id: 125e93e8-7699-4693-98d3-2198429ea01c
     name: 今田隆文
@@ -9056,17 +5807,8 @@
     id: R100000002-I000007362130-00
   - domain: isbn
     id: '4829116153'
-  publish:
-    issued: 2004-05
-    page: 251
-    publisher: 富士見書房
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 560
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 334762af-ae65-470c-adfa-7e197ee1d70e
   title:
     name: 深爪
@@ -9080,16 +5822,8 @@
     id: R100000002-I000004134960-00
   - domain: isbn
     id: '4101205329'
-  publish:
-    issued: 2003-06
-    page: 222
-    publisher: 新潮社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 400
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: aa6f5136-df35-45a7-9ff9-a0f161fb3e05
   title:
     name: 'ふたり : Days of broken blood'
@@ -9106,16 +5840,8 @@
     id: R100000002-I000003633616-00
   - domain: isbn
     id: '4757708378'
-  publish:
-    issued: 2002-05
-    page: 221
-    publisher: エンターブレイン
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 640
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 298b7c0e-766b-4885-befd-4569ab3dd3df
   title:
     name: 二人のひとりあそび
@@ -9129,16 +5855,8 @@
     id: R100000002-I000010631401-00
   - domain: isbn
     id: '9784198930899'
-  publish:
-    issued: 2009-12
-    page: 299
-    publisher: 徳間書店
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 571
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 43bc4f40-d7be-40dc-be11-693e5972c088
   title:
     name: 不動カリンは一切動ぜず
@@ -9152,16 +5870,8 @@
     id: R100000002-I000010997584-00
   - domain: isbn
     id: '9784150310103'
-  publish:
-    issued: 2010-09
-    page: 362
-    publisher: 早川書房
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 760
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 00a1afb6-9067-4c63-963e-c5c6d4e0655f
   title:
     name: 文月に不実の花咲く
@@ -9175,16 +5885,8 @@
     id: R100000002-I000002653319-00
   - domain: isbn
     id: '4087743063'
-  publish:
-    issued: 1997-12
-    page: 187
-    publisher: 集英社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 1300
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: d68ed339-289d-4103-a011-35bbd186e95b
   title:
     name: フラクタルの女神
@@ -9201,16 +5903,8 @@
     id: R100000002-I000007800818-00
   - domain: isbn
     id: '4488720013'
-  publish:
-    issued: 2005-06
-    page: 360
-    publisher: 東京創元社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 920
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 06e1ee00-d074-4e11-a593-5b09d23635b5
   title:
     name: 'Black sheep : 黒き羊は聖夜に迷う'
@@ -9227,16 +5921,8 @@
     id: R100000002-I000009887780-00
   - domain: isbn
     id: '9784894257962'
-  publish:
-    issued: 2008-12
-    page: 253
-    publisher: ホビージャパン
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 619
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 5caac61d-ab06-4b5e-8d38-b7b359096c4d
   title:
     name: プリンセス・ベルクチカ proyekt-0
@@ -9253,17 +5939,8 @@
     id: R100000002-I000007992680-00
   - domain: isbn
     id: 475772487X
-  publish:
-    issued: 2005-11
-    page: 275
-    publisher: エンターブレイン
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 580
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 918de0f8-83c9-47e5-9d9b-1b148a5128d3
   title:
     name: プロジェクトA子
@@ -9277,16 +5954,8 @@
     id: R100000002-I000001804476-00
   - domain: isbn
     id: '4041657016'
-  publish:
-    issued: 1986-06
-    page: 227
-    publisher: 角川書店
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 340
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 7d6276ac-0de8-4356-9089-66e4ee5ead04
   title:
     name: 包帯をまいたイブ
@@ -9300,16 +5969,8 @@
     id: R100000002-I000002857754-00
   - domain: isbn
     id: '4087471527'
-  publish:
-    issued: 2000-01
-    page: 198
-    publisher: 集英社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 381
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 5a2c8196-27b9-4953-8128-499385bd8367
   title:
     name: ほかに誰がいる
@@ -9323,16 +5984,8 @@
     id: R100000002-I000009428461-00
   - domain: isbn
     id: '9784344410770'
-  publish:
-    issued: 2008-02
-    page: 270
-    publisher: 幻冬舎
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 571
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: d9c5590e-a9a9-4997-b02c-4085e6ca8df6
   title:
     name: ホーンテッド!
@@ -9349,16 +6002,8 @@
     id: R100000002-I000007495177-00
   - domain: isbn
     id: '4840111480'
-  publish:
-    issued: 2004-09
-    page: 263
-    publisher: メディアファクトリー
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 580
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 3d267031-b2d7-4378-a602-e4cbfc3d1aeb
   title:
     name: '滅びのマヤウェル : その仮面をはずして'
@@ -9375,16 +6020,8 @@
     id: R100000002-I000007927498-00
   - domain: isbn
     id: '4086302586'
-  publish:
-    issued: 2005-09
-    page: 271
-    publisher: 集英社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 552
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: da25c60c-95fb-4309-91f7-4dd9f8d08a44
   title:
     name: マジカル・デスゲーム 1 少女は魔法で嘘をつく
@@ -9401,17 +6038,8 @@
     id: R100000002-I025323210-00
   - domain: isbn
     id: '9784040700601'
-  publish:
-    issued: 2014-03
-    page: 307
-    publisher: KADOKAWA
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 580
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - "id": "32a7a0ce-1fc2-45af-97c9-7683cabf6a28"
   "title":
     "name": "マジカル・デスゲーム 2 反証のアーギュメント"
@@ -9428,16 +6056,6 @@
     "id": "R100000002-I025430085-00"
   - "domain": "isbn"
     "id": "9784040701127"
-  "publish":
-    "issued": "2014-05"
-    "page": 282
-    "publisher": "富士見ファンタジア文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 660
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
 
 - id: 47e54863-9e26-4302-95e1-2dd72ec2536f
@@ -9453,16 +6071,8 @@
     id: R100000002-I000002734423-00
   - domain: isbn
     id: '4062639394'
-  publish:
-    issued: 1998-11
-    page: 391
-    publisher: 講談社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 619
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: ed9456b6-cca3-478b-a29d-25e4d68eccdd
   title:
     name: 魔女は月出づるところに眠る = Maga in terra lunae orientis dormiat　上
@@ -9479,17 +6089,8 @@
     id: R100000002-I025031328-00
   - domain: isbn
     id: '9784048661942'
-  publish:
-    issued: 2013-12
-    page: 299
-    publisher: KADOKAWA
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 590
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - "id": "10ef4b66-ece3-47de-8582-67f8f246f9d6"
   "title":
     "name": "魔女は月出づるところに眠る = Maga in terra lunae orientis dormiat　下"
@@ -9506,16 +6107,6 @@
     "id": "R100000002-I025363560-00"
   - "domain": "isbn"
     "id": "9784048664745"
-  "publish":
-    "issued": "2014-04"
-    "page": 360
-    "publisher": "電撃文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 750
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
 
 - id: 79de0d7c-54a6-4976-b38d-d099c46c3949
@@ -9531,16 +6122,8 @@
     id: R100000002-I000008174411-00
   - domain: isbn
     id: '4167586045'
-  publish:
-    issued: 2006-05
-    page: 278
-    publisher: 文藝春秋
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 476
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: cf709924-d4fd-4278-bb82-a0a285b0a0f2
   title:
     name: '魔法少女オーバーエイジ : 私たち、もう変身したくありません'
@@ -9557,17 +6140,8 @@
     id: R100000002-I026034299-00
   - domain: isbn
     id: '9784865291179'
-  publish:
-    issued: 2015-02
-    page: 333
-    publisher: ポニーキャニオン
-    "volume": 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 620
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - "id": "3681688e-6b67-4c3f-b436-eb0e8ae8dd26"
   "title":
     "name": "魔法少女オーバーエイジ : 二番煎じなんてレベルじゃないっ"
@@ -9584,16 +6158,6 @@
     "id": "R100000002-I027244153-00"
   - "domain": "isbn"
     "id": "9784865292053"
-  "publish":
-    "issued": "2016-05"
-    "page": 251
-    "publisher": "ぽにきゃんBOOKS"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 650
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
 
 - id: eda9c3c8-7434-481f-a788-37eb6aecf901
@@ -9612,17 +6176,8 @@
     id: R100000002-I023656890-00
   - domain: isbn
     id: '9784796680394'
-  publish:
-    issued: 2012-06
-    page: 284
-    publisher: 宝島社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 657
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - "id": "fa0b6bc0-8dac-481b-bbea-2a8db716a3c1"
   "title":
     "name": "魔法少女育成計画 restart 前"
@@ -9639,17 +6194,8 @@
     "id": "R100000002-I024031755-00"
   - "domain": "isbn"
     "id": "9784800201829"
-  "publish":
-    "issued": "2012-11"
-    "page": 269
-    "publisher": "このライトノベルがすごい!文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 657
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "034f523d-f9ee-4991-baa9-b4c851a379e6"
   "title":
     "name": "魔法少女育成計画 restart 後"
@@ -9666,17 +6212,8 @@
     "id": "R100000002-I024103714-00"
   - "domain": "isbn"
     "id": "9784800205254"
-  "publish":
-    "issued": "2012-12"
-    "page": 268
-    "publisher": "このライトノベルがすごい!文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 657
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "2222a4a0-49c1-49a0-9605-34a9d98b5ab6"
   "title":
     "name": "魔法少女育成計画 episodes"
@@ -9693,17 +6230,8 @@
     "id": "R100000002-I024360270-00"
   - "domain": "isbn"
     "id": "9784800209344"
-  "publish":
-    "issued": "2013-04"
-    "page": 284
-    "publisher": "このライトノベルがすごい!文庫"
-    volume: 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 630
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "09aec4db-5857-452d-b745-4509d5ebc889"
   "title":
     "name": "魔法少女育成計画 limited 前"
@@ -9720,17 +6248,8 @@
     "id": "R100000002-I024956343-00"
   - "domain": "isbn"
     "id": "9784800218490"
-  "publish":
-    "issued": "2013-11"
-    "page": 269
-    "publisher": "このライトノベルがすごい!文庫"
-    "volume": 5
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 657
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "d95a1bd5-7669-4a28-bb9b-91dd4599b154"
   "title":
     "name": "魔法少女育成計画 limited 後"
@@ -9747,17 +6266,8 @@
     "id": "R100000002-I025035724-00"
   - "domain": "isbn"
     "id": "9784800218520"
-  "publish":
-    "issued": "2013-12"
-    "page": 268
-    "publisher": "このライトノベルがすごい!文庫"
-    "volume": 6
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 657
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "3c227c0d-a818-4370-95bf-d994e52a9eaf"
   "title":
     "name": "魔法少女育成計画 JOKERS"
@@ -9774,17 +6284,8 @@
     "id": "R100000002-I025608281-00"
   - "domain": "isbn"
     "id": "9784800230706"
-  "publish":
-    "issued": "2014-08"
-    "page": 468
-    "publisher": "このライトノベルがすごい!文庫"
-    volume: 7
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 740
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "bdd308f1-0d53-4a6f-8173-c93725e0138b"
   "title":
     "name": "魔法少女育成計画 ACES"
@@ -9801,17 +6302,8 @@
     "id": "R100000002-I026703348-00"
   - "domain": "isbn"
     "id": "9784800245861"
-  "publish":
-    "issued": "2015-09"
-    "page": 310
-    "publisher": "このライトノベルがすごい!文庫"
-    volume: 8
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 680
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "59383bf8-df9e-4ba6-a9d5-63d7b18786c9"
   "title":
     "name": "魔法少女育成計画 episodesΦ"
@@ -9828,17 +6320,8 @@
     "id": "R100000002-I027212693-00"
   - "domain": "isbn"
     "id": "9784800254436"
-  "publish":
-    "issued": "2016-04"
-    "page": 284
-    "publisher": "このライトノベルがすごい!文庫"
-    volume: 9
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "8e0fa4c4-cc6a-417c-a965-11eb07b427c0"
   "title":
     "name": "魔法少女育成計画 16人の日常"
@@ -9855,17 +6338,8 @@
     "id": "R100000002-I027630590-00"
   - "domain": "isbn"
     "id": "9784800263698"
-  "publish":
-    "issued": "2016-10"
-    "page": 286
-    "publisher": "このライトノベルがすごい!文庫"
-    volume: 10
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "40d5d24f-b755-4380-a43c-9be36f6797a6"
   "title":
     "name": "魔法少女育成計画 QUEENS"
@@ -9882,16 +6356,6 @@
     "id": "R100000002-I027756862-00"
   - "domain": "isbn"
     "id": "9784800262172"
-  "publish":
-    "issued": "2016-12"
-    "page": 316
-    "publisher": "このライトノベルがすごい!文庫"
-    volume: 11
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 640
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
 
 - id: caaf9a42-4a87-403c-9760-ede188c80b8e
@@ -9907,16 +6371,8 @@
     id: R100000002-I000007728211-00
   - domain: isbn
     id: '4062750910'
-  publish:
-    issued: 2005-05
-    page: 394
-    publisher: 講談社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 619
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: a84978a7-defb-4a16-9d9b-ab8441a79ec4
   title:
     name: マンゴスチンの恋人
@@ -9930,16 +6386,8 @@
     id: R100000002-I025696500-00
   - domain: isbn
     id: '9784094060805'
-  publish:
-    issued: 2014-09
-    page: 301
-    publisher: 小学館
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 610
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 10e30ba9-5b23-4e3c-a461-39a6fdaa6af0
   title:
     name: 卍
@@ -9953,16 +6401,8 @@
     id: R100000002-I023069978-00
   - domain: isbn
     id: '9784101005089'
-  publish:
-    issued: 2010-05
-    page: 261
-    publisher: 新潮社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 438
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 1f2824d0-cd58-4728-a4fb-a253e1e454af
   title:
     name: みすてぃっく・あい
@@ -9979,16 +6419,8 @@
     id: R100000002-I000009103392-00
   - domain: isbn
     id: '9784094510270'
-  publish:
-    issued: 2007-09
-    page: 233
-    publisher: 小学館
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 571
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: ba65c121-a20a-47d2-8616-93806405c077
   title:
     name: 'めいたん : メイドvs名探偵'
@@ -10005,16 +6437,8 @@
     id: R100000002-I000008961414-00
   - domain: isbn
     id: '9784094510232'
-  publish:
-    issued: 2007-08
-    page: 260
-    publisher: 小学館
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 571
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 1b2cbef5-a6bd-4719-a918-0e74019d68cc
   title:
     name: 毛布おばけと金曜日の階段
@@ -10031,16 +6455,8 @@
     id: R100000002-I000003989759-00
   - domain: isbn
     id: '4840222517'
-  publish:
-    issued: 2002-12
-    page: 287
-    publisher: メディアワークス
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 550
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: ed242f56-50c6-489c-8f60-bce9da84ee9b
   title:
     name: 屋根裏の二処女
@@ -10057,16 +6473,8 @@
     id: R100000002-I000004110988-00
   - domain: isbn
     id: 433604483X
-  publish:
-    issued: 2003-03
-    page: 347
-    publisher: 国書刊行会
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 1900
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 4a60ae9a-0469-41ee-bdd7-07e09f7791ee
   title:
     name: ヤングガン・カルナバル
@@ -10080,17 +6488,8 @@
     id: R100000002-I000011164447-00
   - domain: isbn
     id: '9784198933500'
-  publish:
-    issued: 2011-04
-    page: 283
-    publisher: 徳間書店
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 619
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: f7283fa5-3545-434c-85b8-4523ff38a8e5
   title:
     name: '百合グラドル優衣 : 禁断ガールズラブ'
@@ -10107,16 +6506,8 @@
     id: R100000002-I024967627-00
   - domain: isbn
     id: '9784799205013'
-  publish:
-    issued: 2013-11
-    page: 255
-    publisher: キルタイムコミュニケーション
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 630
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: bfc82be8-f319-4973-be63-4548f29596f8
   title:
     name: 百合咲き学園お姉さま、いただきますっ!
@@ -10133,16 +6524,8 @@
     id: R100000002-I000009354612-00
   - domain: isbn
     id: '9784878923456'
-  publish:
-    issued: 2008-01
-    page: 236
-    publisher: 青心社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 600
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 80808753-fa96-4167-889b-21a0596ae373
   title:
     name: ゆるゆりノベルアンソロジー
@@ -10174,16 +6557,8 @@
     id: R100000002-I000011278741-00
   - domain: isbn
     id: '9784758042574'
-  publish:
-    issued: 2011-10
-    page: 125
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 848
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 93c3515c-4e66-4be5-b34c-d77c752f57c5
   title:
     name: 夜姫と亡国の六姫士
@@ -10200,17 +6575,8 @@
     id: R100000002-I024690656-00
   - domain: isbn
     id: '9784047290129'
-  publish:
-    issued: 2013-08
-    page: 314
-    publisher: エンターブレイン
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 600
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - "id": "99f4141e-0f51-4b51-b819-29c932392a0c"
   "title":
     "name": "夜姫と亡国の六姫士 2"
@@ -10227,17 +6593,8 @@
     "id": "R100000002-I024935195-00"
   - "domain": "isbn"
     "id": "9784047292154"
-  "publish":
-    "issued": "2013-11"
-    "page": 315
-    "publisher": "ファミ通文庫"
-    "volume": 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "26e6f0dc-18fc-42cf-8661-55b0c8eb7d19"
   "title":
     "name": "夜姫と亡国の六姫士 3"
@@ -10254,17 +6611,8 @@
     "id": "R100000002-I025344454-00"
   - "domain": "isbn"
     "id": "9784047295247"
-  "publish":
-    "issued": "2014-04"
-    "page": 278
-    "publisher": "ファミ通文庫"
-    "volume": 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 600
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "f4a6f9f2-105a-4c39-9123-857c904265c3"
   "title":
     "name": "夜姫と亡国の六姫士 4"
@@ -10281,16 +6629,6 @@
     "id": "R100000002-I025513361-00"
   - "domain": "isbn"
     "id": "9784047297296"
-  "publish":
-    "issued": "2014-07"
-    "page": 275
-    "publisher": "ファミ通文庫"
-    "volume": 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 620
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
 
 - id: 5efebbfa-d7b6-45a8-91a7-a419eb2c8a09
@@ -10309,16 +6647,8 @@
     id: R100000002-I000010950321-00
   - domain: isbn
     id: '9784758041300'
-  publish:
-    issued: 2010-03
-    page: 253
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 590
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: f45e5005-cafd-43a6-b383-9fe438b1ada0
   title:
     name: '緑衣の牙 : 長編推理小説'
@@ -10332,16 +6662,8 @@
     id: R100000002-I000002673320-00
   - domain: isbn
     id: '4334725627'
-  publish:
-    issued: 1998-03
-    page: 312
-    publisher: 光文社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 533
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 6579e2c8-a6f4-4387-92f8-6b9f3c0435df
   title:
     name: リリイの籠
@@ -10355,16 +6677,8 @@
     id: R100000002-I000009200742-00
   - domain: isbn
     id: '9784334925864'
-  publish:
-    issued: 2007-12
-    page: 216
-    publisher: 光文社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 1300
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 711332b7-3fba-4468-8de4-ef4c377b27f2
   title:
     name: リンスの冒険大変記
@@ -10381,16 +6695,8 @@
     id: R100000002-I000008502194-00
   - domain: isbn
     id: 487892330X
-  publish:
-    issued: 2006-11
-    page: 238
-    publisher: 青心社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 600
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 701303fa-7c1b-403f-8d6c-aff42d41843f
   title:
     name: ルビーフルーツ
@@ -10404,16 +6710,8 @@
     id: R100000002-I000002522105-00
   - domain: isbn
     id: '4101495114'
-  publish:
-    issued: 1996-11
-    page: 199
-    publisher: 新潮社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 360
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: f50c32fc-b6c7-45cf-8521-99812fb06d64
   title:
     name: レズビアン・ライフ
@@ -10427,16 +6725,8 @@
     id: R100000002-I024390772-00
   - domain: isbn
     id: '4876972540'
-  publish:
-    issued: 1999-06
-    page: 156
-    publisher: 海越出版社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 1200
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - id: 60c97a72-47f3-4999-bcbf-63f301e4ce36
   title:
     name: ロケットガール 女子高生、リフトオフ!
@@ -10456,17 +6746,8 @@
     id: R100000002-I024959537-00
   - domain: isbn
     id: '9784150311360'
-  publish:
-    issued: 2013-11
-    page: 344
-    publisher: 早川書房
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 700
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
+
 - "id": "aa485bd7-79f0-490c-bac3-40f048c0693b"
   "title":
     "name": "ロケットガール 天使は結果オーライ"
@@ -10483,17 +6764,8 @@
     "id": "R100000002-I025170776-00"
   - "domain": "isbn"
     "id": "9784150311476"
-  "publish":
-    "issued": "2014-02"
-    "page": 316
-    "publisher": "ハヤカワ文庫 JA"
-    volume: 2
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 700
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "caed4eab-e8c3-41d9-b706-49123da2dd3f"
   "title":
     "name": "ロケットガール 私と月につきあって"
@@ -10510,17 +6782,8 @@
     "id": "R100000002-I025369362-00"
   - "domain": "isbn"
     "id": "9784150311551"
-  "publish":
-    "issued": "2014-04"
-    "page": 293
-    "publisher": "ハヤカワ文庫 JA"
-    volume: 3
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 680
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
+
 - "id": "46a24e4c-8f89-4d32-93c9-f0b8cbb70c1c"
   "title":
     "name": "ロケットガール 魔法使いとランデヴー"
@@ -10537,16 +6800,6 @@
     "id": "R100000002-I025418013-00"
   - "domain": "isbn"
     "id": "9784150311575"
-  "publish":
-    "issued": "2014-05"
-    "page": 261
-    "publisher": "ハヤカワ文庫 JA"
-    volume: 4
-  "price":
-  - "country": "jp"
-    "last_visit": "2017-05-28"
-    "n": 660
-    "source": "iss.ndl.go.jp"
   "last_update": "2017-05-28"
 
 - id: b19d9100-4df0-4696-bc75-9832eb3e061e
@@ -10562,15 +6815,6 @@
     id: R100000002-I000010778109-00
   - domain: isbn
     id: '9784309410074'
-  publish:
-    issued: 2010-03
-    page: 221
-    publisher: 河出書房新社
-  price:
-  - country: jp
-    last_visit: '2017-05-28'
-    n: 750
-    source: iss.ndl.go.jp
   last_update: '2017-05-28'
 
 - id: 1b878181-531d-487b-9469-bdd7b04135bf
@@ -10586,16 +6830,8 @@
     id: R100000002-I026731168-00
   - domain: isbn
     id: '9784758071413'
-  publish:
-    issued: 2011-07
-    page: 129
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 3be9cd4a-e164-44ac-814b-54a18e60ac6b
   title:
     name: プリンセス♥プリンセス
@@ -10609,16 +6845,8 @@
     id: R100000002-I026731190-00
   - domain: isbn
     id: '9784758071086'
-  publish:
-    issued: 2010-09
-    page: 138
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 93e5fc68-5988-461f-aff1-010d519d5258
   title:
     name: ナチュリーズ
@@ -10632,16 +6860,8 @@
     id: R100000002-I026745212-00
   - domain: isbn
     id: '9784758074063'
-  publish:
-    issued: 2015-05
-    page: 147
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: ee996d62-6aaa-423f-a1b5-e74a4448e56b
   title:
     name: プリンスプリンス
@@ -10655,17 +6875,8 @@
     id: R100000002-I027262265-00
   - domain: isbn
     id: '9784758074827'
-  publish:
-    issued: 2015-11
-    page: 165
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 680
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 08d28b68-bb93-4f91-b18b-c00bfbcb486c
   title:
     name: 初恋構造式
@@ -10679,16 +6890,8 @@
     id: R100000002-I026731114-00
   - domain: isbn
     id: '9784758071949'
-  publish:
-    issued: 2012-06
-    page: 136
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 052b2c57-0cf8-49b7-9b43-e1978bac3baa
   title:
     name: 私の世界を構成する塵のような何か。 1
@@ -10702,17 +6905,8 @@
     id: R100000002-I027966012-00
   - domain: isbn
     id: '9784758072076'
-  publish:
-    issued: 2012-09
-    page: 162
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 08cfbb3d-fe76-4a72-9b1e-76189fe0cfed
   title:
     name: 私の世界を構成する塵のような何か。 2
@@ -10726,17 +6920,8 @@
     id: R100000002-I027966025-00
   - domain: isbn
     id: '9784758072397'
-  publish:
-    issued: 2013-05
-    page: 164
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 12985fe2-5c9e-404e-8199-4a792e579119
   title:
     name: 私の世界を構成する塵のような何か。 3
@@ -10750,17 +6935,8 @@
     id: R100000002-I026731137-00
   - domain: isbn
     id: '9784758072847'
-  publish:
-    issued: 2014-01
-    page: 171
-    publisher: 一迅社
-    volume: 3
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 9a226608-5b3d-4f00-8d5f-151d19f6d923
   title:
     name: Philosophia
@@ -10774,16 +6950,8 @@
     id: R100000002-I026731143-00
   - domain: isbn
     id: '9784758073332'
-  publish:
-    issued: 2014-09
-    page: 189
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 926
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 9148a438-2f55-4719-8197-2762d08ef2ac
   title:
     name: あやめ14 1
@@ -10797,17 +6965,8 @@
     id: R100000002-I026731158-00
   - domain: isbn
     id: '9784758073813'
-  publish:
-    issued: 2015-02
-    page: 148
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 6764431e-1391-4eb8-acf5-d7023c894195
   title:
     name: あやめ14 2
@@ -10821,17 +6980,8 @@
     id: R100000002-I027250456-00
   - domain: isbn
     id: '9784758074933'
-  publish:
-    issued: 2015-11
-    page: 145
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: a381ef2d-dace-4b24-8df6-15a8af71cb64
   title:
     name: Flower*flower
@@ -10845,16 +6995,6 @@
     id: R100000002-I026731189-00
   - domain: isbn
     id: '9784758070362'
-  publish:
-    issued: 2009-01
-    page: 160
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
 
 - id: f55c1afa-0a22-4591-992d-d2b9564d3a9a
@@ -10868,11 +7008,6 @@
   identifier:
   - domain: isbn
     id: '4758070970'
-  publish:
-    issued: "2010-07-17"
-    publisher: 一迅社
-    volume: 1
-  price: []
   last_update: '2017-06-12'
 
 - id: a016b2e9-995c-4371-b484-1c836d5a7f29
@@ -10888,17 +7023,8 @@
     id: R100000002-I026731112-00
   - domain: isbn
     id: '9784758071659'
-  publish:
-    issued: 2011-09
-    page: 123
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 1c50ef80-1475-46b9-86b6-3f7d463d4604
   title:
     name: 最低女神
@@ -10912,16 +7038,8 @@
     id: R100000002-I027965941-00
   - domain: isbn
     id: '9784758071864'
-  publish:
-    issued: 2012-05
-    page: 163
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 0b2311e8-e9d8-4997-95aa-a2bab3f2d027
   title:
     name: イノセントノイズ
@@ -10935,16 +7053,8 @@
     id: R100000002-I026731170-00
   - domain: isbn
     id: '9784758072984'
-  publish:
-    issued: 2014-05
-    page: 130
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 926
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 95bbc396-05bb-4898-9dc3-ab0be48bef38
   title:
     name: Vespa
@@ -10958,15 +7068,8 @@
     id: R100000002-I026731231-00
   - domain: isbn
     id: '9784758073196'
-  publish:
-    issued: 2014-07
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 926
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 4c90b2ae-876c-4b1a-8446-1e4d51478775
   title:
     name: ブラックヤギーと劇薬まどれーぬ
@@ -10980,16 +7083,8 @@
     id: R100000002-I027966000-00
   - domain: isbn
     id: '9784758071925'
-  publish:
-    issued: 2012-06
-    page: 142
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: eab35864-739c-432d-8554-722e66ecbafd
   title:
     name: ストレンジベイビーズ
@@ -11003,16 +7098,8 @@
     id: R100000002-I026731215-00
   - domain: isbn
     id: '9784758072670'
-  publish:
-    issued: 2013-08
-    page: 156
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: ad4753a2-5c42-43a8-9567-578b24738bd0
   title:
     name: 屋上ぴかぴかロマンス
@@ -11026,16 +7113,8 @@
     id: R100000002-I026731204-00
   - domain: isbn
     id: '9784758072854'
-  publish:
-    issued: 2014-02
-    page: 120
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 25655702-c8de-46b4-98fa-c42f0ec2d6e7
   title:
     name: スパイスガールズ
@@ -11049,16 +7128,8 @@
     id: R100000002-I026731195-00
   - domain: isbn
     id: '9784758073820'
-  publish:
-    issued: 2015-02
-    page: 134
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: cdd2dff2-f0f1-40a6-9bd6-0d39956339b0
   title:
     name: 2DK、Gペン、目覚まし時計。 1
@@ -11072,17 +7143,8 @@
     id: R100000002-I026745040-00
   - domain: isbn
     id: '9784758074346'
-  publish:
-    issued: 2015-07
-    page: 169
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 680
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 9a0ef9fd-4850-45a8-924e-e3a1ba4e2015
   title:
     name: 2DK、Gペン、目覚まし時計。 2
@@ -11096,17 +7158,8 @@
     id: R100000002-I027252755-00
   - domain: isbn
     id: '9784758075060'
-  publish:
-    issued: 2016-01
-    page: 88
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 680
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 17b382f6-5a16-49db-8989-0247422d4ecc
   title:
     name: かわいいあなた
@@ -11120,16 +7173,8 @@
     id: R100000002-I027492403-00
   - domain: isbn
     id: '9784758070171'
-  publish:
-    issued: 2007-08
-    page: 140
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: e80b5512-6a33-4cb6-bba5-55c7ccbab2b6
   title:
     name: クローバー
@@ -11143,16 +7188,8 @@
     id: R100000002-I026731134-00
   - domain: isbn
     id: '9784758070355'
-  publish:
-    issued: 2008-11
-    page: 80
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 225365c6-31e6-4701-93f9-1aee3cf6b8dd
   title:
     name: 'オレンジイエロー : 短編集'
@@ -11166,16 +7203,8 @@
     id: R100000002-I027966029-00
   - domain: isbn
     id: '9784758070829'
-  publish:
-    issued: 2010-06
-    page: 92
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 28132884-3f4d-49ec-8b00-663867e6a6b4
   title:
     name: 水色シネマ
@@ -11189,16 +7218,8 @@
     id: R100000002-I026731148-00
   - domain: isbn
     id: '9784758070812'
-  publish:
-    issued: 2010-06
-    page: 152
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 1f0d85a3-9434-4788-96d6-9b701ebf9e61
   title:
     name: 少女惑星
@@ -11212,15 +7233,8 @@
     id: R100000002-I026731157-00
   - domain: isbn
     id: '9784758072311'
-  publish:
-    issued: 2013-04
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 0e8bafc2-e7eb-42f0-9f99-8acffda4ffa0
   title:
     name: 'GIRLS UP-RISING : カズアキ×深見真 百合姫表紙画集'
@@ -11237,16 +7251,8 @@
     id: R100000002-I025153606-00
   - domain: isbn
     id: '9784758072939'
-  publish:
-    issued: 2014-02
-    page: 81
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 2000
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 7855dff0-1b5c-4258-8356-52b0aea2a7a1
   title:
     name: ×××したいくらい可愛い君が
@@ -11260,16 +7266,8 @@
     id: R100000002-I026745238-00
   - domain: isbn
     id: '9784758074117'
-  publish:
-    issued: 2015-05
-    page: 144
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 7e7adcbf-22a8-45ad-84bc-c5cebdb831d2
   title:
     name: 住めど地獄のインフェルノ
@@ -11283,17 +7281,8 @@
     id: R100000002-I027262126-00
   - domain: isbn
     id: '9784758075015'
-  publish:
-    issued: 2015-12
-    page: 165
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 680
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 49d3d355-8638-42ad-9a61-e6ae6b57edaa
   title:
     name: 純水アドレッセンス
@@ -11307,16 +7296,8 @@
     id: R100000002-I027492593-00
   - domain: isbn
     id: '9784758070416'
-  publish:
-    issued: 2009-02
-    page: 148
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 8c3e0bdb-7977-4f10-bbc8-0eba46d0cb3f
   title:
     name: さよならフォークロア
@@ -11330,16 +7311,8 @@
     id: R100000002-I027965906-00
   - domain: isbn
     id: '9784758071246'
-  publish:
-    issued: 2010-12
-    page: 132
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 87ce82c5-30ef-480c-861b-0554b058ff45
   title:
     name: 名前はまだない
@@ -11353,16 +7326,8 @@
     id: R100000002-I027965900-00
   - domain: isbn
     id: '9784758072373'
-  publish:
-    issued: 2013-05
-    page: 140
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: a5394fb5-c02e-417d-8b00-d185f39eda2d
   title:
     name: 明日の君に花束を
@@ -11376,16 +7341,8 @@
     id: R100000002-I026731218-00
   - domain: isbn
     id: '9784758073455'
-  publish:
-    issued: 2014-10
-    page: 142
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 04aa9a7f-4949-4337-9dcd-63bdf35f9e52
   title:
     name: ラストワルツ
@@ -11399,17 +7356,8 @@
     id: R100000002-I027262127-00
   - domain: isbn
     id: '9784758075077'
-  publish:
-    issued: 2016-01
-    page: 161
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 680
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: d23937ae-5e71-4808-a6df-3392420830be
   title:
     name: 初恋テクトニクス
@@ -11423,16 +7371,8 @@
     id: R100000002-I027965998-00
   - domain: isbn
     id: '9784758071574'
-  publish:
-    issued: 2011-08
-    page: 114
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 95c46dcf-5620-4fd8-95e3-e38f6b933073
   title:
     name: サイダーと泣き虫。
@@ -11446,16 +7386,8 @@
     id: R100000002-I026731230-00
   - domain: isbn
     id: '9784758073974'
-  publish:
-    issued: 2015-04
-    page: 144
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 84e7a610-7eb5-4495-90cb-b2f5f4b5b6fd
   title:
     name: マーメイドライン
@@ -11469,15 +7401,6 @@
     id: R100000002-I027492413-00
   - domain: isbn
     id: '9784758070256'
-  publish:
-    issued: 2008-03
-    page: 145
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
 
 - id: 2af41ce3-e1ed-42c5-a210-fc211cad7e82
@@ -11491,11 +7414,6 @@
   identifier:
   - domain: isbn
     id: '4758072248'
-  publish:
-    issued: "2013-01-18"
-    publisher: 一迅社
-    volume: 1
-  price: []
   last_update: '2017-06-12'
 
 - id: 742b625e-81e8-4434-b59f-2bf6189fecbe
@@ -11511,17 +7429,8 @@
     id: R100000002-I026731239-00
   - domain: isbn
     id: '9784758072793'
-  publish:
-    issued: 2013-12
-    page: 140
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 819
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 5c992deb-c242-4f77-8aa8-5768064c9465
   title:
     name: 犬神さんと猫山さん 3
@@ -11535,17 +7444,8 @@
     id: R100000002-I026731245-00
   - domain: isbn
     id: '9784758072991'
-  publish:
-    issued: 2014-05
-    page: 120
-    publisher: 一迅社
-    volume: 3
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 819
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 0b6599d1-6dbf-462a-92b7-279851b577f7
   title:
     name: 犬神さんと猫山さん 4
@@ -11559,17 +7459,8 @@
     id: R100000002-I026731250-00
   - domain: isbn
     id: '9784758073981'
-  publish:
-    issued: 2015-04
-    page: 136
-    publisher: 一迅社
-    volume: 4
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 819
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: d40ac8b6-2154-409c-8e83-08ba3541a825
   title:
     name: 愛羅武勇より愛してる
@@ -11583,16 +7474,8 @@
     id: R100000002-I026745280-00
   - domain: isbn
     id: '9784758074070'
-  publish:
-    issued: 2015-05
-    page: 144
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 40aa8057-b24c-4bf8-8e52-f3556a8f337c
   title:
     name: リンケージ
@@ -11606,15 +7489,8 @@
     id: R100000002-I027965948-00
   - domain: isbn
     id: '9784758070522'
-  publish:
-    issued: 2009-07
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: dcd58212-67dd-44af-91f8-a3fbe8a868b6
   title:
     name: それでもやっぱり恋をする。
@@ -11628,16 +7504,8 @@
     id: R100000002-I026733733-00
   - domain: isbn
     id: '9784758071277'
-  publish:
-    issued: 2011-01
-    page: 144
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: f3be5ce6-28ec-4054-88b3-07547cf40aa1
   title:
     name: 百合男子 1
@@ -11651,12 +7519,8 @@
     id: R100000002-I026731310-00
   - domain: isbn
     id: '9784758071895'
-  publish:
-    issued: 2011-08
-    publisher: 一迅社
-    volume: 1
-  price: []
   last_update: '2017-06-12'
+
 - id: 03f94dcf-cc64-4f17-a8c9-878157274224
   title:
     name: 百合男子 2
@@ -11672,17 +7536,8 @@
     id: '4758071888'
   - domain: isbn
     id: '9784758071895'
-  publish:
-    issued: 2012-07
-    page: 183
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 1400
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 5b2da60c-c109-49b6-86ff-87d31ee1095f
   title:
     name: 百合男子 3
@@ -11696,17 +7551,8 @@
     id: R100000002-I026731315-00
   - domain: isbn
     id: '9784758072267'
-  publish:
-    issued: 2013-02
-    page: 163
-    publisher: 一迅社
-    volume: 3
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: a8bc0482-2bee-4d91-9583-8ae1e2d38b79
   title:
     name: 百合男子 4
@@ -11720,17 +7566,8 @@
     id: R100000002-I026731320-00
   - domain: isbn
     id: '9784758072663'
-  publish:
-    issued: 2013-08
-    page: 165
-    publisher: 一迅社
-    volume: 4
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 1143
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 1d6c9f2e-57b0-4db2-adad-cf7362115104
   title:
     name: 百合男子 5
@@ -11744,17 +7581,8 @@
     id: R100000002-I026731329-00
   - domain: isbn
     id: '9784758073165'
-  publish:
-    issued: 2014-07
-    page: 197
-    publisher: 一迅社
-    volume: 5
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: fe56dfa6-a87f-45fd-bc17-e624b56b6b58
   title:
     name: 俺の嫁なんていねぇ!
@@ -11768,17 +7596,8 @@
     id: R100000002-I027262129-00
   - domain: isbn
     id: '9784758074766'
-  publish:
-    issued: 2015-11
-    page: 164
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 680
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 781dd849-8193-45a9-99f9-a2d14af1d0c9
   title:
     name: 水色エーテル
@@ -11792,16 +7611,8 @@
     id: R100000002-I026731264-00
   - domain: isbn
     id: '9784758071550'
-  publish:
-    issued: 2011-08
-    page: 110
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: ca92e7f3-a497-4a5b-8a7e-d1436c48df24
   title:
     name: 茜色コンフィチュール
@@ -11815,16 +7626,8 @@
     id: R100000002-I026731274-00
   - domain: isbn
     id: '9784758072120'
-  publish:
-    issued: 2012-10
-    page: 134
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 785f97a2-55c4-42c9-ab10-780a5d14da80
   title:
     name: マテリアルキャンディ
@@ -11838,15 +7641,8 @@
     id: R100000002-I026731259-00
   - domain: isbn
     id: '9784758072472'
-  publish:
-    issued: 2013-06
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 93f3b52d-5f86-4912-96db-3c23a8eb4f42
   title:
     name: インフェルノガール
@@ -11860,15 +7656,8 @@
     id: R100000002-I026731243-00
   - domain: isbn
     id: '9784758072953'
-  publish:
-    issued: 2014-03
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 2572f307-70b6-4a1d-b8f8-c238d442d858
   title:
     name: レンアイマンガ
@@ -11882,16 +7671,8 @@
     id: R100000002-I026733763-00
   - domain: isbn
     id: '9784758073738'
-  publish:
-    issued: 2014-12
-    page: 167
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 926
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: ed6070f1-5df5-4718-bb07-6418020f6bff
   title:
     name: '捏造トラップ : NTR'
@@ -11905,17 +7686,8 @@
     id: R100000002-I026745042-00
   - domain: isbn
     id: '9784758074339'
-  publish:
-    issued: 2015-07
-    page: 164
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 680
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: a6cf64e8-49d7-44df-a0e8-893b3cd43a4f
   title:
     name: 春夏秋冬
@@ -11929,16 +7701,8 @@
     id: R100000002-I027494958-00
   - domain: isbn
     id: '9784758070119'
-  publish:
-    issued: 2007-05
-    page: 174
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 4801e0a0-d395-4e95-830a-c8c13fe6e67a
   title:
     name: 恋愛遺伝子XX (ダブルエックス) 1
@@ -11952,17 +7716,8 @@
     id: R100000002-I026733789-00
   - domain: isbn
     id: '9784758071437'
-  publish:
-    issued: 2011-07
-    page: 158
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 1800
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 506b1bf4-3a76-42c5-9f46-c04ae37a8f47
   title:
     name: 恋愛遺伝子XX (ダブルエックス) 2
@@ -11976,17 +7731,8 @@
     id: R100000002-I026733810-00
   - domain: isbn
     id: '9784758072892'
-  publish:
-    issued: 2014-02
-    page: 168
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: ec3edecc-de66-4bdb-a037-61315b506198
   title:
     name: パイをあげましょ、あなたにパイをね
@@ -12000,16 +7746,8 @@
     id: R100000002-I027965963-00
   - domain: isbn
     id: '9784758071765'
-  publish:
-    issued: 2012-02
-    page: 145
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 2298d6ff-27fb-4704-a235-e01ece659364
   title:
     name: 沼、暗闇、夜の森
@@ -12023,16 +7761,8 @@
     id: R100000002-I027965915-00
   - domain: isbn
     id: '9784758072250'
-  publish:
-    issued: 2013-02
-    page: 147
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 5fa948f6-fe9c-4db1-aa56-fd702740748d
   title:
     name: Citrus 1
@@ -12050,17 +7780,8 @@
     id: R100000002-I026745033-00
   - domain: isbn
     id: '9784758074520'
-  publish:
-    issued: 2013-08
-    page: 108
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 6b2c9440-679e-4d9e-8cff-1ee41aa4bed4
   title:
     name: Citrus 2
@@ -12078,17 +7799,8 @@
     id: R100000002-I026745035-00
   - domain: isbn
     id: '9784758074537'
-  publish:
-    issued: 2014-04
-    page: 164
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 6c4c31b7-8e3b-4dd3-904a-b80c83051efb
   title:
     name: Citrus 3
@@ -12106,17 +7818,8 @@
     id: R100000002-I026745036-00
   - domain: isbn
     id: '9784758074544'
-  publish:
-    issued: 2014-12
-    page: 158
-    publisher: 一迅社
-    volume: 3
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 9f8e6eea-1ae9-4a99-8db7-764b13f418e1
   title:
     name: Citrus 4
@@ -12130,17 +7833,8 @@
     id: R100000002-I026745037-00
   - domain: isbn
     id: '9784758074483'
-  publish:
-    issued: 2015-08
-    page: 164
-    publisher: 一迅社
-    volume: 4
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 680
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 9eb8a7d9-a673-494c-b071-5d5255cb2b62
   title:
     name: 初恋姉妹 1
@@ -12154,17 +7848,8 @@
     id: R100000002-I027965940-00
   - domain: isbn
     id: '4758070024'
-  publish:
-    issued: 2006-04
-    page: 130
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: ca14ff09-da7e-4a23-a3dd-c847309484a0
   title:
     name: 初恋姉妹 2
@@ -12178,17 +7863,8 @@
     id: R100000002-I027965955-00
   - domain: isbn
     id: '9784758070133'
-  publish:
-    issued: 2007-05
-    page: 140
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 8059f4fb-b2c8-4c3b-b4e5-7cdf3bdc9a9f
   title:
     name: 初恋姉妹 3
@@ -12202,17 +7878,8 @@
     id: R100000002-I027965967-00
   - domain: isbn
     id: '9784758070263'
-  publish:
-    issued: 2008-05
-    page: 146
-    publisher: 一迅社
-    volume: 3
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: c42e2458-0f12-4e62-bcc0-d8aa872beb44
   title:
     name: '百合心中 : 猫目堂ココロ譚'
@@ -12226,16 +7893,8 @@
     id: R100000002-I027492440-00
   - domain: isbn
     id: '9784758070560'
-  publish:
-    issued: 2009-08
-    page: 142
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: a9cbe666-cfed-44b9-ac33-3e04e787a7e0
   title:
     name: '少女薄命 : 猫目堂ココロ譚'
@@ -12249,16 +7908,8 @@
     id: R100000002-I027965969-00
   - domain: isbn
     id: '9784758070836'
-  publish:
-    issued: 2010-06
-    page: 142
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 04ef3257-dae7-4a66-ac00-e7187b100cf7
   title:
     name: '恋愛彼岸 : 猫目堂ココロ譚'
@@ -12272,16 +7923,8 @@
     id: R100000002-I026733858-00
   - domain: isbn
     id: '9784758071406'
-  publish:
-    issued: 2011-05
-    page: 140
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 7b9f37bb-f8d4-4bae-8384-24b3e084131e
   title:
     name: 絶対少女アストライア
@@ -12295,16 +7938,8 @@
     id: R100000002-I026733854-00
   - domain: isbn
     id: '9784758071192'
-  publish:
-    issued: 2010-11
-    page: 152
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: e3e839bc-7b86-4913-b376-abf0f55fbfba
   title:
     name: 倒錯少女症候群
@@ -12318,16 +7953,8 @@
     id: R100000002-I026745296-00
   - domain: isbn
     id: '9784758074100'
-  publish:
-    issued: 2015-05
-    page: 160
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: aa3d444c-0261-421f-8d7f-15bf5ca0e513
   title:
     name: ガールズ・シンドローム
@@ -12341,16 +7968,8 @@
     id: R100000002-I026734273-00
   - domain: isbn
     id: '9784758073202'
-  publish:
-    issued: 2014-07
-    page: 145
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 926
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 6fa97232-9268-4075-83a6-54d79db23213
   title:
     name: すこやかパラダイムシフト
@@ -12364,16 +7983,8 @@
     id: R100000002-I026733869-00
   - domain: isbn
     id: '9784758071178'
-  publish:
-    issued: 2010-11
-    page: 140
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: c46d2f6f-dc6a-4881-ad23-7733fe5a1712
   title:
     name: よめとり!
@@ -12387,16 +7998,8 @@
     id: R100000002-I026745301-00
   - domain: isbn
     id: '9784758074247'
-  publish:
-    issued: 2015-06
-    page: 138
-    publisher: 一迅社
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 852
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 8cf1bfb6-c6c8-449d-898f-97f35e0d8deb
   title:
     name: オトメキカングレーテル
@@ -12410,17 +8013,8 @@
     id: R100000002-I026733767-00
   - domain: isbn
     id: '9784758070379'
-  publish:
-    issued: 2009-01
-    page: 138
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: f7e4eab7-94da-4f9c-906f-9c0bddaa72b0
   title:
     name: 月と世界とエトワール 1
@@ -12434,16 +8028,8 @@
     id: R100000002-I026733785-00
   - domain: isbn
     id: '9784758072564'
-  publish:
-    issued: 2013-07
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 68fc5a6a-a42f-4088-a69d-4461516abb74
   title:
     name: 月と世界とエトワール 2
@@ -12457,17 +8043,8 @@
     id: R100000002-I026733801-00
   - domain: isbn
     id: '9784758072878'
-  publish:
-    issued: 2014-02
-    page: 139
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: c61d635a-87eb-47f5-a86e-40a521270087
   title:
     name: 月と世界とエトワール 3
@@ -12481,17 +8058,8 @@
     id: R100000002-I026733814-00
   - domain: isbn
     id: '9784758073356'
-  publish:
-    issued: 2014-09
-    page: 121
-    publisher: 一迅社
-    volume: 3
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 926
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: bc48f5cb-88f9-4325-ab2e-fa74b9508778
   title:
     name: 月と世界とエトワール 4
@@ -12505,17 +8073,8 @@
     id: R100000002-I026733829-00
   - domain: isbn
     id: '9784758073967'
-  publish:
-    issued: 2015-04
-    page: 145
-    publisher: 一迅社
-    volume: 4
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 926
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 3c8dff11-3a96-43a9-bd8a-973f0ba8839c
   title:
     name: カシオペア・ドルチェ 1
@@ -12529,17 +8088,8 @@
     id: R100000002-I026733843-00
   - domain: isbn
     id: '9784758070386'
-  publish:
-    issued: 2009-01
-    page: 154
-    publisher: 一迅社
-    volume: 1
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: 8597f51c-d8ec-4907-9f02-a15811896b14
   title:
     name: カシオペア・ドルチェ 2
@@ -12553,17 +8103,8 @@
     id: R100000002-I026733848-00
   - domain: isbn
     id: '9784758070690'
-  publish:
-    issued: 2010-02
-    page: 158
-    publisher: 一迅社
-    volume: 2
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
+
 - id: d98e9a2e-cfe0-400b-ad61-ba6dc34ed1a3
   title:
     name: カシオペア・ドルチェ 3
@@ -12577,14 +8118,4 @@
     id: R100000002-I026733851-00
   - domain: isbn
     id: '9784758071581'
-  publish:
-    issued: 2011-08
-    page: 144
-    publisher: 一迅社
-    volume: 3
-  price:
-  - country: jp
-    last_visit: '2017-05-22'
-    n: 857
-    source: iss.ndl.go.jp
   last_update: '2017-05-22'
