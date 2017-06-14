@@ -42,33 +42,7 @@ schema:
           id:
             type: string
             required: true
-    links:
-      type: list
-      schema:
-        type: dict
-        schema:
-          title:
-            type: string
-            required: true
-          url:
-            type: string
-            required: true
-          type:
-            type: string
-            required: true
-          last_visit:
-            type: string
-            regex: \d{4}(-\d{2})?(-\d{2})?
-            required: true
     last_update:
       type: string
       regex: \d{4}-\d{2}-\d{2}
       required: true
-    prev:
-      type: string
-      required: false
-      regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
-    next:
-      type: string
-      required: false
-      regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
