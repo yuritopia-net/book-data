@@ -42,38 +42,6 @@ schema:
           id:
             type: string
             required: true
-    publish:
-      type: dict
-      schema:
-        volume:
-          type: integer
-        publisher:
-          type: string
-        issued:
-          type: string
-          regex: \d{4}(-\d{2})?(-\d{2})?
-        page:
-          type: integer
-    price:
-      type: list
-      schema:
-        type: dict
-        schema:
-          n:
-            type: integer
-          country:
-            type: string
-            required: true
-          source:
-            type: string
-            required: true
-          last_visit:
-            type: string
-            regex: \d{4}-\d{2}-\d{2}
-    toc:
-      type: list
-      schema:
-        type: string
     links:
       type: list
       schema:

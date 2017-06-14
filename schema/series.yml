@@ -1,0 +1,19 @@
+type: list
+schema:
+  type: dict
+  schema:
+    name:
+      type: string
+      required: true
+    series:
+      type: list
+      schema:
+        type: dict
+        schema:
+          id:
+            type: string
+            required: true
+            regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
+          title:
+            type: string
+            required: true

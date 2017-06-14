@@ -7,3 +7,7 @@ install:
 script:
   - ./test/validate.py schema/authors.yml data/authors.yml
   - ./test/validate.py schema/books.yml data/books.yml
+  - ./test/validate.py schema/publish.yml data/publish.yml
+  - ./test/validate.py schema/review.yml data/review.yml --item-id=domain
+  - ./test/validate.py schema/series.yml data/series.yml --item-id=name
+  - ./test/validate.py schema/title.yml data/title.yml

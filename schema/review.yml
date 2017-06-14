@@ -1,0 +1,52 @@
+type: list
+schema:
+  type: dict
+  schema:
+    domain:
+      type: string
+      required: true
+    site:
+      type: dict
+      schema:
+        url:
+          type: string
+          required: true
+        name:
+          type: string
+          required: true
+        pages:
+          type: list
+          schema:
+            type: dict
+            schema:
+              id:
+                type: string
+                required: true
+                regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
+              url:
+                type: string
+                required: true
+              title:
+                type: string
+                required: true
+              last_visit:
+                type: string
+                regex: \d{4}-\d{2}-\d{2}
+                required: true
+              products:
+                type: list
+                required: true
+                schema:
+                  type: dict
+                  schema:
+                    id:
+                      type: string
+                      required: true
+                      regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
+                    title:
+                      type: string
+                      required: true
+                    type:
+                      type: string
+                      regex: (abstract)
+                      required: true

@@ -14,6 +14,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("schema", type=argparse.FileType("r"))
     parser.add_argument("input", type=argparse.FileType("r"))
+    parser.add_argument("--item-id", default="id")
 
     args = parser.parse_args()
 
@@ -27,7 +28,7 @@ def main():
         return 1
 
     assert isinstance(data, list)
-    index_map = dict((i, x["id"]) for i, x in enumerate(data))
+    index_map = dict((i, x.get(args.item_id)) for i, x in enumerate(data))
 
     validator = Validator({"#root": schema})
 

@@ -1,0 +1,43 @@
+type: list
+schema:
+  type: dict
+  schema:
+    id:
+      type: string
+      required: true
+      regex: ^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$
+    title:
+      type: string
+      required: true
+    publish:
+      type: list
+      schema:
+        type: dict
+        schema:
+          publisher:
+            type: string
+          issued:
+            type: string
+            regex: \d{4}(-\d{2})?(-\d{2})?
+          page:
+            type: integer
+          isbn13:
+            type: string
+          isbn10:
+            type: string
+          price:
+            type: list
+            schema:
+              type: dict
+              schema:
+                n:
+                  type: integer
+                country:
+                  type: string
+                  required: true
+                source:
+                  type: string
+                  required: true
+                last_visit:
+                  type: string
+                  regex: \d{4}-\d{2}-\d{2}
