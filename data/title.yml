@@ -135,3 +135,258 @@
       "name": "ジャンプSQ"
       "date": "2009-08"
       "publisher": "集英社"
+
+- "id": ""
+  "name": "ユリイカ2014年12月号　特集＝百合文化の現在"
+  "titles":
+  - "id": ""
+    "title": "【少女小説の精神】 『マリア様がみてる』のまなざし　“姉妹”たちの息づく場所"
+    "author":
+    - "id": ""
+      "name": "今野緒雪"
+      "type": "author"
+    - "id": ""
+      "name": "青柳美帆子"
+      "type": "editor"
+    "related":
+      "creators":
+      - "id": "2b47e1fa-e185-45d4-8e26-a15d800d4775"
+        "name": "今野緒雪"
+      - "id": "25eb52b5-6216-487a-ab92-d7e52397c083"
+        "name": "吉屋信子"
+      "books":
+      - "id": "1c7b3a02-f947-42a3-bce7-b568176118dd"
+        "name": "マリア様がみてる"
+      - "id": "47f9ba8c-2ad5-4ec5-ba18-954cdf6b27cc"
+        "name": "花物語"
+      - "id": ""
+        "name": "雨のティアラ"
+    "event":
+    - "date": "1997-02"
+      "type": "publish"
+      "data":
+        "id": ""
+        "name": "Cobalt vol.1997-02"
+    - "date": "2014-10-28"
+      "type": "text"
+      "data": "集英社にて収録"
+    "context":
+    - "quote": "今野さんはBLを読んでいましたか？"
+      "type": "person"
+      "data":
+      - "id": ""
+        "name": "萩尾望都"
+      - "id": ""
+        "name": "木原敏江"
+      - "id": ""
+        "name": "山岸涼子"
+      - "id": ""
+        "name": "大島弓子"
+      - "id": ""
+        "name": "岩舘真理子"
+      - "id": ""
+        "name": "内田善美"
+      - "id": ""
+        "name": "上原きみ子"
+  - "id": ""
+    "title": "【少女小説の精神】 半壊のシンボル　吉屋信子と百合的欲望の共同体"
+    "author":
+    - "id": ""
+      "name": "川崎賢子"
+      "type": "author"
+    "related":
+      "creators":
+      - "id": "25eb52b5-6216-487a-ab92-d7e52397c083"
+        "name": "吉屋信子"
+      "books":
+      - "id": "b19d9100-4df0-4696-bc75-9832eb3e061e"
+        "name": "わすれなぐさ"
+    "event":
+    - "date": "1932"
+      "type": "publish"
+      "data":
+        "id": ""
+        "name": "『少女の友』: わすれなぐさ"
+
+TODO
+
+  - "id": ""
+    "title": "【少女小説の精神】 「突然の百合」という視座　多和田葉子、吉屋信子、宮本百合子をとおして"
+    "author":
+    - "id": ""
+      "name": "木村朗子"
+      "type": "author"
+    "related":
+      "creators":
+      - "id": ""
+        "name": "多和田葉子"
+      - "id": "25eb52b5-6216-487a-ab92-d7e52397c083"
+        "name": "吉屋信子"
+      - "id": ""
+        "name": "宮本百合子"
+  - "id": ""
+    "title": "【少女小説の精神】 吉屋信子から氷室冴子へ　少女小説と「誇り」の系譜"
+    "author":
+    - "id": ""
+      "name": "嵯峨景子"
+      "type": "author"
+    "related":
+      "creators":
+      - "id": "25eb52b5-6216-487a-ab92-d7e52397c083"
+        "name": "吉屋信子"
+      - "id": ""
+        "name": "氷室冴子"
+  - "id": ""
+    "title": "【少女小説の精神】 解放区としての百合"
+    "author":
+    - "id": "25b1ab5f-d887-4554-9835-90be651db24f"
+      "name": "中里一"
+      "type": "author"
+  - "id": ""
+    "title": "【“現実”との接線】 女たちの関係性を表象すること　レズビアンへのまなざしをめぐるノート"
+    "author":
+    - "id": ""
+      "name": "堀江有里"
+      "type": "author"
+  - "id": ""
+    "title": "【“現実”との接線】 百合レズ論争戦絵巻"
+    "author":
+    - "id": ""
+      "name": "牧村朝子"
+      "type": "author"
+  - "id": ""
+    "title": "【彼女たちの友愛、あるいは恋模様】 女子と／の恋愛　百合という観測問題"
+    "author":
+    - "id": "6f9d95d8-07e4-4939-a2c4-af932aaf6882"
+      "name": "天野しゅにんた"
+      "type": "author"
+    - "id": ""
+      "name": "青柳美帆子"
+      "type": "editor"
+  - "id": ""
+    "title": "【彼女たちの友愛、あるいは恋模様】 「百合」の来し方　「女どうしの愛」をマンガはどう描いてきたか？"
+    "author":
+    - "id": ""
+      "name": "藤本由香里"
+      "type": "author"
+  - "id": ""
+    "title": "【彼女たちの友愛、あるいは恋模様】 女の子たちの突破口"
+    "author":
+    - "id": ""
+      "name": "川口晴美"
+      "type": "author"
+  - "id": ""
+    "title": "【彼女たちの友愛、あるいは恋模様】 「百合」の栽培に向いた土壌、日本"
+    "author":
+    - "id": ""
+      "name": "高嶋リカ"
+      "type": "author"
+  - "id": ""
+    "title": "【彼女たちの友愛、あるいは恋模様】 read between the lines"
+    "author":
+    - "id": "789eacf4-535f-4dcf-b6d3-a8c14f51082b"
+      "name": "西ＵＫＯ"
+      "type": "author"
+  - "id": ""
+    "title": "【彼女たちの友愛、あるいは恋模様】 同じ物語なのになぜレズビアンが疎外感を味わうのか　『LOVE MY LIFE』映画版の謎を分析する"
+    "author":
+    - "id": ""
+      "name": "溝口彰子"
+      "type": "author"
+  - "id": ""
+    "title": "【「百合」に交わるもの】 それが恋なら必然　『彼女とカメラと彼女の季節』の写した彼女と彼女と彼について"
+    "author":
+    - "id": ""
+      "name": "月子"
+      "type": "author"
+    - "id": ""
+      "name": "玉木サナ"
+      "type": "editor"
+    "related":
+      "books":
+      - "id": "ade9a4e2-fbad-43d8-9479-3849188b01ff"
+        "name": "彼女とカメラと彼女の季節"
+  - "id": ""
+    "title": "【「百合」に交わるもの】 百合　境界なきジャンル"
+    "author":
+    - "id": ""
+      "name": "エリカ・フリードマン"
+      "type": "author"
+    - "id": ""
+      "name": "椎名ゆかり"
+      "type": "translator"
+  - "id": ""
+    "title": "【「百合」に交わるもの】 倉田嘘『百合男子』に表わされた百合ファンダムの姿についての一考察"
+    "author":
+    - "id": ""
+      "name": "ジェームズ・ウェルカー"
+      "type": "author"
+    "related":
+      "creators":
+      - "id": "c6a2c466-d6a0-474d-a030-54a131a18888"
+        "name": "倉田嘘"
+      "books":
+      - "id": "f3be5ce6-28ec-4054-88b3-07547cf40aa1"
+        "name": "百合男子"
+  - "id": ""
+    "title": "【「百合」に交わるもの】 いろんな百合が咲けばいい、わたしは血の色の百合が見たい"
+    "author":
+    - "id": ""
+      "name": "玉木サナ"
+      "type": "author"
+  - "id": ""
+    "title": "【「百合」に交わるもの】 マンガの世界を構成する塵のような何か。　百合はジャンル境界を描きかえるのか"
+    "author":
+    - "id": ""
+      "name": "日高利泰"
+      "type": "author"
+    "related":
+      "creators":
+      - "id": "6f9d95d8-07e4-4939-a2c4-af932aaf6882"
+        "name": "天野しゅにんた"
+      "books":
+      - "id": "052b2c57-0cf8-49b7-9b43-e1978bac3baa"
+        "name": "私の世界を構成する塵のような何か。"
+  - "id": ""
+    "title": "【“少女”（たち）の行方】 百合を探してどこまでも"
+    "author":
+    - "id": ""
+      "name": "綾奈ゆにこ"
+      "type": "author"
+    - "id": ""
+      "name": "キツカワトモ"
+      "type": "editor"
+  - "id": ""
+    "title": "【“少女”（たち）の行方】 戦闘美少女と叫び、そして百合"
+    "author":
+    - "id": ""
+      "name": "石田美紀"
+      "type": "author"
+  - "id": ""
+    "title": "【“少女”（たち）の行方】 内なる少女を救い出すこと　『シムーン』の孤独と連帯"
+    "author":
+    - "id": ""
+      "name": "上田麻由子"
+      "type": "author"
+    "related":
+      "anime":
+      - "id": ""
+        "name": "シムーン"
+  - "id": ""
+    "title": "【“少女”（たち）の行方】 あなたの痛みは私そのもの　共闘する〈魔法〉少女たちのやすらぎ"
+    "author":
+    - "id": ""
+      "name": "須川亜紀子"
+      "type": "author"
+  - "id": ""
+    "title": "【NO YURI, NO LIFE.】 百合文化に分け入るために　作品・人物・メディアガイド"
+    "author":
+    - "id": ""
+      "name": "青柳美帆子"
+      "type": "author"
+    - "id": ""
+      "name": "玉木サナ"
+      "type": "author"
+    - "id": ""
+      "name": "長門裕介"
+      "type": "author"

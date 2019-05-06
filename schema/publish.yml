@@ -21,6 +21,8 @@ schema:
             regex: \d{4}(-\d{2})?(-\d{2})?
           page:
             type: integer
+          volume:
+            type: integer
           isbn13:
             type: string
           isbn10:

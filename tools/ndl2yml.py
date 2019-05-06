@@ -63,40 +63,17 @@ def ndldate2date(text):
     return text
 
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("id")
-    parser.add_argument("--disable-author", action="store_true")
-
-    args = parser.parse_args()
-
-    id = args.id
-    if id.startswith("http://iss.ndl.go.jp/books/"):
-        id = id[len("http://iss.ndl.go.jp/books/"):]
-
-    resp = requests.get(
-        "http://iss.ndl.go.jp/books/{}.json".format(id),
-        headers={
-            "User-Agent": "lilybot +http://www.yuritopia.net/policy/bot.html",
-        }
-    )
-
-    if resp.status_code == 404:
-        print("Not found:", args.id)
-        return 1
-
-    data = resp.json()
-
+def json2data(id, data):
     now = datetime.datetime.now()
 
     temp = OrderedDict()
     temp["id"] = str(uuid.uuid4())
     temp["title"] = OrderedDict([
         ("name", data["title"][0]["value"]),
-        ("kana", normalize(data["title"][0]["transcription"])),
+        ("kana", normalize(data["title"][0].get("transcription", ""))),
     ])
     temp["creator"] = []
-    for creator in data["creator"]:
+    for creator in data.get("creator") or data.get("dc_creator", []):
         temp["creator"].append(OrderedDict([
             ("id", "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"),
             ("name", creator["name"]),
@@ -132,6 +109,33 @@ def main():
             }
         ]
     temp["last_update"] = now.strftime("%Y-%m-%d")
+    return temp
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("id")
+    parser.add_argument("--disable-author", action="store_true")
+
+    args = parser.parse_args()
+
+    id = args.id
+    if id.startswith("http://iss.ndl.go.jp/books/"):
+        id = id[len("http://iss.ndl.go.jp/books/"):]
+
+    resp = requests.get(
+        "http://iss.ndl.go.jp/books/{}.json".format(id),
+        headers={
+            "User-Agent": "lilybot +http://www.yuritopia.net/policy/bot.html",
+        }
+    )
+
+    if resp.status_code == 404:
+        print("Not found:", args.id)
+        return 1
+
+    data = resp.json()
+    temp = json2data(id, data)
 
     print(yaml.dump([temp], allow_unicode=True, default_flow_style=False, indent=1))
 

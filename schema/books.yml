@@ -30,7 +30,7 @@ schema:
           type:
             type: string
             required: true
-            regex: (author|illust|translator|original|commentator)
+            regex: (author|illustrator|translator|original_author|commentator)
     identifier:
       type: list
       schema:
@@ -42,6 +42,10 @@ schema:
           id:
             type: string
             required: true
+    type:
+      type: string
+      required: true
+      regex: (novel|comic)
     last_update:
       type: string
       regex: \d{4}-\d{2}-\d{2}
